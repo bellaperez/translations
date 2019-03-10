@@ -1,0 +1,1302 @@
+ <resources>
+        <string name="app_name">CPU X</string>
+
+
+        <string name="sign_in">Sign In</string>
+
+
+        <string-array name="planets_array">
+            <item>Battery</item>
+            <item>Screen Size</item>
+            <item>Length</item>
+            <item>Width</item>
+            <item>Thickness</item>
+            <item>Weight</item>
+            <item>Model Name</item>
+            <item>Glass</item>
+            <item>Water-Resistance</item>
+            <item>CPU</item>
+            <item>Fab</item>
+            <item>Rear Camera</item>
+            <item>Front Camera</item>
+
+        </string-array>
+
+        <string-array name="cores_array">
+            <item>Single-core</item>
+            <item>Dual-core</item>
+            <item>Quad-core</item>
+            <item>Hexa-core</item>
+            <item>Octa-core</item>
+            <item>Deca-core</item>
+        </string-array>
+
+        <string name="navigation_drawer_open">Open navigation drawer</string>
+        <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+
+        <string name="rta_dialog_ok">Rate</string>
+        <string name="rta_dialog_no">No, thanks</string>
+        <string name="cancel">Cancel</string>
+
+        <string name="category1">Application Settings</string>
+
+
+        <string name="summary_switch_preference1">Default is bytes/s , 1 byte = 8 bits</string>
+        <string name="summary_switch_preference2">Show Battery Temperature in Notifications</string>
+        <string name="summary_switch_preference3">Default is Celsius</string>
+        <string name="title_switch_preference1">Speed in bits/s</string>
+        <string name="title_switch_preference2"> Temperature Monitor</string>
+        <string name="title_switch_preference3">Temperature in Fahrenheit</string>
+
+
+
+        <string name="battery_level">Battery Level</string>
+        <string name="battery_temperature">Battery Temperature</string>
+        <string name="battery_voltage">Battery Voltage</string>
+        <string name="battery_technology">Battery Technology</string>
+        <string name="battery_status">Battery Status</string>
+        <string name="power_source">Power Source</string>
+        <string name="battery_capacity">Battery Capacity</string>
+        <string name="current_meter">Current Meter</string>
+
+        <string name="Available">Supported</string>
+
+        <string name="no_connection">No internet connection , Data speed will show when internet is connected</string>
+       
+
+        <string name="data_connection">Data Connection</string>
+        <string name="data_type">Data Type</string>
+        <string name="network">Network</string>
+        <string name="demoip">0.0.0.0</string>
+        <string name="ip_address">IP address</string>
+        <string name="data_usage">Data Usages</string>
+        <string name="download_speed">Download Speed</string>
+        <string name="upload_speed">Upload Speed</string>
+        <string name="bssid">BSSID</string>
+        <string name="mbps"> Mbps</string>
+        <string name="link_speed">Link Speed</string>
+
+
+        <string-array name="versions">
+            <item>ANDROID BASE</item>
+            <item>ANDROID BASE 1.1</item>
+            <item>CUPCAKE</item>
+            <item>DONUT</item>
+            <item>ECLAIR</item>
+            <item>ECLAIR_0_1</item>
+            <item>ECLAIR_MR1</item>
+            <item>FROYO</item>
+            <item>GINGERBREAD</item>
+            <item>GINGERBREAD_MR1</item>
+            <item>HONEYCOMB</item>
+            <item>HONEYCOMB_MR1</item>
+            <item>HONEYCOMB_MR2</item>
+            <item>ICE_CREAM_SANDWICH</item>
+            <item>ICE_CREAM_SANDWICH_MR1</item>
+            <item>JELLY_BEAN</item>
+            <item>JELLY_BEAN_MR1</item>
+            <item>JELLY_BEAN_MR2</item>
+            <item>KITKAT</item>
+            <item>KITKAT_WATCH</item>
+            <item>LOLLIPOP</item>
+            <item>LOLLIPOP_MR1</item>
+            <item>Marshmallow</item>
+            <item>Nougat</item>
+            <item>Nougat</item>
+            <item>Oreo</item>
+            <item>Oreo</item>
+            <item>Pie</item>
+            <item>Pie</item>
+        </string-array>
+
+
+      
+
+        <string name="permission_info">CPU X needs Camera permission to display Specifications of Camera. It does not take any picture or video, It just reads Camera specifications</string>
+        
+
+        <string name="title_activity_answers">Answers</string>
+        <string name="title_activity_replay">Replay post</string>
+        <string name="title_activity_post_message">Post</string>
+
+        <string-array name="sortorder">
+            <item>Most Votes</item>
+            <item>Newest</item>
+            <item>Sort by date</item>
+            <item>Today</item>
+            <item>This Week</item>
+            <item>This Month</item>
+        </string-array>
+
+        <string-array name="sortorderdiscussion">
+            <item>Sort by date</item>
+            <item>Newest</item>
+            <item>Most Votes</item>
+            <item>Today</item>
+            <item>This Week</item>
+            <item>This Month</item>
+        </string-array>
+        <string-array name="sortorderdiscussionmod">
+            <item>Sort by date</item>
+            <item>Newest</item>
+            <item>Most Votes</item>
+            <item>Today</item>
+            <item>This Week</item>
+            <item>This Month</item>
+        </string-array>
+
+        <string-array name="sortordermod">
+            <item>Most Votes</item>
+            <item>Newest</item>
+            <item>Sort by date</item>
+            <item>Today</item>
+            <item>This Week</item>
+            <item>This Month</item>
+            <item>Most Flags</item>
+
+
+        </string-array>
+
+        <string-array name="topicsortorder">
+            <item>New Topics</item>
+            <item>Most Replayed</item>
+            <item>Top Topics</item>
+            <item>This Week</item>
+            <item>This Month</item>
+            <item>Your Topics</item>
+        </string-array>
+
+        <string-array name="questionsortorder">
+            <item>New Questions</item>
+            <item>Most Answered</item>
+            <item>Top Questions</item>
+            <item>This Week</item>
+            <item>This Month</item>
+            <item>Your Questions</item>
+
+
+        </string-array>
+
+        <string-array name="flagreport">
+            <item>Uninformative</item>
+            <item>Irrelevant</item>
+            <item>Offensive</item>
+            <item>Misleading</item>
+
+
+        </string-array>
+        <string name="title_activity_post_answer">Answer</string>
+        <string name="title_activity_settings">Settings</string>
+
+    
+
+        <string name="title_activity_replay_answer">Replay Answer</string>
+        <string name="title_activity_widgetoption">Widget</string>
+
+
+
+
+
+        <string name="guidelines">CPU X : system and Hardware info is a free Android app  which helps to get more knowledge about Android , technology, devices and Hardware. It includes discussion Forum and question answer forum which are designed to share knowledge and exchange ideas.
+
+\n\nCurrent Limits -
+
+\nUser can create one discussion topic everyday.
+\nUser can post 20 posts everyday.
+\nUser can ask one question everyday.
+\nUser can give 20 answers everyday.
+        \n Users can update or delete generated content up 24 hours from its creation.
+
+\n\nDiscussion Topic :
+
+\n\nDiscussion topic should be related to Android , mobile, technology, smartphones,  apps. it has 300 characters limit
+
+\n\nExample  1 : State of FinFET Technology for CPU.
+\nExample 2 : Optical image stabilization in mobile cameras.
+\nExample 3 : Best features of Android 8.0 Oreo.
+
+\n\nUnrelated topics may be deleted.
+\nExample :  Best petrol hatchback cars.
+
+
+\n\nQuestions  :
+
+\n\nQuestions should be specific and related to Android,  mobile technology, apps etc questions have 300 characters limit.
+\nExample 1 :  What is the best budget phone under $300 ?
+\nExample 2 : What is advantages of dual cameras on mobile phones ?
+\nExample 3 : How to improve battery life ?
+
+
+\n\nPosts :
+\n\nPost should be informative,  relevant and helpful . Posts have 2000 characters limit.
+
+\n\nExample : Any post that contains shareable knowledge about a given topic.
+
+\n\nFollowing types of posts may be deleted.
+
+\n\n1 ) Unrelated post that have nothing to do with the topic.
+\n2) Use of offensive racial/ gender /sexual /religious terms or hurtful sentences.
+\n3) Personal attacks on other users in discussions.
+\n4) Link of inappropriate or unrelated content.
+\n5) Posting of and personal information, like phone numbers, addresses, emails etc/
+
+
+
+\n\nAnswers :
+
+\n\nAnswers should be informative, related and helpful. answers have 2000 character limit.
+
+\n\nFollowing types of answer may be deleted.
+
+\n\n1) Unrelated answers that have nothing to do with questions.
+
+\n\n2) Links to inappropriate and unrelated content.
+
+\n\n3) Use of offensive racial /gender /sexual/ religious terms or other hurtful sentences.
+
+\n\n4) osting of personal information like phone numbers, addresses, emails etc.
+
+\n\n5) Personal attacks on other users in answers.
+</string>
+
+
+        <string name="privacypolicy">
+        \nAbout :
+
+ \nCPU X : System and Hardware info  is a free Android app which helps to get more knowledge         about Android system , Mobile technology, devices, Hardware etc.
+\n\nDefinitions :
+\nNon personal information.\n
+  It is information that is not a personally identifiable to you, like device brand, model number, ram,      cpu etc.
+
+\n\nPersonal identifiable information :-
+ \nit is the non public information that is identifiable to you like name , email address , phone number etc.
+
+\n\n1. Information we collect.
+ \n1.1 information you provide us.
+     \n\n CPU X uses Google authentication to sign in to the app,  user\\\'s Google account\'s profile name and public photo url are
+        only personal identification information we collect which allow other users to know who
+        posted a  post or answer.
+
+      CPU X do not collect email addresses. they are only shown to you in app on
+        your signed in device.
+
+\n\n1.2 User generated content.
+     \n\n The content created by user like posts, answers, questions, discussion topics, likes and dislikes
+        for  answers and post are stored on server.
+
+\n\n1.3 Device technical data.
+      \n\n It is non personal information about  device  like device brand, model number, ram,  cpu etc. We
+        collect this information to personalize user experience, so we can serve user his device\'s brand
+        and model related discussions and answers in the app.
+
+\n\n1.4 Cookies and Advertising ID.
+     \n\n We have implemented Google firebase Analytics  and Google Admob ads in this app, which may
+        collect and use cookies and Advertising ID to serve interest based ads.
+      User can opt-out of interest based ads by applicable device settings such as device advertising
+        settings or any other available means.
+
+
+\n\n 2. How CPU X use information .
+    \n\n We use information to provide , personalize, improve user experience with the app.
+     Name is attached to the post, answers, topic and questions so other users can know who created
+        that particular information.
+     User generated content like posts, questions, discussion, topics , answers are accessible to the all
+        the users of this app. Device\'s technical information such as brand, model, cpu, etc is used to
+        serve  user his device\'s brand  and model related discussions and answers in the app.
+
+
+\n\n 3. Data security.
+   \n\nWe protect users from unauthorised access or unauthorised alteration disclosure or destruction of
+        information we hold. Information is stored on Google servers which are using SSL.
+
+\n\n 4. Information we share.
+   \n\nWe do not share ny personal information with companies, organizations, and individuals.
+
+
+\n\n 5. Accessing and updating personal information.
+   \n\nYour name associated with google account you sign in with is only personal information we collect when you sign in first.
+ You can access that information in app\'s navigation header and alongside all of you created discussion topics , posts, questions, answers.
+        You need to contact us at pacificdevloper@gmail.com to change name we have collected.
+\n\n6. Changes to the privacy policy.
+   \n\n We may update our privacy policy from time to time, thus you are advised to review this page
+        periodically for any changes . We will notify you of any changes by posting the new privacy
+        policy on this page this changes are effective immediately after they are posted on this page.</string>
+        <string name="title_activity_help">Help</string>
+        <string name="title_activity_notify">Notification</string>
+        <string name="privacy_policy"> privacy policy.</string>
+
+        <string name="New">New</string>
+        <string name="New_post">New post</string>
+        <string name="New_Answer">New Answer</string>
+
+        <string name="fag_Device">Device</string>
+        <string name="fag_Discussion">Discussion</string>
+        <string name="fag_Questions">Questions</string>
+        <string name="fag_Announcement">Announcement</string>
+        <string name="fag_Suggestions">Suggestions</string>
+
+        <string name="needsignin">Sign in to use this feature.</string>
+        <string name="NAME">NAME</string>
+        <string name="OK">OK</string>
+
+        <string name="Dismiss">Dismiss</string>
+        <string name="No_Answers_yet">No Answers yet</string>
+
+
+        <string name="No_Posts_yet">No Posts yet</string>
+
+
+        <string name="Authentication_failed">Authentication failed.</string>
+
+        <string name="Question_sent">Question sent</string>
+        <string name="Question_not_sent">Question not sent, Daily limit exceeded</string>
+
+
+
+        <string name="Remove_answer_for">Remove answer for</string>
+
+        <string name="Report_answer_as">Report answer as</string>
+        <string name="No_action">No action</string>
+        <string name="Thankyoureporting">Thank you for reporting, It helps us to maintain Quality</string>
+        <string name="oncevoteanswer">You can vote only once per answer</string>
+        <string name="liked">Upvote</string>
+        <string name="Disliked">Downvote</string>
+
+        <string name="Topic_sent">Topic sent</string>
+        <string name="Topic_not_sent">Topic not sent, Daily limit exceeded</string>
+        <string name="FSOC">SOC</string>
+        <string name="FSYSTEM">SYSTEM</string>
+        <string name="FNETWORK">NETWORK</string>
+        <string name="FBATERY">BATTERY</string>
+        <string name="FSENSOES">SENSORS</string>
+        <string name="FFEATURES">FEATURES</string>
+        <string name="FCAMERA">CAMERA</string>
+        <string name="FAD">AD</string>
+
+     
+
+
+
+        <string name="Remove_post_for">Remove post for</string>
+        <string name="Report_post_as">Report post as</string>
+        <string name="oncevotepost">You can vote only once per post</string>
+
+
+
+        <string name="Answer_sent">Answer sent</string>
+        <string name="Answer_not_sent">Answer not sent, Daily limit exceeded</string>
+
+        <string name="Post_sent">Post sent</string>
+        <string name="Post_not_sent">Post not sent, Daily limit exceeded</string>
+
+
+
+        <string name="Report_question_as">Report Question as</string>
+
+
+        <string name="Remove_Question_for">Remove Question for</string>
+
+
+
+
+        <string name="No_Question_here">No Questions here</string>
+
+        <string name="Replay_sent">Replay sent</string>
+
+
+        <string name="Report_Topic_as">Report Topic as</string>
+        <string name="Remove_Topic_for">Remove Topic for</string>
+
+        <string name="No_topics_here">No Topics here</string>
+        <string name="No_connection">No internet connection.</string>
+        <string name="new_topic_notify">You will get notification for new posts on this topic</string>
+        <string name="new_topic_notify_not">You will not receive notification for new posts on this topic</string>
+        <string name="new_answer_notify">You will receive notification for new answer on this question</string>
+        <string name="new_answer_notify_not">You will not receive notification for new answer on this question</string>
+
+
+
+        <string name="Question_can_not_empty">Question can not be empty and should have at least 5 letters.</string>
+        <string name="Topic_can_not_be_empty">Topic can not be empty and should have at least 5 letters.</string>
+        <string name="Post_can_not_be_empty">Post can not be empty and should have at least 2 letters.</string>
+        <string name="Answer_can_not_be_empty">Answer can not be empty and should have at least 2 letters.</string>
+
+
+
+
+        <string name="Update_success">Update success</string>
+        <string name="Update_failed">Update failed</string>
+        <string name="Topic_deleted">Topic deleted</string>
+        <string name="Topic_not_deleted">Topic not deleted</string>
+        <string name="reporttopic">Report Topic</string>
+        <string name="reportquestion">Report Question</string>
+        <string name="Question_deleted">Question deleted</string>
+        <string name="Question_not_deleted">Question not deleted</string>
+
+        <string name="Post_deleted">Post deleted</string>
+        <string name="Post_not_deleted">Post not deleted</string>
+        <string name="Answer_not_deleted">Answer not deleted</string>
+        <string name="Answer_deleted">Answer deleted</string>
+        <string name="Questions">Questions</string>
+
+
+        <string name="Camera">A camera is an optical instrument for recording or capturing images, which may be stored locally, transmitted to another location, or both. The images may be individual still photographs or sequences of images constituting videos or movies. The camera is a remote sensing device as it senses subjects without any contact</string>
+
+        <string name="No_Camera_4">No Camera 4</string>
+        <string name="No_dual_Camera">No dual Camera</string>
+
+        <string name="No_Front_Camera">No Front Camera</string>
+
+        <string name="Speed_Off">Speed Off</string>
+        <string name="Speed_On">Speed On</string>
+
+
+
+
+
+        <string name="Search_devices">Search devices</string>
+        <string name="SIGN_IN">SIGN IN</string>
+
+
+        <string name="Daily_limit_reached">Daily limit reached</string>
+
+        <string name="Quad_core">Quad-core</string>
+
+
+
+        <string name="onevalue">You can add value once per parameter per device</string>
+        <string name="hgfr">Enter values of CPU cluster 2 and CPU cluster 3</string>
+        <string name="fdn">Enter values of cpu cluster 2</string>
+
+
+        <string name="Valuesubmitted">Value submitted , Thank you.</string>
+        <string name="dfsfdh">Enter values of chipset and frequency</string>
+
+
+        <string name="gjkkh">Enter value of primary camera</string>
+
+        <string name="weretwt">Enter value of secondary camera</string>
+
+
+        <string name="piopp">Enter value of primay camera</string>
+
+        <string name="ffghdfh">Enter value of secondary camera</string>
+        <string name="Enter_value">Enter value</string>
+
+        <string name="batteryvalue">Battery capacity e.g. 3000, 4000 in mAh</string>
+        <string name="screensizevalue">Screen size e.g. 4.5, 5 , 5.5  in inches</string>
+        <string name="lengthvalue">Length of device  e.g. 147, 151.1 , 155.2 in mm</string>
+        <string name="widthvalue">Width of device e.g. 75.7, 71.0 , 68 in mm</string>
+        <string name="thicknessvalue">Thickness of device e.g. 8.1, 7.8, 9 in mm</string>
+        <string name="weightvalue">Weight of device e.g. 160 , 128, 175 in grams</string>
+        <string name="modelnamevalue">Model name of device e.g. Galaxy S8, Redmi 5, Moto G5 etc.</string>
+        <string name="glassvalue">Type of Corning Gorilla glass or other e.g. Gorilla glass 3, Gorilla glass 4, Sapphire crystal glass etc.</string>
+        <string name="ipratingvalue">Ingrass protection rating e.g. IP68, IP67 etc</string>
+        <string name="cpuvalue">Add CPU details e.g. SOC - MSM8926, MSM8994, MT6797T, Kirin950, samsungexynos8895 etc. , SOC modelname e.g. Snapdragon 821, Helip P27 etc. ,  CPU cluster info e.g. Quad-core 1.5 GHz Cortex A-53</string>
+        <string name="fabvalue">CPU fabrication process e.g. 28nm HPm, 14 nm LPP, 10 nm FinFET LPE etc.</string>
+        <string name="rcamvalue">Rear camera in megapixels e.g. 12 , 16, 8 in MP</string>
+        <string name="fcamvalue">Front camera in megapixels e.g. 12 , 16, 8 in MP</string>
+        <string name="rbad">Select a parameter</string>
+
+        <string name="accept">Accept</string>
+        <string name="acceptanswer">Do you accept this answer?</string>
+
+
+        <string name="ratemessage1">Do you like this app ?</string>
+        <string name="ratemessage2">Rating of an app is very important for developer, It allows us to improve app and user experience. Please rate our app in Play Store.</string>
+        <string name="ratemessage3">Let us know how can we make CPU X better for you.</string>
+
+        <string name="checkprofilefilds">Check all fields they can not be empty or too short.</string>
+        <string name="prfogileupdatelimit">Profile can be updated after 24 hours.</string>
+        <string name="fewsevondstoreflectchange">It will take few seconds to reflect changes.</string>
+
+        <string name="userwilldisabled">User will be disabled, Contact Moderator if it happened by mistake.</string>
+        <string name="Note">Note</string>
+        <string name="Disable">Disable</string>
+
+        <string name="noawards">Awards : No awards yet</string>
+
+        <string name="awardmoderator">Awarded for 20,000 reputation and positive forum record by current moderators</string>
+        <string name="awardmentor">Awarded for 10,000 reputation and positive record.</string>
+        <string name="awardexpert">Awarded for more than 5,000 reputation.</string>
+        <string name="awardlegend">Awarded for 30+ discussion topics and daily posts for 30 days.</string>
+        <string name="awardtroublershooter">Awarded for 200 answers and total 2000 reputation.</string>
+        <string name="awardtopcontributor">Awarded for 200 posts/ answers and 1000 reputation.</string>
+        <string name="awardexplainer">Awarded for 100 answers or posts and 1000 reputation</string>
+        <string name="awardpublisher">Awarded for creating 50 discussion topics</string>
+        <string name="awardsocratic">Awarded for asking 20 well received questions.</string>
+        <string name="awardannouncer">Awarded for creating 10 discussion topics.</string>
+        <string name="awardgreatpost">Awarded on a post receiving 100 upvotes.</string>
+        <string name="awardjournalist">Awarded for creating 25 discussion topics.</string>
+        <string name="awardgreatanswer">Awarded on a answer receiving 100 upvotes.</string>
+        <string name="awardguru">Awarded on accepted answer receiving 40 upvotes.</string>
+        <string name="awardteacher">Awarded for a accepted answer.</string>
+        <string name="awardcivicduty">Awarded for voting 300 times.</string>
+        <string name="awardcurious">Awarded for asking 5 questions.</string>
+        <string name="awardgoodanswer">Awarded on an answer receiving 25 upvotes.</string>
+        <string name="awardgoodpost">Awarded on a post receiving 25 upvotes.</string>
+        <string name="awardscholar">Awarded on asking question and accepting answer.</string>
+        <string name="awardtalkative">Awarded on reaching total 20 posts.</string>
+        <string name="awardselflearner">Awarded on answering own question.</string>
+        <string name="awardsupporter">Awarded for first 10 upvotes.</string>
+        <string name="awardniceanswer">Awarded on an answer receiving 10 upvotes.</string>
+        <string name="awardnicepost">Awarded on a post receiving 10 upvotes.</string>
+        <string name="awardsandbadges">\n Reputation :- \n\n It is measurement of how much the community trusts you. it is earned by contributing to forum.
+        \n\n You gain reputation when-
+        \n
+        \n• Answer or post voted up = +1
+         \n• Answer or post voted down = -1
+         \n• Answer gets accepted  = +25
+         \n• You accept an answer = +5
+         \n• Discussion topic created = +10
+         \n• Discussion topic deleted or removed = -10
+         \n• Question deleted or removed = -5
+        \n• Answer or post deleted = all upvotes or downvotes will be removed from reputations.
+
+
+\n\n\n Badges :-
+        \n\nYou will receive badges foe your contribution to forum and for being especially helpful.
+        badges appear on your profile page and highest badge appear on posts and answers.
+        \n\n Gold Badges -
+
+        \n\n• Mentor - 10,000 reputation and positive record.
+        \n• Expert - 5,000 reputation and positive record.
+        \n• Troubleshooter - 200 answers and 2000 reputation.
+        \n• Top Contributor - 200 posts or answers and 1000 reputation..
+        \n• Explainer - 100 answers or posts and 1000 reputation.
+        \n• Publisher - 50 discussion topics.
+        \n• Socratic - Asking 20 well received questions.
+        \n• Great post - A post receiving 100 upvotes.
+        \n• Great Answer - An answer receiving 100 upvotes.
+
+        \n\n Silver Badges -
+        \n\n• Journalist - Creating 25 discussion topics.
+        \n• Announcer - Creating 10 discussion topics.
+        \n• Guru - Accepted answer receiving 40 upvotes.
+        \n• Teacher - Answer gets accepted.
+        \n• Civic Duty - User voted 300 times.
+        \n• Curious - Ask 5 questions.
+         \n• Good Post - A post receiving 25 upvotes.
+        \n• Good Answer - An answer receiving 25 upvotes.
+        \n\n Bronze Badges -
+        \n\n• Scholar - Ask a question and accept answer.
+        \n• Talkative - Total 20 posts.
+         \n• Self-learner - Answering  own question..
+         \n• Supporter - Voted first 10 upvotes.
+         \n• Nice answer - An answer receiving 10 upvotes.
+         \n• Nice Post - A post receiving 10 upvotes.
+
+
+
+
+
+
+
+    </string>
+        <string name="ID">ID</string>
+
+
+        <string name="NoFrontCamera">No Front Camera</string>
+        <string name="title_activity_create_article">Add Article</string>
+
+        <!-- Strings related to login -->
+        <string name="prompt_email">Email</string>
+        <string name="prompt_password">Password (optional)</string>
+        <string name="action_sign_in">Sign in or register</string>
+        <string name="action_sign_in_short">Sign in</string>
+        <string name="error_invalid_email">This email address is invalid</string>
+        <string name="error_invalid_password">This password is too short</string>
+        <string name="error_incorrect_password">This password is incorrect</string>
+        <string name="error_field_required">This field is required</string>
+        <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+        <string name="fag_Articles">Articles</string>
+        <string name="Article_not_sent">Article not sent</string>
+
+        <string name="ramtype">Ram type</string>
+
+
+
+
+        <string name="category2">Receive Notifications</string>
+
+
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+      
+        <string name="battery_page_health_good">Good</string>
+        <string name="battery_page_health_overheat">Overheat</string>
+        <string name="battery_page_health_dead">Dead</string>
+        <string name="battery_page_health_overvolt">Overvolt</string>
+        <string name="battery_page_health_cold">Cold</string>
+        <string name="battery_page_health_unspec_failure">UNSPECIFIED_FAILURE</string>
+        <string name="value_unknown">Unknown</string>
+        <string name="battery_health">Health</string>
+        <string name="widgetoptiontext">Add Widget to home screen to quick access apps contents.\n
+                Widgets are an essential aspect of home screen
+                customization. You can imagine them as at-a-glance
+                views of an apps most important data and functionality
+                that is accessible right from the  home screen.
+   </string>
+        <string name="widgetoptiontext3">(2) Second its battery level in percentage.</string>
+        <string name="widgetoptiontext5">(4) Fourth its available RAM.</string>
+        <string name="widgetoptiontext6">(5) Fifth its available internal storage. \n\n</string>
+        <string name="widgetoptiontext4">(3) Third its battery temperature in degree Celsius and in degree fahrenheit.</string>
+        <string name="widgetoptiontext2">(1) First row its App title and Refresh Button On touching Refresh button , widget reloads current data values.</string>
+        <string name="replayto">Replay to : </string>
+        <string name="onedot">1.</string>
+        <string name="twodot">2.</string>
+        <string name="threedot">3.</string>
+        <string name="answerscolon">Answers :</string>
+        <string name="No_Data">No Data</string>
+        <string name="badgecolon">Badge : </string>
+        <string name="postscolon">Posts : </string>
+        <string name="topicscolon">Topics : </string>
+        <string name="questionscolon">Questions : </string>
+        <string name="reputationcolon">Reputation : </string>
+        <string name="Not_available">Not available</string>
+        <string name="d_Length">Length</string>
+        <string name="d_Width">Width</string>
+        <string name="d_Thickness">Thickness</string>
+        <string name="d_Weight">Weight</string>
+        <string name="d_Size">Size</string>
+        <string name="Inches">Inches</string>
+        <string name="d_Resolution">Resolution</string>
+        <string name="d_Density">Density</string>
+        <string name="d_Glass">Glass</string>
+        <string name="d_Brand">Brand</string>
+        <string name="d_manufacturer">Manufacturer</string>
+        <string name="d_Model">Model</string>
+        <string name="d_Product">Product</string>
+        <string name="d_Board">Board</string>
+        <string name="d_Hardware">Hardware</string>
+        <string name="d_Battery">Battery</string>
+        <string name="d_Chipset">Chipset</string>
+        <string name="d_CPU">CPU</string>
+        <string name="D_Clock_Speed">Clock Speed</string>
+        <string name="d_Fab">Fab</string>
+        <string name="d_ISA">ISA</string>
+        <string name="d_GPU">GPU</string>
+        <string name="d_API">API</string>
+        <string name="d_Version">Version</string>
+        <string name="d_Version_Name">Version Name</string>
+        <string name="d_Memory">Memory</string>
+        <string name="d_RAM">RAM</string>
+        <string name="d_Storage">Storage</string>
+        <string name="d_RAM_Type">RAM Type</string>
+        <string name="d_Rear">Rear</string>
+
+        <string name="d_Sensor_size">Sensor size</string>
+        <string name="d_Focal_length">Focal length</string>
+        <string name="d_Aperature">Aperature</string>
+        <string name="d_Exposure_time">Exposure time</string>
+        <string name="d_Sensitivity">Sensitivity</string>
+        <string name="d_Face_Detection">Face Detection</string>
+        <string name="d_Flash">Flash</string>
+        <string name="d_Front">Front</string>
+        <string name="d_Fingerprint">Fingerprint</string>
+        <string name="d_Iris_Sensor">Iris Sensor</string>
+        <string name="d_SpO2_sensor">SpO2 Sensor</string>
+        <string name="d_Heart_Rate">Heart Rate</string>
+        <string name="d_Accelerometer">Accelerometer</string>
+        <string name="d_Orintation">Orientation</string>
+        <string name="d_Magnetic_Sensor">Magnetic Sensor</string>
+        <string name="d_Proximity_Sensor">Proximity sensor</string>
+        <string name="d_Rotation_sensor">Rotation sensor</string>
+        <string name="d_Gyroscope_sensor">Gyroscope sensor</string>
+        <string name="d_Light_sensor">Light sensor</string>
+        <string name="d_Gravity_sensor">Gravity sensor</string>
+        <string name="d_Temperature_sensor">Temperature sensor</string>
+        <string name="d_Pressure_sensor">Pressure sensor</string>
+        <string name="d_Humidity_sensor">Humidity sensor</string>
+        <string name="d_Step_detector">Step detector</string>
+        <string name="d_WIFI">WIFI</string>
+        <string name="d_WIFI_direct">WIFI direct</string>
+        <string name="d_Bluetooth">Bluetooth</string>
+        <string name="d_Bluetooth_LE">Bluetooth LE</string>
+        <string name="d_GPS">GPS</string>
+        <string name="d_NFC">NFC</string>
+        <string name="d_Microphone">Microphone</string>
+        <string name="d_USB_Host">USB Host</string>
+        <string name="d_USB_accessory">USB accessory</string>
+        <string name="d_Multitouch">Multitouch</string>
+        <string name="d_Printing">Printing</string>
+        <string name="d_Secondary_display">Secondary display</string>
+        <string name="d_Audio_low_latency">Audio low latency</string>
+        <string name="d_Audio_Pro">Audio Pro</string>
+        <string name="d_Automotive">Automotive</string>
+        <string name="d_External_camera">External camera</string>
+        <string name="d_Front_camera">Front camera</string>
+        <string name="d_Infrared_blaster">Infrared blaster</string>
+        <string name="d_Ethernet">Ethernet</string>
+        <string name="d_Managed_users">Managed users</string>
+        <string name="d_Telephony">Telephony</string>
+        <string name="d_SIP">SIP</string>
+        <string name="d_SIP_VOIP">SIP VOIP.</string>
+        <string name="fbdevicedetailsnative">450725865363113_492674974501535</string>
+        <string name="Sensor_not_available">Sensor not available</string>
+        <string name="pixels">pixels</string>
+        <string name="day">day</string>
+        <string name="hour">hour</string>
+        <string name="minute">minute</string>
+        <string name="refresh">Refresh</string>
+        <string name="info">Info</string>
+        <string name="menu">Menu</string>
+        <string name="delete">Delete</string>
+
+        <string name="compass">Compass</string>
+        <string name="cpu_status">CPU Status</string>
+        <string name="device">Device</string>
+        <string name="search_devices">Search Devices</string>
+        <string name="Articles">Articles</string>
+
+        <string name="Discussion">Discussion</string>
+        <string name="Announcement">Announcement</string>
+        <string name="settings">Settings</string>
+        <string name="widget">Widget</string>
+        <string name="help_amp_policy"><![CDATA[Help & Policy]]></string>
+        <string name="rate_us">Rate us</string>
+
+        <string name="disable_user">Disable User</string>
+        <string name="show_data_speed_in_notifications">Show Data Speed in Notifications</string>
+        <string name="your_post_here">Your post here</string>
+        <string name="send">SEND</string>
+        <string name="widget_to_enable_disable_data_speed_notification_in_android_8_0_and_above_it_opens_app_settings_where_user_can_enable_disable_data_speen_notification">Widget to enable/disable data speed notification. In Android 8.0 and above it opens app settings where user can enable/disable data speen notification.</string>
+        <string name="data_speed_widget">Data speed widget</string>
+        <string name="answer_should_be_informative_relevant_and_helpful">Answer should be informative, relevant and helpful.</string>
+        <string name="your_answer_here">Your answer here</string>
+        <string name="frequency">Frequency</string>
+        <string name="time_in_state">Time in State</string>
+        <string name="percenttime">% Time</string>
+        <string name="your_manufacturer_does_not_allow_to_read_cpu_states">Your manufacturer does not allow to read CPU states.</string>
+        <string name="total_time">Total Time</string>
+        <string name="show_ad">Show Ad</string>
+        <string name="other_account">Other account</string>
+        <string name="d_Cores">Cores</string>
+        <string name="core_1">Core 1</string>
+        <string name="core_2">Core 2</string>
+        <string name="core_3">Core 3</string>
+        <string name="core_4">Core 4</string>
+        <string name="core_5">Core 5</string>
+        <string name="core_6">Core 6</string>
+        <string name="core_7">Core 7</string>
+        <string name="core_8">Core 8</string>
+        <string name="core_9">Core 9</string>
+        <string name="core_10">Core 10</string>
+        <string name="load">Load</string>
+        <string name="instruction_set">Instruction set</string>
+        <string name="cpu_governor">CPU Governor</string>
+        <string name="java_heap">Java Heap</string>
+        <string name="d_id">ID</string>
+        <string name="host">Host</string>
+        <string name="bootloader">Bootloader</string>
+        <string name="baseband_version">Baseband version</string>
+        <string name="kernel_version">Kernel Version</string>
+        <string name="topic_should_be_relate">Topic should be related to Android , technology , mobile phones , apps , etc.   Topic Name -</string>
+        <string name="your_topic_here">Your Topic here</string>
+        <string name="first_post">First Post -</string>
+        <string name="your_post_here_minim">Your post here, minimum 100 characters. ( Introductory, generally describing aim of the discussion)</string>
+
+        <string name="essential">Essential</string>
+        <string name="favourite">Favourite</string>
+        <string name="d_New">New</string>
+        <string name="features_to_be_included_in_next_update_next_update">Features to be included in next update, Next update date is 20/06/2018.</string>
+        <string name="no_ads_available">No Ads available</string>
+        <string name="ideas_and_suggestions_to_make_this_app_better">Ideas and suggestions to make this app better.</string>
+        <string name="feedback">Feedback :</string>
+        <string name="send_email">Send Email</string>
+        <string name="or">or</string>
+        <string name="d_post">Post</string>
+        <string name="city_country">City, Country</string>
+        <string name="update">Update</string>
+        <string name="d_name">Name</string>
+        <string name="d_occupation">Occupation</string>
+
+        <string name="post_should_be_informative_relevant_and_helpful">Post should be informative, relevant and helpful.</string>
+        <string name="posting_guidelines">Posting Guidelines</string>
+        <string name="d_privacy_policy">Privacy Policy</string>
+        <string name="top">Top</string>
+        <string name="most_posts">Most Posts</string>
+        <string name="week">Week</string>
+        <string name="month">Month</string>
+        <string name="your">Your</string>
+        <string name="d_user">User</string>
+        <string name="replay_to">Replay to</string>
+
+        <string name="d_awards">Awards</string>
+        <string name="your_privacy">Your Privacy</string>
+        <string name="cpu_x_follows_all_legal_requirements_to_protect_your_privacy_we_do_not_collect_any_personal_information">CPU X follows All legal requirements to protect your privacy. We do not collect any personal information.</string>
+        <string name="definations">Definations</string>
+        <string name="non_personal_information">Non-personal information</string>
+        <string name="para1">It is information that is not a personally identifiable to you. like device model ,CPU name , RAM ,etc . which is same on all the devices of particular models of particular manufacturer.</string>
+        <string name="personal_identifiable_information">Personal identifiable information</string>
+        <string name="para2">It is the non public information that is identifiable to you. like your name , email address , phone number etc. CPU X do not collect any personal identifiable information.</string>
+        <string name="app_permissions">App permissions</string>
+        <string name="major_permissions">Major permissions</string>
+        <string name="view_wifi_connection">View WiFi connection</string>
+        <string name="para3">This permission is required to display you information about WiFi connection. like link speed ,network name , etc. CPU X do not collect or store information about WiFi connection.</string>
+        <string name="information_stored_on_device">Information stored on device</string>
+        <string name="para4">CPU X stores some non personal information on device which is secured and only accessible from app. You can access this information within the app. This information is only stored on device and can be erased by uninstalling the app.</string>
+        <string name="information_stored_on_server">Information stored on server</string>
+        <string name="device_name">Device Name</string>
+        <string name="select_parameter">Select parameter</string>
+        <string name="value">Value</string>
+        <string name="enter_value">Enter value</string>
+        <string name="chipset">Chipset</string>
+        <string name="chipset_name">Chipset name</string>
+        <string name="cpu_clusters">CPU clusters</string>
+        <string name="select_camera">Select Camera</string>
+        <string name="single">Single</string>
+        <string name="dual">Dual</string>
+        <string name="primary">Primary</string>
+        <string name="secondary">Secondary</string>
+        <string name="submit">Submit</string>
+        <string name="top_users_of_the_week">Top Users of the Week</string>
+        <string name="top_topics_of_the_week">Top Topics of the Week</string>
+        <string name="best_posts_of_the_week">Best Posts of the Week</string>
+        <string name="top_questions_of_the_week">Top Questions of the Week</string>
+        <string name="best_answers_of_the_week">Best Answers of the Week</string>
+        <string name="awards_and_badges">Awards and Badges</string>
+        <string name="data_speed">Data speed</string>
+        <string name="speed_off">Speed off</string>
+        <string name="system">SYSTEM</string>
+        <string name="d_OS">OS</string>
+        <string name="d_Build">Build</string>
+        <string name="your_question_here">Your Question here</string>
+
+        <string name="question_should_be_related_to_android_technology_mobile_phones_apps_etc">Question should be related to Android , Technology , Mobile Phones , Apps , etc.</string>
+
+
+        <string name="most_answered">Most answered</string>
+
+        <string name="d_body">BODY</string>
+        <string name="d_display">DISPLAY</string>
+        <string name="d_CU">CPU</string>
+        <string name="d_system">SYSTEM</string>
+        <string name="d_memory">MEMORY</string>
+        <string name="d_camera">CAMERA</string>
+        <string name="d_sensors">SENSORS</string>
+        <string name="d_features">FEATURES</string>
+        <string name="d_Temperature">Temperature</string>
+        <string name="d_voltage">Voltage</string>
+        <string name="d_battery_health">Battery Health</string>
+        <string name="d_technology">Technology</string>
+        <string name="cores">Cores</string>
+
+        <string name="total_internal">Total Internal</string>
+        <string name="free_internal">Free Internal</string>
+        <string name="by_signing_in_you_are_agree_with_our">By signing in you are agree with our</string>
+        <string name="Suggestion">Suggestion</string>
+        <string name="GPS">The Global Positioning System (GPS) is a space-based satellite navigation system that
+        provides location and time information in all weather conditions, anywhere on or near the earth where
+         there is an unobstructed line of sight to four or more GPS satellites. The system provides critical
+         capabilities to military, civil, and commercial users around the world. The United States government
+         created the system, maintains it, and makes it freely accessible to anyone with a GPS receiver.</string>
+
+        <string name="WIFI">Wi-Fi (or WiFi) is a local area wireless computer networking technology that allows electronic
+             devices to network, mainly using the 2.4 gigahertz (12 cm) UHF and 5 gigahertz
+              (6 cm) SHF ISM radio bands.
+The WiFi Alliance defines WiFi as any wireless local area network (WLAN) product based on the Ins
+titute of Electrical and Electronics Engineers(IEEE) 802.11 standards. However, the term Wi-Fi
+is used in general English as a synonym for WLAN since most modern WLANs are based on these standards.
+ WiFi is a trademark of the Wi-Fi Alliance. The Wi-Fi CERTIFIED trademark can only be used by WiFi
+ products that successfully complete WiFi Alliance interoperability certification testing.</string>
+        <string name="WIFIDirect">Wi-Fi Direct, initially called Wi-Fi P2P, is a Wi-Fi standard enabling devices
+           to easily connect with each other  without requiring a wireless access point.
+           It is usable for everything from internet browsing to file transfer,
+            and to communicate with more than one device simultaneously at typical Wi-Fi speeds.
+             One advantage of Wi-Fi Direct is the ability to connect devices even if they are from different manufacturers.
+             Only one of the Wi-Fi devices needs to be compliant with Wi-Fi Direct to establish a peer-to-peer connection that
+             transfers data directly between them with greatly reduced setup</string>
+        <string name="Bluetooth">Bluetooth is a wireless technology standard for exchanging data over short distances
+          (using short-wavelength UHF radio waves in the ISM band from 2.4 to 2.485 GHz) from fixed and mobile devices,
+          and building personal area networks (PANs). Invented by telecom vendor Ericsson in 1994, it was originally
+          conceived as a wireless alternative to RS-232 data cables. It can connect several devices, overcoming
+          problems of synchronization.</string>
+        <string name="BluetoothLE">Bluetooth low energy (Bluetooth LE, BLE, marketed as Bluetooth Smart) is a wireless
+           personal area network technology designed and marketed by the Bluetooth Special Interest Group aimed at novel
+           applications in the healthcare, fitness, beacons, security, and home entertainment industries. Compared
+           to Classic Bluetooth, Bluetooth Smart is intended to provide considerably reduced power consumption and cost
+           while maintaining a similar communication range.</string>
+        <string name="NFC">Near Field Communication (NFC) is a set of short-range wireless technologies, typically
+           requiring a distance of 4cm or less to initiate a connection. NFC allows you to share small payloads of
+           data between an NFC tag and an Android-powered device, or between two Android-powered devices</string>
+        <string name="Microphone">A microphone, colloquially mic or mike, is an acoustic-to-electric transducer or
+           sensor that converts sound in air into an electrical signal. Microphones are used in many applications
+           such as telephones, hearing aids, public address systems for concert halls and public events, motion picture
+           production, live and recorded audio engineering, two-way radios, megaphones, radio and television broadcasting,
+           and in computers for recording voice, speech recognition, VoIP, and for non-acoustic purposes
+           such as ultrasonic checking or knock sensors.</string>
+        <string name="CameraFlash">A flash is a device used in photography producing a flash of artificial light (typically
+           1/1000 to 1/200 of a second) at a color temperature of about 5500 K to help illuminate a scene. A major purpose
+            of a flash is to illuminate a dark scene. Other uses are capturing quickly moving objects or changing the quality
+             of light. Flash refers either to the flash of light itself or to the electronic flash unit discharging the light.
+              Most current flash units are electronic, having evolved from single-use flashbulbs and flammable powders.
+              Modern cameras often activate flash units automatically</string>
+        <string name="USBHost">When your Android-powered device is in USB host mode, it acts as the USB host,
+          powers the bus, and enumerates connected USB devices. USB host mode is supported in Android 3.1 and higher</string>
+        <string name="USBAccessory">USB accessory mode allows users to connect USB host hardware specifically
+           designed for Android-powered devices. The accessories must adhere to the Android accessory protocol
+            outlined in the Android Accessory Development Kit documentation. This allows Android-powered devices
+            that cannot act as a USB host to still interact with USB hardware. When an Android-powered device is
+             in USB accessory mode, the attached Android USB accessory acts as the host, provides power to the USB bus,
+              and enumerates connected devices. Android 3.1 (API level 12) supports USB accessory mode and the feature
+              is also backported to Android 2.3.4 (API level 10) to enable support for a broader range of devices.</string>
+        <string name="Secondarydisplay">The device supports running activities on secondary displays.</string>
+        <string name="Audiolowlatency">The device\'s audio pipeline is low-latency, more suitable for audio applications sensitive to delays or lag in sound input or output.</string>
+        <string name="AudioPro">The device has professional audio level of functionality and performance.</string>
+        <string name="Camerainfo">The device has a camera facing away from the screen.</string>
+        <string name="Cameraautofocus">An autofocus (or AF) optical system uses a sensor, a control system and a motor to focus on an automatically or manually selected point or area. An electronic rangefinder has a display instead of the motor; the adjustment of the optical system has to be done manually until indication. Autofocus methods are distinguished by their type as being either active, passive or hybrid variants.</string>
+        <string name="Printing"> In Android 4.4 (API level 19) and higher, the framework provides services for printing images
+          and documents directly from Android applications.Printing also allows them to create a snapshot of information
+           that does not depend on having a device, sufficient battery power, or a wireless network connection.</string>
+        <string name="ExternalCamera">The device can support having an external camera connected to it. </string>
+        <string name="MultipleUsers">The device supports creating secondary users and managed profiles </string>
+        <string name="SIPVOIP"> The device supports SIP-based VOIP.</string>
+
+        <string name="Technology">Type of memory technology used like DDR3, DDR4, signle -channel, double-channel etc.</string>
+        <string name="HeadTracking">The device implements headtracking suitable for a VR device.</string>
+        <string name="HighVRmode">The device implements VR MODE but additionally meets extra CDD requirements to provide a high-quality VR experience. In general, devices declaring this feature will additionally:
+
+Deliver consistent performance at a high framerate over an extended period of time for typical VR application CPU/GPU workloads with a minimal number of frame drops for VR applications that have called setSustainedPerformanceMode(boolean).
+Implement HIFI SENSORS and have a low sensor latency.
+Include optimizations to lower display persistence while running VR applications.
+Implement an optimized render path to minimize latency to draw to the device\'s main display.
+Include the following EGL extensions: EGL_ANDROID_create_native_client_buffer, EGL_ANDROID_front_buffer_auto_refresh, EGL_EXT_protected_content, EGL_KHR_mutable_render_buffer, EGL_KHR_reusable_sync, and EGL_KHR_wait_sync.
+Provide at least one CPU core that is reserved for use solely by the top, foreground VR application process for critical render threads while such an application is running.
+</string>
+        <string name="VRmode">The device implements an optimized mode for virtual reality (VR) applications that handles stereoscopic rendering of notifications, and disables most monocular system UI components while a VR application has user focus.</string>
+        <string name="Infraredblaster">An infrared blaster (or IR blaster) is a device that emulates an infrared remote control to autonomously control a device that is normally controlled only by remote control key presses</string>
+        <string name="Multitouch">The device touch screen is capable of tracking two or more fingers fully independently.</string>
+        <string name="SIP">The Session Initiation Protocol (SIP) is a communications protocol for signaling and controlling multimedia communication sessions in applications of Internet telephony for voice and video calls, in private IP telephone systems, as well as in instant messaging over Internet Protocol (IP) networks.</string>
+        <string name="Livewallpaper">A live wallpaper is an animated image that takes the place of a stagnant image on your homescreen. Some live wallpapers are interactive and react to certain gestures or motions on the device.</string>
+        <string name="Ethernet">Ability to connect android device to internet via Ethernet. Android Marshmallow 6.0.1 and above OS versions supports Ethernet connectivity.  OTG to Ethernet adapter is needed to connect Android device to internet via Ethernet</string>
+        <string name="LiveTV">The device supports live TV and can display contents from TV inputs or source such as HDMI or built-in tuner which provides pass-through video or broadcast TV programs.</string>
+        <string name="SYSTEM">Android is a mobile operating system (OS) based on the Linux kernel and
+          currently developed by Google. With a user interface based on direct manipulation, Android
+          is designed primarily for touchscreen mobile devices such as smartphones and tablet computers,
+           with specialized user interfaces for televisions (Android TV), cars (Android Auto), and wrist
+           watches (Android Wear). The OS uses touch inputs that loosely correspond to real-world actions,
+           like swiping, tapping, pinching, and reverse pinching to manipulate on-screen objects, and a virtual
+           keyboard. Despite being primarily designed for touchscreen input, it also has been used in game consoles,
+           digital cameras, regular PCs manufacturer and other electronics.</string>
+        <string name="OS">An operating system (OS) is software that manages computer or mobile hardware and software resources and
+          provides common services for computer programs. The operating system is an essential component of the system software
+          in a computer system. Application programs usually require an operating system to function.</string>
+        <string name="Manufacturer">A Company which design ,produce or assemble mobile phones</string>
+        <string name="Brand">A brand is a name, term, design or other feature that distinguishes one
+           company product from those of others.</string>
+        <string name="Model">Distinct name of Device</string>
+        <string name="Modelname">Name of CPU Model</string>
+        <string name="Board">A motherboard or mainboard, system board, planar board or logic board, is the main
+          printed circuit board (PCB) found in
+          computers and other expandable systems. It holds many of the crucial electronic components of the system, such as the
+          central processing unit (CPU) and memory, and provides connectors for other peripherals. Unlike a
+          backplane, a motherboard contains significant sub-systems such as the processor and other components</string>
+        <string name="Hardware">Name of mobile System on Chip (SoC)  manufacturer, A system on a chip or system on chip (SoC or SOC) is an integrated circuit (IC) that integrates all components of a computer or other electronic system into a single chip. It may contain digital, analog, mixed-signal, and often radio-frequency functions—all on a single chip substrate. SoCs are very common in the mobile electronics market because of their low power consumption</string>
+        <string name="Serial">A hardware serial number</string>
+        <string name="SystemUptime">Time since the system was booted/powered on</string>
+        <string name="UpTimeTotal">Time since the system was booted, and include deep sleep</string>
+        <string name="SleepTime">Time spent by system in deep sleep (CPU off, display dark, device waiting for external input)</string>
+        <string name="InstalledApps"> Number of applications that are installed on the device.</string>
+        <string name="Version"> Version names or unique version numbers represent unique states of computer/mobile software.
+          Within a given version number category (major, minor), these numbers are generally assigned in increasing
+          order and correspond to new developments in the software</string>
+        <string name="VersionName"> Version names or unique version numbers represent unique states of computer/mobile software.
+          Within a given version number category (major, minor), these numbers are generally assigned in increasing
+          order and correspond to new developments in the software</string>
+        <string name="APILevel">Android uses API levels to manage app compatibility across different versions of Android,
+              and it explains how to configure Android project settings to deploy these API levels in your app.</string>
+        <string name="MEMORY">In computing, memory refers to the devices used to store information for use in a computer
+              or mobile phone.
+               The term primary memory is used for storage systems which function at high-speed (i.e. RAM), as a distinction
+                from secondary memory, which provides program and data storage that is slow to access but offer higher memory
+                capacity</string>
+        <string name="Fingerprint">A string that uniquely identifies this build</string>
+        <string name="BuildID">Either a changelist number, or a label like &quot;M4-rc20&quot;.</string>
+        <string name="BuildTime">Time when System OS build</string>
+        <string name="TotalRAM">The total memory accessible by the kernel. This is basically the RAM size of the device</string>
+        <string name="FreeRAM">The available memory on the system. This number should not be considered absolute:
+              due to the nature of the kernel, a significant portion of this memory is actually in use and needed for the
+              overall system to run well.</string>
+        <string name="RemovableStorage"> if the storage device can be removed (such as an SD card), or false if the storage
+               device is built in and cannot be physically removed</string>
+        <string name="TotalInternalStorage">Total internal memory on device</string>
+        <string name="FreeInternalStorage">Available internal memory on device</string>
+        <string name="CPU">A central processing unit (CPU) is the electronic circuitry within a computer that carries out the
+      instructions of a computer program by performing the basic arithmetic, logical, control and input/output (I/O)
+      operations specified by the instructions. The term has been used in the computer industry at least since the
+      early 1960s.Traditionally, the term &quot;CPU&quot; refers to a processor and its control unit (CU),
+      distinguishing these core elements of a computer from external components such as main memory and I/O circuitry.</string>
+        <string name="Cores"> Number of available processor cores on device. NOTE : In case of OCTA-CORE (8 cores) processors,
+      there are two types
+      1) Passive Octa Core Processors. - it usages only 4 cores at a time, and others in passive state
+      2) True Octa Core Processors  - all the cores available to use at any time  ,
+      A multi-core processor is a single computing component with two or more independent
+     actual processing units, which are the units that read and execute program
+     instructions. The instructions are ordinary CPU instructions such as add, move data, and branch,
+     but the multiple cores can run multiple instructions at the same time, increasing overall speed for
+      programs.</string>
+        <string name="Core1">First Core</string>
+        <string name="Core2">Second Core</string>
+        <string name="Core3">Third Core</string>
+        <string name="Core4">Fourth Core</string>
+        <string name="Core5">Fifth Core</string>
+        <string name="Core6">Sixth Core</string>
+        <string name="Core7">Seventh Core</string>
+        <string name="Core8">Eight Core</string>
+        <string name="Core9">Ninth Core</string>
+        <string name="Core10">Tenth Core</string>
+        <string name="ClockSpeed">The clock rate typically refers to the frequency at which a chip like a central processing unit (CPU),
+     one core of a multi-core processor is running, and is used as an indicator of the processor speed.
+     It is measured in the SI unit hertz. The clock rate of the first generation of computers was measured
+      in hertz or kilohertz, but in the 21st century the speed of modern CPUs is commonly advertised in gigahertz.</string>
+        <string name="Processor">common term for any integrated circuit (IC) that is designed to execute instructions</string>
+        <string name="TotalHeapMemory"> The number of bytes taken by the heap at its current size.</string>
+        <string name="MaxHeapMemory"> The maximum number of bytes the heap can expand to.</string>
+        <string name="FreeHeapMemory"> The number of bytes currently available on the heap without expanding the heap.</string>
+        <string name="Bootloader">The system bootloader version number.</string>
+        <string name="Instructionset">In computer software, an application binary interface (ABI) is the interface between two program modules, one of which is often a library or operating system, at the level of machine code. An ABI determines such details as how functions are called and in which binary format information should be passed from one program component to the next, or to the operating system in the case of a system call.</string>
+        <string name="CPUGovernor">CPU Governor enables the operating system to scale the CPU frequency up or down in order to save power. CPU frequencies can be scaled automatically depending on the system load, in response to ACPI events, or manually by userspace programs.</string>
+        <string name="Basebandversion"> The version string for the radio firmware. May return null (if, for instance, the radio is not currently on).</string>
+        <string name="Tags">Comma-separated tags describing the build, like &quot;unsigned,debug&quot;.</string>
+        <string name="KernelVersion">The Kernel Version is the Linux Kernel version that Android is based on. Its the core of the operating system that handles requests to and from the hardware, memory and process management and all the low-level stuff that is necessary for Android to be able to run</string>
+        <string name="Type">The type of build, like &quot;user&quot; or &quot;eng&quot;.</string>
+        <string name="GPU">A graphics processor unit (GPU), also occasionally called visual processor unit (VPU), is a specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display. GPUs are used in embedded systems, mobile phones, personal computers, workstations, and game consoles. Modern GPUs are very efficient at manipulating computer graphics and image processing, and their highly parallel structure makes them more effective than general-purpose CPUs for algorithms where processing of large blocks of data is done in parallel</string>
+        <string name="Renderer">Name of GPU Renderer</string>
+        <string name="Vendor">Name of Vendor</string>
+        <string name="BogoMIPS">Bogomips is a measurement provided in the Linux operating system that indicates in a relative way how fast the computer processor runs. MIPS is short for Millions of Instructions Per Second. It is a measure for the computation speed of a processor</string>
+        <string name="DataConnection">Shows whether the internet is connected or not on device</string>
+        <string name="DataType">Type of mobile internet connection WIFI or Mobile</string>
+        <string name="Network">Data connection network like WiFi, HSDPA, 3G, EDGE, LTE, GPRS</string>
+        <string name="IPaddress">An Internet Protocol address (IP address) is a numerical label assigned to each device (e.g., computer,mobilephone printer) participating in a computer network that uses the Internet Protocol for communication.</string>
+        <string name="DownloadSpeed">Internet speed. The performance of an Internet connection, which is based on the number of bytes per second that data travels from the users device to the Internet (upload) and from the Internet (download). Depending on the type of connection, the speed differs dramatically.  Note :- speed shown in either MB/s or Mbps, MB = 8Mb</string>
+        <string name="UploadSpeed">Internet speed. The performance of an Internet connection, which is based on the number of bytes per second that data travels from the users device to the Internet (upload) and from the Internet (download). Depending on the type of connection, the speed differs dramatically.</string>
+        <string name="BatteryLevel">Percent battery charge remaining , 100% when fully charged</string>
+        <string name="BatteryTemperature">Current battery temperature from its battery temperature sensor</string>
+        <string name="Host">Internal Host name</string>
+        <string name="BatteryTechnology">Battery technology like Li-ion, Li-poly</string>
+        <string name="BatteryStatus">charging or discharging</string>
+        <string name="PowerSource">Power source of device like Battery ,USB,Wireless charging</string>
+        <string name="BatteryVoltage">The voltage across the terminals of a battery in milli Volts</string>
+        <string name="Width">Width of device screen in inches and in millimeter .   Note :- Some manufacturers do not provide precise screen details</string>
+        <string name="Display">Size of device screen and Display technology</string>
+        <string name="ScreenResolution">Screen resolution. The number of horizontal and vertical pixels on a display screen</string>
+        <string name="Refreshrate">It is how fast screen shows  new contents or can change its contents</string>
+        <string name="DensityX">It is number pixles per inch in horizontal direction</string>
+        <string name="DensityY">It is number of pixles per inch in vertical direction</string>
+        <string name="ScreenDensity">Density of Screen pixles per inch</string>
+        <string name="Orientation">Screen orientation like Portrait, Horizontal.</string>
+        <string name="Height">Width of device screen in inches and in millimeter .   Note :- Some manufacturers do not provide precise screen details</string>
+        <string name="TimeZone">A time zone is a region that observes a uniform standard time for legal, commercial, and social purposes. Time zones tend to follow the boundaries of countries and their subdivisions because it is convenient for areas in close commercial or other communication to keep the same time.</string>
+        <string name="Language">Language settings of device</string>
+        <string name="RootAccess">Rooting is the process of allowing users of smartphones, tablets and other devices running the Android mobile operating system to attain privileged control (known as root access) over various Android subsystems. As Android uses the Linux kernel, rooting an Android device gives similar access to administrative permissions as on Linux or any other Unix-like operating system </string>
+        <string name="IMEI">The International Mobile Station Equipment Identity or IMEI is a number, usually unique, to identify 3GPP (i.e., GSM, UMTS and LTE) and iDEN mobile phones, as well as some satellite phones.
+      It is usually found printed inside the battery compartment of the phone, but can also be displayed on-screen on most phones by
+      entering *#06# on the dialpad, or alongside other system information in the settings menu on smartphone operating systems.</string>
+        <string name="Roaming">Roaming helps ensure that a traveling wireless device (typically a cell phone) is kept connected to a network without breaking the connection. In wireless telecommunications, Traditional Roaming is a general term referring to the ability for a cellular customer to automatically make and receive voice calls, send and receive data, or access other services,
+     including home data services, when travelling outside the geographical coverage area of the home network, by means of using a visited network. For example; should you travel beyond your cell phone company transmitter range, your cell phone would automatically hop onto another phone company service, if available.</string>
+        <string name="SubscriberID">The International Mobile Subscriber Identity or IMSI is used to identify the user of a cellular network and is a unique identification associated with all cellular networks. It is stored as a 64 bit field and is sent by the phone to the network.
+      It is also used for acquiring other details of the mobile in the home location register (HLR) or as locally copied in the visitor location register. To prevent eavesdroppers identifying and tracking the subscriber on the radio interface, the IMSI is sent as rarely as possible and a randomly generated TMSI is sent instead.</string>
+        <string name="SIMSerial">Each SIM is internationally identified by its integrated circuit card identifier (ICCID). ICCIDs are stored in the SIM cards and are also engraved or printed on the SIM card body during a process called personalisation.
+     Service Provider Name (SPN). The ICCID is defined by the ITU-T recommendation E.118 as the Primary Account Number. Its layout is based on ISO/IEC 7812. According to E.118, the number is up to 22 digits long, including a single check digit calculated using the Luhn algorithm. However, the GSM Phase 1 defined the ICCID length as 10 octets (20 digits) with operator-specific structure.</string>
+        <string name="NetworkCountry"> the ISO country code equivalent of the current registered operator MCC (Mobile Country Code).</string>
+        <string name="SIMOperator">Service Provider Name (SPN).</string>
+        <string name="SIMprovidercode"> the MCC+MNC (mobile country code + mobile network code) of the provider of the SIM.</string>
+        <string name="NetworkOperator">the alphabetic name of current registered network operator.</string>
+        <string name="PhoneType">Type of phone model  GSM / CDMA / SIP</string>
+        <string name="Name">Model name of sensor</string>
+        <string name="MaxRange">Maximum range of the sensor in the sensors unit.</string>
+        <string name="PowerConsumption">The power in mA used by this sensor while in use</string>
+        <string name="Resolution">Resolution of the sensor in the sensors unit.</string>
+        <string name="Dimensions">Dimensions of device. Length, width, thickness. </string>
+        <string name="RAMType">Type of RAM used like DDR2, DDR3, DDR4, LPDDR4X</string>
+        <string name="AccelerationX">Measures the acceleration force in m/s2 that is applied to a device on all three physical axes (x, y, and z), including the force of gravity.</string>
+        <string name="AccelerationY">Measures the acceleration force in m/s2 that is applied to a device on all three physical axes (x, y, and z), including the force of gravity.</string>
+        <string name="AccelerationZ">Measures the acceleration force in m/s2 that is applied to a device on all three physical axes (x, y, and z), including the force of gravity.</string>
+        <string name="MinimumDelay">the minimum delay allowed between two events in microsecond or zero if this sensor only returns a value when the data its measuring changes</string>
+        <string name="Azimuth">Measures degrees of rotation that a device makes around all three physical axes (x, y, z). The azimuth is the angle between the north vector and the perpendicular projection of the star down onto the horizon. Azimuth is usually measured in degrees (°).</string>
+        <string name="Roll">Measure degree of rotation around Lateral axis</string>
+        <string name="Pitch">Measures degrees of rotation around Lateral axis.</string>
+        <string name="MagneticfieldX">Measures the ambient geomagnetic field for X axis</string>
+        <string name="MagneticfieldY">Measures the ambient geomagnetic field for Y axis</string>
+        <string name="MagneticfieldZ">Measures the ambient geomagnetic field for Z axis</string>
+        <string name="Proximity">Measures the proximity of an object in cm relative to the view screen of a device. This sensor is typically used to determine whether a handset is being held up to a persons ear</string>
+        <string name="Rotation">Measures the orientation of a device by providing the three elements of the devices rotation vector.</string>
+        <string name="RotationX">Measures the orientation of a device by providing the three elements of the devices rotation vector.</string>
+        <string name="RotationY">Measures the orientation of a device by providing the three elements of the devices rotation vector.</string>
+        <string name="RotationZ">Measures the orientation of a device by providing the three elements of the devices rotation vector.</string>
+        <string name="GravityX">Measures the force of gravity in m/s2 that is applied to a device on X axis</string>
+        <string name="GravityY">Measures the force of gravity in m/s2 that is applied to a device on Y axis</string>
+        <string name="GravityZ">Measures the force of gravity in m/s2 that is applied to a device on Z axis</string>
+        <string name="RotationRateX">Measures a devices rate of rotation in rad/s around X axis</string>
+        <string name="RotationRateY">Measures a devices rate of rotation in rad/s around Y axis</string>
+        <string name="RotationRateZ">Measures a devices rate of rotation in rad/s around Z axis</string>
+        <string name="Light">Measures the ambient light level (illumination) in lx.</string>
+        <string name="Humidity">Measures the relative ambient humidity in percent (%).</string>
+        <string name="Pressure">Measures the ambient air pressure in hPa or mbar.</string>
+        <string name="Temperature">Measures the temperature of the device in degrees Celsius (°C).</string>
+        <string name="SOCModel">Model name of SOC. A system on a chip or system on chip (SoC or SOC) is an integrated circuit (IC) that integrates all components of a mobile phone ,computer or other electronic system into a single chip.</string>
+        <string name="CPUarchitecture">CPU architecture</string>
+        <string name="CPUimplementer">Implementer of CPU</string>
+        <string name="CPUvariant">Variantof CPU</string>
+        <string name="CPUpart">CPU part</string>
+        <string name="CPUrevision">CPU revision</string>
+        <string name="Features">CPU Features</string>
+        <string name="BatteryCapacity">Capacity of battery in millAmphereHour (mAh)</string>
+        <string name="CPUModel"> Model name of CPU</string>
+        <string name="AndroidID"> A 64-bit number (as a hex string) that is randomly generated on the device first boot and should remain constant for the lifetime of the device. (The value may change if a factory reset is performed on the device.)</string>
+        <string name="LoadAverage">In UNIX computing, the system load is a measure of the amount of computational work that a computer system performs. The load average represents the average system load over a period of time. It conventionally appears in the form of three numbers which represent the system load during the last one-, five-, and fifteen-minute periods.</string>
+        <string name="JavaHeap">The Java heap is the amount of memory allocated to applications running in the Java Virtual Machine. </string>
+        <string name="SSID">It is Service Set identifier (SSID) - a series of 0 to 32 octets. It is used as a unique identifier for a wireless LAN. Since this identifier must often be entered into devices manually by a human user, it is often a human-readable string and thus commonly called the Network name.</string>
+        <string name="BSSID">The BSSID is the MAC address of the wireless access point (WAP) generated by combining the 24 bit Organization Unique Identifier (the manufacturers identity) and the manufacturers assigned 24-bit identifier for the radio chipset in the WAP</string>
+        <string name="MACAddress">A media access control address (MAC address) is a unique identifier assigned to network interfaces for communications on the physical network segment. MAC addresses are used as a network address for most IEEE 802 network technologies, including Ethernet and WiFi.</string>
+        <string name="LinkSpeed">The maximum wireless links speed the router can provide.It is the internal WLAN connection speed between the device and the router, It is not  internet speed.</string>
+        <string name="Fingerprintsensor">Fingerprint recognition or fingerprint authentication refers to the automated method of verifying a match between two human fingerprints. Fingerprints are one of many forms of biometrics used to identify individuals and verify their identity.</string>
+        <string name="CurrentMeter">Instantaneous battery current in milli-Amperes, as an integer. Positive values indicate net current entering the battery from a charge source, negative values indicate net current discharging from the battery.
+ Tip : You will see large negative values for high power usages like flashlight , full brightness of screen etc.
+ and large positive values for charging.</string>
+
+
+        <string name="Fab">"Semiconductor device fabrication is the process used to create the integrated circuits that are present in everyday electrical and electronic devices. It is a multiple-step sequence of photolithographic and chemical processing steps during which electronic circuits are gradually created on a wafer made of pure semiconducting material. Examples 28 nm , 14 nm , 10 nm FinFET etc."</string>
+
+        <string name="BatteryHealth">Health of battery like Cold, Overheat, Good, Overvoltage.</string>
+        <string name="Sensorsize">Size of camera sensor length X width</string>
+        <string name="FocalLength">The distance between the centre of a camera lens and its focus.</string>
+        <string name="Digitalzoom">Digital zoom is a method of decreasing the apparent angle of view of a digital photographic or video image. Digital zoom is accomplished by cropping an image down to a centered area with the same aspect ratio as the original, and usually also interpolating the result back up to the pixel dimensions of the original. It is accomplished electronically, with no adjustment of the camera optics, and no optical resolution is gained in the process.</string>
+        <string name="Facedetection">Face detection is a computer technology being used in a variety of applications that identifies human faces in digital images.</string>
+        <string name="MaxFacecount">The maximum number of simultaneously detectable faces</string>
+        <string name="Flash">A flash is a device used in photography producing a flash of artificial light to help illuminate a scene. A major purpose
+            of a flash is to illuminate a dark scene.</string>
+ <string name="d_Display">Display</string>
+    <string name="d_Dimensions">Dimensions</string>
+    <string name="d_System_Uptime">System uptime</string>
+    <string name="d_Build_ID">Build ID</string>
+    <string name="d_build_time">Build Time</string>
+    <string name="d_total_ram">Total RAM</string>
+    <string name="d_free_ram">Free RAM</string>
+    <string name="d_WiDi">WIFI</string>
+    <string name="d_Removable_Storage">Removable Storage</string>
+    <string name="d_Camera_autofocus">Camera autofocus</string>
+    <string name="d_Live_TV">Live TV</string>
+    <string name="d_Live_Wallpaper">Live wallpaper</string>
+    <string name="d_Multiple_Users">Multiple Users</string>
+    <string name="d_Head_Tracking">Head Tracking</string>
+    <string name="d_VR_mode">VR mode</string>
+    <string name="d_High_VR_mode">High VR mode</string>
+     <string name="d_Discharging">Discharging</string>
+    <string name="Charging">Charging</string>
+    <string name="Battery">Battery</string>
+    <string name="d_USB">USB</string>
+    <string name="d_AC">AC</string>
+    <string name="d_Wireless">Wireless</string>
+    <string name="d_Connected">Connected</string>
+    <string name="d_Disconnected">Disconnected</string>
+    <string name="d_Digital_zoom">Digital zoom</string>
+    <string name="d_isosensitivity">ISO sensitivity</string>
+    <string name="d_facedetectcount">Max Face count</string>
+    <string name="Cameramp">Size of Camera in Megapixels</string>
+    <string name="CameraResolution">The resolution of a camera will be the number of pixels on the sensor. i.e. how many points of light can the sensor capture in an image. For eg. a sensor may be 4000x3000 pixels in size, making it a 12 Megapixels sensor.</string>
+ <string name="d_Discharging">Discharging</string>
+    <string name="Charging">Charging</string>
+    <string name="Battery">Battery</string>
+    <string name="d_USB">USB</string>
+    <string name="d_AC">AC</string>
+    <string name="d_Wireless">Wireless</string>
+    <string name="d_Connected">Connected</string>
+    <string name="d_Disconnected">Disconnected</string>
+    <string name="d_Digital_zoom">Digital zoom</string>
+    <string name="d_isosensitivity">ISO sensitivity</string>
+    <string name="d_facedetectcount">Max Face count</string>
+    <string name="Cameramp">Size of Camera in Megapixels</string>
+    <string name="CameraResolution">The resolution of a camera will be the number of pixels on the sensor. i.e. how many points of light can the sensor capture in an image. For eg. a sensor may be 4000x3000 pixels in size, making it a 12 Megapixels sensor.</string>
+    <string name="d_delete_topic">Delete topic</string>
+    <string name="d_are_you_sure">Are you sure ?</string>
+    <string name="No">No</string>
+    <string name="Delete">Delete</string>
+    <string name="d_firstpostrequirment">First introduction post should have at least 100 characters</string>
+    <string name="d_FINGERPRINT">FINGERPRINT</string>
+    <string name="d_ACCELEROMETER">ACCELEROMETER</string>
+    <string name="d_TEMPERATURE">TEMPERATURE</string>
+    <string name="d_GRAVITY">GRAVITY</string>
+    <string name="d_GYROSCOPE">GYROSCOPE</string>
+    <string name="d_LIGHT">LIGHT</string>
+    <string name="d_MAGNETICFIELD">MAGNETIC FIELD</string>
+    <string name="d_HEARTRATE">HEART RATE</string>
+    <string name="d_PRESSURE">PRESSURE</string>
+    <string name="d_ORIENTATION">ORIENTATION</string>
+    <string name="d_PROXIMITY">PROXIMITY</string>
+    <string name="d_HUMIDITY">HUMIDITY</string>
+    <string name="d_ROTATION">ROTATION</string>
+    <string name="d_IRISSENSOR">IRIS SENSOR</string>
+    <string name="d_SPO2SENSOR">SPO2 SENSOR</string>
+    <string name="d_Sensors">Sensors</string>
+    <string name="d_dataspeedmonitor">Data speed Monitor</string>
+    <string name="d_AccelerationX">Acceleration X</string>
+    <string name="d_AccelerationY">Acceleration Y</string>
+    <string name="d_AccelerationZ">Acceleration Z</string>
+    <string name="d_accelerationunit">m/s2</string>
+    <string name="d_sensorName">Name</string>
+    <string name="d_MaxRange">Max Range</string>
+    <string name="d_S_Resolution">Resolution</string>
+    <string name="d_microsecond">microsecond</string>
+    <string name="d_MinimumDelay">Minimum Delay</string>
+    <string name="d_mA">mA</string>
+    <string name="d_PowerConsumption">Power Consumption</string>
+    <string name="d_S_Vendor">Vendor</string>
+
+    <string name="d_RotationX">Rotation X</string>
+    <string name="d_RotationY">Rotation Y</string>
+    <string name="d_RotationZ">Rotation Z</string>
+    <string name="d_GravityX">Gravity X</string>
+    <string name="d_GravityY">Gravity Y</string>
+    <string name="d_GravityZ">Gravity Z</string>
+    <string name="d_gyroscopeunit">rad/s</string>
+    <string name="d_rotationunit">rad/s</string>
+    <string name="d_RotationRateX">Rotation Rate X</string>
+    <string name="d_RotationRateY">Rotation Rate Y</string>
+    <string name="d_RotationRateZ">Rotation Rate Z</string>
+    <string name="d_Humidity">Humidity</string>
+    <string name="d_lux">lux</string>
+    <string name="d_Light">Light</string>
+    <string name="d_magneticunit">μT</string>
+    <string name="d_MagneticfieldX">Magnetic field X</string>
+    <string name="d_MagneticfieldY">Magnetic field Y</string>
+    <string name="d_MagneticfieldZ">Magnetic field Z</string>
+    <string name="d_Azimuth">Azimuth</string>
+    <string name="d_Pitch">Pitch</string>
+    <string name="d_Roll">Roll</string>
+    <string name="d_Pressure">Pressure</string>
+    <string name="d_pressureunit">mbar</string>
+    <string name="d_Proximity">Proximity</string>
+    <string name="d_cm">cm</string>
+    <string name="d_Natural">Natural</string>
+    <string name="d_90cc">90° Counter Clockwise</string>
+    <string name="d_180c">180° Clockwise</string>
+    <string name="d_90c">90° Clockwise</string>
+    <string name="d_RotationSensor">Rotation Sensor</string>
+    <string name="d_Rotation">Rotation</string>
+    <string name="d_OnTrigger">On Trigger</string>
+    <string name="s_Steps">Steps</string>
+     <string name ="storediscription">CPU X shows most complete information about devices like processor, cores, speed, model, ram, camera, sensors etc. See most detailed specifications of other Android smartphones.
+You can discuss with smartphone enthusiasts around the world to exchange ideas and share knowledge. You can ask questions or give answers.
+
+
+FEATURES
+
+• Search Devices - See most detailed specifications of other Android smartphones.
+
+• Internet Speed Monitor - See current download and upload speed in notifications and combined speed in status bar.
+
+• Articles - helpful how-to guide and informative articles.
+
+• Question/answer forum - a special dedicated forum to solve problems and queries.
+
+• Discussion forum - a dedicated discussion forum for exchanging ideas , sharing knowledge related to android, smartphone, technology etc.
+
+• Announcements - weekly announcement of best users, posts, questions, answers etc.
+
+• Widget - a semi transparent widget on home screen displays at-a-glance information of device's important status.</string>
+    </resources>

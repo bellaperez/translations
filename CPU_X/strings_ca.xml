@@ -1,0 +1,1181 @@
+<resources>
+        <string name="app_name">CPU X</string>
+
+
+        <string name="sign_in">Inicia la sessió</string>
+
+
+        <string-array name="planets_array">
+            <item>Bateria</item>
+            <item>Mida de la pantalla</item>
+            <item>Longitud</item>
+            <item>Amplada</item>
+            <item>Gruix</item>
+            <item>Pes</item>
+            <item>Nom del model</item>
+            <item>Vidre</item>
+            <item>Resistència a l\'aigua</item>
+            <item>CPU</item>
+            <item>Fabricant</item>
+            <item>Càmera del darrera</item>
+            <item>Càmera del davant</item>
+
+        </string-array>
+
+        <string-array name="cores_array">
+            <item>Un sol nucli</item>
+            <item>Dos nuclis</item>
+            <item>Quatre nuclis</item>
+            <item>Sis nuclis</item>
+            <item>Vuit nuclis</item>
+            <item>Deu nuclis</item>
+        </string-array>
+
+        <string name="navigation_drawer_open">Obre el calaix de navegació</string>
+        <string name="navigation_drawer_close">Tanca el calaix de navegació</string>
+
+
+
+        <string name="rta_dialog_ok">Puntuació</string>
+        <string name="rta_dialog_no">No, gràcies</string>
+        <string name="cancel">Cancel·la</string>
+
+        <string name="category1">Ajustaments de l\'aplicació</string>
+
+
+        <string name="summary_switch_preference1">El predeterminat és en bytes/s, 1 byte = 8 bits</string>
+        <string name="summary_switch_preference2">Mostra la temperatura de la bateria a les notificacions</string>
+        <string name="summary_switch_preference3">El predeterminat és en Celsius</string>
+        <string name="title_switch_preference1">La velocitat en bits/s</string>
+        <string name="title_switch_preference2">Monitor de la temperatura</string>
+        <string name="title_switch_preference3">La temperatura és en Fahrenheit</string>
+
+
+
+        <string name="battery_level">Nivell de la bateria</string>
+        <string name="battery_temperature">Temperatura de la bateria</string>
+        <string name="battery_voltage">Voltatge de la bateria</string>
+        <string name="battery_technology">Tecnologia de la bateria</string>
+        <string name="battery_status">Estat de la bateria</string>
+        <string name="power_source">Font d\'alimentació</string>
+        <string name="battery_capacity">Capacitat de la bateria</string>
+        <string name="current_meter">Mesurador del corrent</string>
+
+        <string name="Available">Admès</string>
+
+        <string name="no_connection">Sense connexió a Internet, la velocitat de les dades es mostrarà quan estigueu connectat a Internet</string>
+       
+
+        <string name="data_connection">Connexió amb dades</string>
+        <string name="data_type">Tipus de dades</string>
+        <string name="network">Xarxa</string>
+        <string name="demoip">0.0.0.0</string>
+        <string name="ip_address">Adreça IP</string>
+        <string name="data_usage">Ús de les dades</string>
+        <string name="download_speed">Velocitat de baixada</string>
+        <string name="upload_speed">Velocitat de pujada</string>
+        <string name="bssid">BSSID</string>
+        <string name="mbps">Mbps</string>
+        <string name="link_speed">Velocitat de l\'enllaç</string>
+
+
+        <string-array name="versions">
+            <item>ANDROID BASE</item>
+            <item>ANDROID BASE 1.1</item>
+            <item>CUPCAKE</item>
+            <item>DONUT</item>
+            <item>ECLAIR</item>
+            <item>ECLAIR_0_1</item>
+            <item>ECLAIR_MR1</item>
+            <item>FROYO</item>
+            <item>GINGERBREAD</item>
+            <item>GINGERBREAD_MR1</item>
+            <item>HONEYCOMB</item>
+            <item>HONEYCOMB_MR1</item>
+            <item>HONEYCOMB_MR2</item>
+            <item>ICE_CREAM_SANDWICH</item>
+            <item>ICE_CREAM_SANDWICH_MR1</item>
+            <item>JELLY_BEAN</item>
+            <item>JELLY_BEAN_MR1</item>
+            <item>JELLY_BEAN_MR2</item>
+            <item>KITKAT</item>
+            <item>KITKAT_WATCH</item>
+            <item>LOLLIPOP</item>
+            <item>LOLLIPOP_MR1</item>
+            <item>Marshmallow</item>
+            <item>Nougat</item>
+            <item>Nougat</item>
+            <item>Oreo</item>
+            <item>Oreo</item>
+            <item>Pie</item>
+            <item>Pie</item>
+        </string-array>
+
+
+      
+
+        <string name="permission_info">El CPU X necessita el permís de la càmera per a mostrar les seves especificacions. No rebrà cap imatge ni vídeo, només llegirà les especificacions.</string>
+        
+
+        <string name="title_activity_answers">Respostes</string>
+        <string name="title_activity_replay">Publicació repetida</string>
+        <string name="title_activity_post_message">Publicació</string>
+
+        <string-array name="sortorder">
+            <item>Més votada</item>
+            <item>Més nova</item>
+            <item>Ordena per data</item>
+            <item>Avui</item>
+            <item>Aquesta setmana</item>
+            <item>Aquest mes</item>
+        </string-array>
+
+        <string-array name="sortorderdiscussion">
+            <item>Ordena per data</item>
+            <item>Més nova</item>
+            <item>Més votada</item>
+            <item>Avui</item>
+            <item>Aquesta setmana</item>
+            <item>Aquest mes</item>
+        </string-array>
+        <string-array name="sortorderdiscussionmod">
+            <item>Ordena per data</item>
+            <item>Més nova</item>
+            <item>Més votada</item>
+            <item>Avui</item>
+            <item>Aquesta setmana</item>
+            <item>Aquest mes</item>
+        </string-array>
+
+        <string-array name="sortordermod">
+            <item>Més votada</item>
+            <item>Més nova</item>
+            <item>Ordena per data</item>
+            <item>Avui</item>
+            <item>Aquesta setmana</item>
+            <item>Aquest mes</item>
+            <item>Més etiquetada</item>
+
+
+        </string-array>
+
+        <string-array name="topicsortorder">
+            <item>Temes nous</item>
+            <item>Més respostes</item>
+            <item>Temes principals</item>
+            <item>Aquesta setmana</item>
+            <item>Aquest mes</item>
+            <item>Els vostres temes</item>
+        </string-array>
+
+        <string-array name="questionsortorder">
+            <item>Preguntes noves</item>
+            <item>Més respostes</item>
+            <item>Preguntes més freqüents</item>
+            <item>Aquesta setmana</item>
+            <item>Aquest mes</item>
+            <item>Les vostres preguntes</item>
+
+
+        </string-array>
+
+        <string-array name="flagreport">
+            <item>No informativa</item>
+            <item>Irrellevant</item>
+            <item>Ofensiva</item>
+            <item>Enganyosa</item>
+
+
+        </string-array>
+        <string name="title_activity_post_answer">Resposta</string>
+        <string name="title_activity_settings">Ajustaments</string>
+
+    
+
+        <string name="title_activity_replay_answer">Resposta repetida</string>
+        <string name="title_activity_widgetoption">Estri (widget)</string>
+
+
+
+
+
+        <string name="guidelines">CPU X: informació del sistema i del maquinari és una aplicació lliure per a Android que ajuda a obtenir més coneixements sobre Android, tecnologia, dispositius i maquinari. Inclou un Fòrum de debat i de resposta a preguntes, el qual està dissenyat per a compartir els coneixements i intercanviar les idees.
+
+\n\nLímits actuals:
+
+\nL\'usuari pot crear un tema de discussió cada dia.
+\nL\'usuari pot enviar 20 publicacions cada dia.
+\nL\'usuari pot fer una pregunta cada dia.
+\nL\'usuari pot donar 20 respostes cada dia.
+        \n Els usuaris poden actualitzar o suprimir el contingut generat fins a 24 hores des de la seva creació.
+
+\n\nTema a debat:
+\n\nEl tema a debat hauria d\'estar relacionat amb Android, mòbils, tecnologia, telèfons intel·ligents i aplicacions. Està limitat a 300 caràcters (escriure-hi en anglès).
+
+\n\nExemple 1: Estat de la tecnologia FinFET per CPU.
+\nExemple 2: Estabilització òptica de la imatge en les càmeres del mòbil.
+\nExemple 3: Millors característiques de Android 8.0 Oreo.
+
+\n\nÉs possible que se suprimeixin els temes sense relació:
+\nExemple: Millors cotxes amb gasolina.
+
+
+\n\nPreguntes:
+
+\n\nLes preguntes hauran de ser específiques i relacionades amb la tecnologia Android, la tecnologia mòbil, les aplicacions, etc. Estan limitades a 300 caràcters (escriure-hi en anglès).
+\nExemple 1: Quin és el millor telèfon amb un pressupost per sota dels 300 dòlars?
+\nExemple 2: Quins avantatges té la doble càmera en els telèfons mòbils?
+\nExemple 3: Com millorar la durada de la bateria?
+
+
+\n\nPublicacions:
+\n\nLes publicacions hauran de ser informatives, rellevants i útils. Estan limitades a 2000 caràcters (escriure-hi en anglès).
+
+\n\nExemple: Qualsevol publicació que contingui un coneixement compartit sobre un determinat tema.
+
+\n\nEs poden suprimir els següents tipus de publicacions:
+
+\n\n1) Una publicació que no té res a veure amb el tema.
+\n2) Ús de termes ofensius com racials/de gènere/sexuals/religiosos o de frases feridores.
+\n3) Atacs personals a altres usuaris en els debats.
+\n4) Amb enllaços a contingut inadequat o sense relació.
+\n5) Publicació d\'informació personal, com ara números de telèfon, adreces, correus electrònics, etc.
+
+
+
+\n\nRespostes:
+
+\n\nLes respostes hauran de ser informatives, relacionades i útils. Estan limitades a 2000 caràcters (escriure-hi en anglès).
+
+\n\nEs poden suprimir els següents tipus de respostes:
+
+\n\n1) Les respostes sense relació que no tenen res a veure amb les preguntes.
+
+\n\n2) Amb enllaços a contingut inadequat o sense relació.
+
+\n\n3) Ús de termes ofensius com racials/de gènere/sexuals/religiosos o de frases feridores.
+
+\n\n4) Publicació d\'informació personal, com ara números de telèfon, adreces, correus electrònics, etc.
+
+\n\n5) Atacs personals a altres usuaris en les respostes.</string>
+
+
+        <string name="privacypolicy">\nQuant al:
+
+ \nCPU X: informació del sistema i del maquinari és una aplicació lliure per a Android que ajuda a obtenir més coneixements sobre el sistema Android, tecnologia, dispositius, maquinari, etc.
+\n\nDefinicions:
+\nInformació no personal.\n
+  Es tracta de la informació que no us fa personalment identificable, com ara la marca del dispositiu, el número de model, la memòria RAM, la CPU, etc.
+
+\n\nInformació personal identificable :-
+ \nÉs la informació no pública que us identifica com el vostre nom, adreça de correu electrònic, el número de telèfon, etc.
+
+\n\n1. Informació que recopilem.
+ \n1.1 Informació que ens proporcioneu.
+     \n\nEl CPU X utilitza l\'autenticació de Google per iniciar la sessió a l\'aplicació, el nom del perfil d\'usuari del compte de Google i l\'URL de la fotografia pública són la única informació d\'identificació personal que recopilem i ens permet que els altres usuaris coneguin qui va enviar una publicació o una resposta.
+
+     El CPU X no recopila les adreces de correu electrònic. Només es mostren a l\'aplicació amb el dispositiu que heu iniciat la sessió.
+
+\n\n1.2 Contingut generat per l\'usuari.
+     \n\nEl contingut creat per l\'usuari, com ara publicacions, respostes, preguntes, temes de debat, els m\'agrada o no m\'agrada per a les respostes i publicacions s\'emmagatzemen en el servidor.
+
+\n\n1.3 Dades tècniques del dispositiu.
+      \n\nEs tracta de la informació no personal sobre el dispositiu, com ara la marca, el número de model, la memòria RAM, la CPU, etc. Recopilem aquesta informació per a personalitzar l\'experiència de l\'usuari, de manera que podrem servir al client els debats relacionats amb la marca i el model des de l\'aplicació.
+
+\n\n1.4 Galetes i ID de publicitat.
+     \n\nHem implementat en aquesta aplicació el Google Analytics per a Firebase i els anuncis de Google Admob, els quals poden recopilar i utilitzar galetes i ID de publicitat per a publicar anuncis basats en interessos.
+     L\'usuari pot desactivar els anuncis basats en interessos amb els ajustaments aplicables al dispositiu, com ara els ajustaments per a la publicitat en el dispositiu o qualsevol altre mitjà disponible.
+
+
+\n\n 2. Com utilitza la informació el CPU X.
+    \n\nUtilitzem la informació per a proporcionar, personalitzar i millorar l\'experiència de l\'usuari amb l\'aplicació.
+     El nom s\'adjunta a la publicació, les respostes, el tema i a les preguntes perquè els altres usuaris puguin saber qui va crear aquesta informació en particular.
+     Els continguts generats per l\'usuari com publicacions, preguntes, debats, temes i respostes són accessibles per a tots els usuaris d\'aquesta aplicació. La informació tècnica del dispositiu, com ara la marca, el model, la CPU, etc. s\'utilitza per a servir al client els debats relacionats amb la marca i el model des de l\'aplicació.
+
+
+\n\n 3. Seguretat de les dades.
+   \n\nProtegim als usuaris d\'un accés no autoritzat, una revelació o destrucció no autoritzada de la informació que mantenim. La informació s\'emmagatzema als servidors de Google, els quals utilitzen SSL.
+
+\n\n 4. Informació que compartim.
+   \n\nNo compartim la informació personal amb cap empresa, organització ni particular.
+
+
+\n\n 5. Accés i actualització de la informació personal.
+   \n\nEl vostre nom associat amb el compte de Google amb el que inicieu la sessió, és la única la informació personal que recopilem quan inicieu la sessió.
+   Podeu accedir a aquesta informació des de la capçalera de navegació de l\'aplicació i, al costat, els temes de debat, publicacions, preguntes i respostes que hàgiu creat.
+   \n\nÉs possible que actualitzem les nostres polítiques de privadesa de tant en tant, per la qual cosa es recomana revisar periòdicament aquesta pàgina per a qualsevol canvi. Us informarem de qualsevol canvi publicant la nova política de privadesa en aquesta pàgina, els canvis seran efectius immediatament després d\'haver estat publicats.</string>
+        <string name="title_activity_help">Ajuda</string>
+        <string name="title_activity_notify">Notificació</string>
+        <string name="privacy_policy">política de privacitat.</string>
+
+        <string name="New">Nou</string>
+        <string name="New_post">Publicació nova</string>
+        <string name="New_Answer">Resposta nova</string>
+
+        <string name="fag_Device">Dispositiu</string>
+        <string name="fag_Discussion">Debat</string>
+        <string name="fag_Questions">Preguntes</string>
+        <string name="fag_Announcement">Anunci</string>
+        <string name="fag_Suggestions">Suggeriments</string>
+
+        <string name="needsignin">Inicieu la sessió per emprar aquesta característica.</string>
+        <string name="NAME">NOM</string>
+        <string name="OK">D\'acord</string>
+
+        <string name="Dismiss">Descarta</string>
+        <string name="No_Answers_yet">Encara no hi ha cap resposta</string>
+
+
+        <string name="No_Posts_yet">Encara no hi ha cap publicació</string>
+
+
+        <string name="Authentication_failed">Ha fallat l\'autenticació.</string>
+
+        <string name="Question_sent">Pregunta enviada</string>
+        <string name="Question_not_sent">Pregunta no enviada, s\'ha excedit el límit diari</string>
+
+
+
+        <string name="Remove_answer_for">Elimina la resposta per a</string>
+
+        <string name="Report_answer_as">Informa de la resposta com a</string>
+        <string name="No_action">Sense acció</string>
+        <string name="Thankyoureporting">Gràcies per informar, ens ajuda a mantenir la qualitat</string>
+        <string name="oncevoteanswer">Només podeu votar una vegada per resposta</string>
+        <string name="liked">Dóna el vot</string>
+        <string name="Disliked">Manlleva el vot</string>
+
+        <string name="Topic_sent">Tema enviat</string>
+        <string name="Topic_not_sent">Tema no enviat, s\'ha excedit el límit diari</string>
+        <string name="FSOC">SOC</string>
+        <string name="FSYSTEM">SISTEMA</string>
+        <string name="FNETWORK">XARXA</string>
+        <string name="FBATERY">BATERIA</string>
+        <string name="FSENSOES">SENSORS</string>
+        <string name="FFEATURES">CARACTERÍSTIQUES</string>
+        <string name="FCAMERA">CÀMERA</string>
+        <string name="FAD">ANUNCI</string>
+
+     
+
+
+
+        <string name="Remove_post_for">Elimina la publicació per a</string>
+        <string name="Report_post_as">Informa de la publicació com a</string>
+        <string name="oncevotepost">Només podeu votar una vegada per publicació</string>
+
+
+
+        <string name="Answer_sent">Resposta enviada</string>
+        <string name="Answer_not_sent">Resposta no enviada, s\'ha excedit el límit diari</string>
+
+        <string name="Post_sent">Publicació enviada</string>
+        <string name="Post_not_sent">Publicació no enviada, s\'ha excedit el límit diari</string>
+
+
+
+        <string name="Report_question_as">Informa de la pregunta com a</string>
+
+
+        <string name="Remove_Question_for">Elimina la pregunta per a</string>
+
+
+
+
+        <string name="No_Question_here">No hi ha cap pregunta</string>
+
+        <string name="Replay_sent">Resposta enviada</string>
+
+
+        <string name="Report_Topic_as">Informa del tema com a</string>
+        <string name="Remove_Topic_for">Elimina el tema per a</string>
+
+        <string name="No_topics_here">No hi ha cap tema</string>
+        <string name="No_connection">No hi ha connexió a Internet.</string>
+        <string name="new_topic_notify">Rebreu notificacions per a publicacions noves sobre aquest tema</string>
+        <string name="new_topic_notify_not">No rebreu notificacions per a publicacions noves sobre aquest tema</string>
+        <string name="new_answer_notify">Rebreu una notificació per una resposta nova sobre aquesta pregunta</string>
+        <string name="new_answer_notify_not">No rebreu cap notificació de resposta nova sobre aquesta pregunta</string>
+
+
+
+        <string name="Question_can_not_empty">La pregunta no pot estar buida i com a mínim haurà de contenir 5 lletres.</string>
+        <string name="Topic_can_not_be_empty">El tema no pot estar buit i com a mínim haurà de contenir 5 lletres.</string>
+        <string name="Post_can_not_be_empty">La publicació no pot estar buida i com a mínim haurà de contenir 2 lletres.</string>
+        <string name="Answer_can_not_be_empty">La resposta no pot estar buida i com a mínim haurà de contenir 2 lletres.</string>
+
+
+
+
+        <string name="Update_success">Actualitzada amb èxit</string>
+        <string name="Update_failed">Ha fallat en actualitzar</string>
+        <string name="Topic_deleted">S\'ha suprimit el tema</string>
+        <string name="Topic_not_deleted">El tema no s\'ha suprimit</string>
+        <string name="reporttopic">Informa sobre el tema</string>
+        <string name="reportquestion">Informa sobre la pregunta</string>
+        <string name="Question_deleted">S\'ha suprimit la pregunta</string>
+        <string name="Question_not_deleted">La pregunta no s\'ha suprimit</string>
+
+        <string name="Post_deleted">S\'ha suprimit la publicació</string>
+        <string name="Post_not_deleted">La publicació no s\'ha suprimit</string>
+        <string name="Answer_not_deleted">La resposta no s\'ha suprimit</string>
+        <string name="Answer_deleted">S\'ha suprimit la resposta</string>
+        <string name="Questions">Preguntes</string>
+
+
+        <string name="Camera">Una càmera és un instrument òptic per enregistrar o capturar imatges, el qual es pot emmagatzemar localment, transmetre\'s a una altra ubicació o ambdues. Les imatges poden ser fotografies individuals o seqüències d\'imatges que constitueixen vídeos o pel·lícules. La càmera és un dispositiu de detecció remota ja que detecta subjectes sense cap contacte.</string>
+
+        <string name="No_Camera_4">Sense càmera 4</string>
+        <string name="No_dual_Camera">No hi ha doble càmera</string>
+
+        <string name="No_Front_Camera">Sense càmera al davant</string>
+
+        <string name="Speed_Off">Velocitat en tancar</string>
+        <string name="Speed_On">Velocitat en engegar</string>
+
+
+
+
+
+        <string name="Search_devices">Cerca de dispositius</string>
+        <string name="SIGN_IN">INICIA LA SESSIÓ</string>
+
+
+        <string name="Daily_limit_reached">S\'ha abastat el límit diari</string>
+
+        <string name="Quad_core">Quatre nuclis</string>
+
+
+
+        <string name="onevalue">Podeu afegir el valor un cop per paràmetre i per dispositiu</string>
+        <string name="hgfr">Introduïu els valors del clúster 2 de la CPU i del clúster 3 de la CPU</string>
+        <string name="fdn">Introduïu els valors del clúster 2 de la CPU</string>
+
+
+        <string name="Valuesubmitted">S\'ha enviat el valor, gràcies.</string>
+        <string name="dfsfdh">Introduïu els valors del joc de xips i freqüència</string>
+
+
+        <string name="gjkkh">Introduïu el valor de la càmera principal</string>
+
+        <string name="weretwt">Introduïu el valor de la càmera secundària</string>
+
+
+        <string name="piopp">Introduïu el valor de la càmera principal</string>
+
+        <string name="ffghdfh">Introduïu el valor de la càmera secundària</string>
+        <string name="Enter_value">Introduïu el valor</string>
+
+        <string name="batteryvalue">Capacitat de la bateria, p. ex., 3000, 4000 en mAh</string>
+        <string name="screensizevalue">Mida de la pantalla, p. ex., 4.5, 5 , 5.5 en polzades</string>
+        <string name="lengthvalue">Longitud del dispositiu, p. ex., 147, 151.1 , 155.2 en mm</string>
+        <string name="widthvalue">Amplada del dispositiu, p. ex., 75.7, 71.0 , 68 en mm</string>
+        <string name="thicknessvalue">Gruix del dispositiu, p. ex., 8.1, 7.8, 9 en mm</string>
+        <string name="weightvalue">Pes del dispositiu, p. ex., 160 , 128, 175 en grams</string>
+        <string name="modelnamevalue">Nom de model del dispositiu, p. ex., Galaxy S8, Redmi 5, Moto G5, etc.</string>
+        <string name="glassvalue">Tipus de vidre, p. ex., Gorilla glass 3, Gorilla glass 4, vidre de safir, etc.</string>
+        <string name="ipratingvalue">Grau de protecció IP, p. ex., IP68, IP67, etc.</string>
+        <string name="cpuvalue">Afegir detalls de la CPU, p. ex., SOC - MSM8926, MSM8994, MT6797T, Kirin950, samsungexynos8895, etc., nom de model SOC, p. ex., Snapdragon 821, Helip P27, etc., informació sobre el clúster de la CPU, p. ex., quatre nuclis a 1.5 GHz Cortex A-53</string>
+        <string name="fabvalue">Procés de fabricació de la CPU, p. ex., 28nm HPm, 14 nm LPP, 10 nm FinFET LPE, etc.</string>
+        <string name="rcamvalue">Càmera del darrera, p. ex., 12 , 16, 8 en megapíxels</string>
+        <string name="fcamvalue">Càmera del davant, p. ex., 12 , 16, 8 en megapíxels</string>
+        <string name="rbad">Seleccioneu un paràmetre</string>
+
+        <string name="accept">Accepta</string>
+        <string name="acceptanswer">Accepteu aquesta resposta?</string>
+
+
+        <string name="ratemessage1">Us agrada aquesta aplicació?</string>
+        <string name="ratemessage2">La valoració d\'una aplicació és molt important per al desenvolupador, ens permet millorar l\'experiència amb l\'aplicació i de l\'usuari. Si us plau, valoreu la nostra aplicació a la Play Store.</string>
+        <string name="ratemessage3">Feu-nos saber com podem fer que el CPU X sigui millor.</string>
+
+        <string name="checkprofilefilds">Marqueu tots els camps que no poden estar buits o que són massa curts.</string>
+        <string name="prfogileupdatelimit">El perfil es podrà actualitzar després de 24 hores.</string>
+        <string name="fewsevondstoreflectchange">En pocs segons es reflectiran els canvis.</string>
+
+        <string name="userwilldisabled">L\'usuari serà inhabilitat, poseu-vos en contacte amb el moderador si ha succeït per error.</string>
+        <string name="Note">Nota</string>
+        <string name="Disable">Inhabilita</string>
+
+        <string name="noawards">Premis: Encara no hi ha cap premi</string>
+
+        <string name="awardmoderator">Premiat per 20.000 registres de reputació i positius del fòrum pels moderadors actuals</string>
+        <string name="awardmentor">Premiat per 10.000 registres de reputació i positius.</string>
+        <string name="awardexpert">Premiat per 5.000 registres de reputació.</string>
+        <string name="awardlegend">Premiat per més de 30 temes de debat i publicacions diàries durant 30 dies.</string>
+        <string name="awardtroublershooter">Premiat per 200 respostes i un total de 2.000 registres de reputació.</string>
+        <string name="awardtopcontributor">Premiat per 200 publicacions/respostes i 1.000 registres de reputació.</string>
+        <string name="awardexplainer">Premiat per 100 respostes o publicacions i 1.000 registres de reputació</string>
+        <string name="awardpublisher">Premiat per la creació de 50 temes de debat</string>
+        <string name="awardsocratic">Premiat per fer 20 preguntes ben rebudes.</string>
+        <string name="awardannouncer">Premiat per la creació de 10 temes de debat.</string>
+        <string name="awardgreatpost">Premiat per una publicació que ha rebut 100 vots ascendents.</string>
+        <string name="awardjournalist">Premiat per la creació de 25 temes de debat.</string>
+        <string name="awardgreatanswer">Premiat per una resposta que ha rebut 100 vots ascendents.</string>
+        <string name="awardguru">Premiat per una resposta acceptada que ha rebut 40 vots ascendents.</string>
+        <string name="awardteacher">Premiat per una resposta acceptada.</string>
+        <string name="awardcivicduty">Premiat per votar 300 vegades.</string>
+        <string name="awardcurious">Premiat per fer 5 preguntes.</string>
+        <string name="awardgoodanswer">Premiat per una resposta que ha rebut 25 vots ascendents.</string>
+        <string name="awardgoodpost">Premiat per una publicació que ha rebut 25 vots ascendents.</string>
+        <string name="awardscholar">Premiat per fer una pregunta i acceptar la resposta.</string>
+        <string name="awardtalkative">Premiat en abastar un total de 20 publicacions.</string>
+        <string name="awardselflearner">Premiat en respondre a la vostra pròpia pregunta.</string>
+        <string name="awardsupporter">Premiat pels 10 primers vots ascendents.</string>
+        <string name="awardniceanswer">Premiat per una resposta que ha rebut 10 vots ascendents.</string>
+        <string name="awardnicepost">Premiat per una publicació que ha rebut 10 vots ascendents.</string>
+        <string name="awardsandbadges">\nReputació :- \n\nÉs la mesura de la quantitat en que la comunitat confia en tu -es guanya contribuint al fòrum-.
+        \n\n Guanyareu reputació quan:
+        \n
+        \n• Doneu el vot per una resposta o publicació = +1
+        \n• Manlleveu el vot per una resposta o publicació = -1
+        \n• La resposta és acceptada = +25
+        \n• Accepteu una resposta = +5
+        \n• Creeu un tema de debat = +10
+        \n• En suprimir-vos o eliminar un tema de debat = -10
+        \n• En suprimir-vos o eliminar una pregunta = -5
+        \n• En suprimir-vos una resposta o publicació = tots els vots ascendents o descendents seran eliminats de la reputació.
+
+
+\n\n\n Insígnies :-
+        \n\nRebreu insígnies per la vostra contribució al fòrum i per ser especialment útils.
+        Les insígnies apareixen a la pàgina del perfil i la insígnia més alta apareixerà a les publicacions i a les respostes.
+        \n\n Insígnies d\'or:
+
+        \n\n• Mentor: 10.000 de reputació i registre positiu.
+        \n• Expert: 5.000 de reputació i registre positiu.
+        \n• Solució de problemes: 200 respostes i 2.000 amb reputació.
+        \n• Col·laborador major: 200 publicacions o respostes i 1.000 amb reputació.
+        \n• Explicador: 100 respostes o publicacions i 1.000 amb reputació.
+        \n• Publicador: 50 temes de debat.
+        \n• Socràtic: demanar 20 preguntes ben rebudes.
+        \n• Gran publicació: una publicació que rep 100 vots ascendents.
+        \n• Gran resposta: una resposta que rep 100 vots ascendents.
+
+        \n\n Insígnies de plata:
+        \n\n• Periodista: crear 25 temes de debat.
+        \n• Announcer - crear 10 temes de debat.
+        \n• Gurú: resposta acceptada que rep 40 vots ascendents.
+        \n• Professor: s\'accepta la resposta.
+        \n• Deure cívic: l\'usuari ha votat 300 vegades.
+        \n• Curiós: ha fet 5 preguntes.
+        \n• Bon missatge: una publicació que ha rebut 25 vots ascendents.
+        \n• Bona resposta: una resposta que ha rebut 25 vots ascendents.
+
+        \n\n Insígnies de bronze:
+        \n\n• Savi: feu una pregunta i accepteu la resposta.
+        \n• Parlador: Total de 20 publicacions.
+        \n• Autodidacta: respon la seva pregunta.
+        \n• Partidari: ha votat els primers 10 vots ascendents.
+        \n• Resposta bona: una resposta que ha rebut 10 vots ascendents.
+        \n• Publicació bona: una publicació que ha rebut 10 vots ascendents.</string>
+        <string name="ID">ID</string>
+
+
+        <string name="NoFrontCamera">Sense càmera al davant</string>
+        <string name="title_activity_create_article">Afegeix un article</string>
+
+        <!-- Strings related to login -->
+        <string name="prompt_email">Correu electrònic</string>
+        <string name="prompt_password">Contrasenya (opcional)</string>
+        <string name="action_sign_in">Inicia la sessió o enregistra\'m</string>
+        <string name="action_sign_in_short">Inicia la sessió</string>
+        <string name="error_invalid_email">Aquesta adreça de correu electrònic no és vàlida</string>
+        <string name="error_invalid_password">Aquesta contrasenya és massa curta</string>
+        <string name="error_incorrect_password">Aquesta contrasenya és incorrecta</string>
+        <string name="error_field_required">Aquest camp és obligatori</string>
+        <string name="permission_rationale">«Els permisos pels contactes són necessaris per a proporcionar la compleció del correu electrònic.»</string>
+        <string name="fag_Articles">Articles</string>
+        <string name="Article_not_sent">Article no enviat</string>
+
+        <string name="ramtype">Tipus de RAM</string>
+
+
+
+
+        <string name="category2">Rebre les notificacions</string>
+
+
+        <string name="hello_blank_fragment">Hola, fragment en blanc</string>
+      
+        <string name="battery_page_health_good">Bona</string>
+        <string name="battery_page_health_overheat">Sobreescalfada</string>
+        <string name="battery_page_health_dead">Morta</string>
+        <string name="battery_page_health_overvolt">Sobrevoltatge</string>
+        <string name="battery_page_health_cold">Freda</string>
+        <string name="battery_page_health_unspec_failure">FALLADA_SENSE_ESPECIFICAR</string>
+        <string name="value_unknown">Desconegut</string>
+        <string name="battery_health">Salut</string>
+        <string name="widgetoptiontext">Afegeix un estri a la pantalla inicial per accedir ràpidament als continguts de les aplicacions.\n
+        Els estris són un aspecte essencial per a la personalització de la pantalla inicial. Podeu imaginar-los com a vistes de les dades i les característiques més importants d\'una aplicació, a les quals es pot accedir directament des de la pantalla inicial.</string>
+        <string name="widgetoptiontext3">(2) La segona és el seu nivell de bateria en percentatge.</string>
+        <string name="widgetoptiontext5">(4) La quarta és la memòria RAM disponible.</string>
+        <string name="widgetoptiontext6">(5) La cinquena és l\'emmagatzematge intern disponible. \n\n</string>
+        <string name="widgetoptiontext4">(3) La tercera és la temperatura de la bateria en graus Celsius i en graus Fahrenheit.</string>
+        <string name="widgetoptiontext2">(1) La primera fila del títol de l\'aplicació i el botó de refresc sobre el botó de refresc tàctil, l\'estri torna a carregar els valors de dades actuals.</string>
+        <string name="replayto">Respondre a :</string>
+        <string name="onedot">1.</string>
+        <string name="twodot">2.</string>
+        <string name="threedot">3.</string>
+        <string name="answerscolon">Respostes :</string>
+        <string name="No_Data">Sense dades</string>
+        <string name="badgecolon">Insígnia :</string>
+        <string name="postscolon">Publicacions :</string>
+        <string name="topicscolon">Temes :</string>
+        <string name="questionscolon">Preguntes :</string>
+        <string name="reputationcolon">Reputació :</string>
+        <string name="Not_available">No disponible</string>
+        <string name="d_Length">Longitud</string>
+        <string name="d_Width">Amplada</string>
+        <string name="d_Thickness">Gruix</string>
+        <string name="d_Weight">Pes</string>
+        <string name="d_Size">Mida</string>
+        <string name="Inches">Polzades</string>
+        <string name="d_Resolution">Resolució</string>
+        <string name="d_Density">Densitat</string>
+        <string name="d_Glass">Vidre</string>
+        <string name="d_Brand">Marca</string>
+        <string name="d_manufacturer">Fabricant</string>
+        <string name="d_Model">Model</string>
+        <string name="d_Product">Producte</string>
+        <string name="d_Board">Tauler</string>
+        <string name="d_Hardware">Maquinari</string>
+        <string name="d_Battery">Bateria</string>
+        <string name="d_Chipset">Joc de xips</string>
+        <string name="d_CPU">CPU</string>
+        <string name="D_Clock_Speed">Velocitat del rellotge</string>
+        <string name="d_Fab">Fabricant</string>
+        <string name="d_ISA">ISA</string>
+        <string name="d_GPU">GPU</string>
+        <string name="d_API">API</string>
+        <string name="d_Version">Versió</string>
+        <string name="d_Version_Name">Nom de la versió</string>
+        <string name="d_Memory">Memòria</string>
+        <string name="d_RAM">RAM</string>
+        <string name="d_Storage">Emmagatzematge</string>
+        <string name="d_RAM_Type">Tipus de RAM</string>
+        <string name="d_Rear">Darrera</string>
+
+        <string name="d_Sensor_size">Mida del sensor</string>
+        <string name="d_Focal_length">Distància focal</string>
+        <string name="d_Aperature">Apertura</string>
+        <string name="d_Exposure_time">Temps d\'exposició</string>
+        <string name="d_Sensitivity">Sensibilitat</string>
+        <string name="d_Face_Detection">Detecció de les cares</string>
+        <string name="d_Flash">Flaix</string>
+        <string name="d_Front">Davant</string>
+        <string name="d_Fingerprint">Empremta dactilar</string>
+        <string name="d_Iris_Sensor">Sensor de l\'iris</string>
+        <string name="d_SpO2_sensor">Sensor del SpO2</string>
+        <string name="d_Heart_Rate">Ritme cardíac</string>
+        <string name="d_Accelerometer">Acceleròmetre</string>
+        <string name="d_Orintation">Orientació</string>
+        <string name="d_Magnetic_Sensor">Sensor magnètic</string>
+        <string name="d_Proximity_Sensor">Sensor de proximitat</string>
+        <string name="d_Rotation_sensor">Sensor de la rotació</string>
+        <string name="d_Gyroscope_sensor">Sensor del giroscopi</string>
+        <string name="d_Light_sensor">Sensor de la llum</string>
+        <string name="d_Gravity_sensor">Sensor de la gravetat</string>
+        <string name="d_Temperature_sensor">Sensor de la temperatura</string>
+        <string name="d_Pressure_sensor">Sensor de la pressió</string>
+        <string name="d_Humidity_sensor">Sensor de la humitat</string>
+        <string name="d_Step_detector">Detector dels passos</string>
+        <string name="d_WIFI">WIFI</string>
+        <string name="d_WIFI_direct">WIFI direct</string>
+        <string name="d_Bluetooth">Bluetooth</string>
+        <string name="d_Bluetooth_LE">Bluetooth LE</string>
+        <string name="d_GPS">GPS</string>
+        <string name="d_NFC">NFC</string>
+        <string name="d_Microphone">Micròfon</string>
+        <string name="d_USB_Host">Amfitrió USB</string>
+        <string name="d_USB_accessory">Accessori USB</string>
+        <string name="d_Multitouch">Multitàctil</string>
+        <string name="d_Printing">Impressió</string>
+        <string name="d_Secondary_display">Pantalla secundària</string>
+        <string name="d_Audio_low_latency">Baixa latència de l\'àudio</string>
+        <string name="d_Audio_Pro">Audio professional</string>
+        <string name="d_Automotive">Automoció</string>
+        <string name="d_External_camera">Càmera externa</string>
+        <string name="d_Front_camera">Càmera del davant</string>
+        <string name="d_Infrared_blaster">Receptor d\'infrarojos</string>
+        <string name="d_Ethernet">Ethernet</string>
+        <string name="d_Managed_users">Usuaris gestionats</string>
+        <string name="d_Telephony">Telefonia</string>
+        <string name="d_SIP">SIP</string>
+        <string name="d_SIP_VOIP">VOIP basat en SIP.</string>
+        <string name="fbdevicedetailsnative">450725865363113_492674974501535</string>
+        <string name="Sensor_not_available">Sensor no disponible</string>
+        <string name="pixels">píxels</string>
+        <string name="day">dia</string>
+        <string name="hour">hora</string>
+        <string name="minute">minut</string>
+        <string name="refresh">Refresca</string>
+        <string name="info">Informació</string>
+        <string name="menu">Menú</string>
+        <string name="delete">Suprimeix</string>
+
+        <string name="compass">Brúixola</string>
+        <string name="cpu_status">Estat de la CPU</string>
+        <string name="device">Dispositiu</string>
+        <string name="search_devices">Cerca de dispositius</string>
+        <string name="Articles">Articles</string>
+
+        <string name="Discussion">Debat</string>
+        <string name="Announcement">Anunci</string>
+        <string name="settings">Ajustaments</string>
+        <string name="widget">Estri (widget)</string>
+        <string name="help_amp_policy">Ajuda i política</string>
+        <string name="rate_us">Valora\'ns</string>
+
+        <string name="disable_user">Inhabilita l\'usuari</string>
+        <string name="show_data_speed_in_notifications">Mostra la velocitat de les dades a les notificacions</string>
+        <string name="your_post_here">La vostra publicació va aquí</string>
+        <string name="send">ENVIA</string>
+        <string name="widget_to_enable_disable_data_speed_notification_in_android_8_0_and_above_it_opens_app_settings_where_user_can_enable_disable_data_speen_notification">Estri per habilitar/inhabilitar la notificació de velocitat de les dades. A Android 8.0 i versions anteriors, s\'obrirà la configuració de l\'aplicació, des d\'on l\'usuari podrà habilitar/inhabilitar la notificació de velocitat de les dades.</string>
+        <string name="data_speed_widget">Estri per a la velocitat de les dades</string>
+        <string name="answer_should_be_informative_relevant_and_helpful">La resposta haurà de ser informativa, rellevant i útil.</string>
+        <string name="your_answer_here">La vostra resposta va aquí</string>
+        <string name="frequency">Freqüència</string>
+        <string name="time_in_state">Temps en l\'estat</string>
+        <string name="percenttime">% de temps</string>
+        <string name="your_manufacturer_does_not_allow_to_read_cpu_states">El fabricant no permet llegir els estats de la CPU.</string>
+        <string name="total_time">Temps total</string>
+        <string name="show_ad">Mostra l\'anunci</string>
+        <string name="other_account">Un altre compte</string>
+        <string name="d_Cores">Nuclis</string>
+        <string name="core_1">Nucli 1</string>
+        <string name="core_2">Nucli 2</string>
+        <string name="core_3">Nucli 3</string>
+        <string name="core_4">Nucli 4</string>
+        <string name="core_5">Nucli 5</string>
+        <string name="core_6">Nucli 6</string>
+        <string name="core_7">Nucli 7</string>
+        <string name="core_8">Nucli 8</string>
+        <string name="core_9">Nucli 9</string>
+        <string name="core_10">Nucli 10</string>
+        <string name="load">Càrrega</string>
+        <string name="instruction_set">Joc d\'instruccions</string>
+        <string name="cpu_governor">Governador de la CPU</string>
+        <string name="java_heap">Pila de Java</string>
+        <string name="d_id">ID</string>
+        <string name="host">Amfitrió</string>
+        <string name="bootloader">Carregador d\'arrencada</string>
+        <string name="baseband_version">Versió de la banda base</string>
+        <string name="kernel_version">Versió del nucli</string>
+        <string name="topic_should_be_relate">El tema hauria d\'estar relacionar amb Android, tecnologia, telèfons mòbils, aplicacions, etc. Nom del tema -</string>
+        <string name="your_topic_here">El vostre tema va aquí</string>
+        <string name="first_post">Primera publicació -</string>
+        <string name="your_post_here_minim">La vostra publicació va aquí, mínim de 100 caràcters. (Introducció, generalment descriu l\'objectiu del debat).</string>
+
+        <string name="essential">Essencial</string>
+        <string name="favourite">Preferit</string>
+        <string name="d_New">Nou</string>
+        <string name="features_to_be_included_in_next_update_next_update">Les característiques que s\'inclouran a la propera actualització, la següent data d\'actualització és el 20/06/2018.</string>
+        <string name="no_ads_available">No hi ha disponible cap anunci</string>
+        <string name="ideas_and_suggestions_to_make_this_app_better">Idees i consells per a millorar aquesta aplicació.</string>
+        <string name="feedback">Retroalimentació :</string>
+        <string name="send_email">Envia per correu electrònic</string>
+        <string name="or">o</string>
+        <string name="d_post">Publicació</string>
+        <string name="city_country">Ciutat, país</string>
+        <string name="update">Actualitza</string>
+        <string name="d_name">Nom</string>
+        <string name="d_occupation">Ocupació</string>
+
+        <string name="post_should_be_informative_relevant_and_helpful">La publicació haurà de ser informativa, rellevant i d\'ajuda.</string>
+        <string name="posting_guidelines">Directrius per a la publicació</string>
+        <string name="d_privacy_policy">Política de privacitat</string>
+        <string name="top">Millor</string>
+        <string name="most_posts">Millors publicacions</string>
+        <string name="week">Setmana</string>
+        <string name="month">Mes</string>
+        <string name="your">Vostres</string>
+        <string name="d_user">Usuari</string>
+        <string name="replay_to">Respondre a</string>
+
+        <string name="d_awards">Premis</string>
+        <string name="your_privacy">La vostra privacitat</string>
+        <string name="cpu_x_follows_all_legal_requirements_to_protect_your_privacy_we_do_not_collect_any_personal_information">El CPU X segueix tots els requisits legals per a protegir la vostra privadesa. No recopilem cap informació personal.</string>
+        <string name="definations">Definicions</string>
+        <string name="non_personal_information">Informació no personal</string>
+        <string name="para1">Aquesta és la informació que no us fa personalment identificable; com el model del dispositiu, el nom de la CPU, la memòria RAM, etc. la qual és la mateixa en tots els models en particular d\'un cert fabricant.</string>
+        <string name="personal_identifiable_information">Informació per a la identificació personal</string>
+        <string name="para2">Aquesta és la informació no pública que us identifica; com el vostre nom, adreça de correu electrònic, número de telèfon, etc. el CPU X no recull cap informació que us faci personalment identificable.</string>
+        <string name="app_permissions">Permisos de l\'aplicació</string>
+        <string name="major_permissions">Permisos importants</string>
+        <string name="view_wifi_connection">Veure la connexió WiFi</string>
+        <string name="para3">Aquest permís és obligatori per a mostrar-vos informació sobre la connexió WiFi; com la velocitat de l\'enllaç, el nom de la xarxa, etc. el CPU X no recopila ni emmagatzema la informació sobre la connexió WiFi.</string>
+        <string name="information_stored_on_device">Informació emmagatzemada al dispositiu</string>
+        <string name="para4">El CPU X emmagatzema la informació no personal al dispositiu, la qual està protegida i només s\'hi pot accedir des de l\'aplicació. Podeu accedir a aquesta informació amb l\'aplicació. Aquesta informació només s\'emmagatzema al dispositiu i es pot esborrar desinstal·lant l\'aplicació.</string>
+        <string name="information_stored_on_server">Informació emmagatzemada al servidor</string>
+        <string name="device_name">Nom del dispositiu</string>
+        <string name="select_parameter">Seleccioneu un paràmetre</string>
+        <string name="value">Valor</string>
+        <string name="enter_value">Introduïu el valor</string>
+        <string name="chipset">Joc de xips</string>
+        <string name="chipset_name">Nom del joc de xips</string>
+        <string name="cpu_clusters">Clústers de la CPU</string>
+        <string name="select_camera">Seleccioneu una càmera</string>
+        <string name="single">Sola</string>
+        <string name="dual">Dual</string>
+        <string name="primary">Primària</string>
+        <string name="secondary">Secundària</string>
+        <string name="submit">Envia</string>
+        <string name="top_users_of_the_week">Els millors usuaris de la setmana</string>
+        <string name="top_topics_of_the_week">Els millors temes de la setmana</string>
+        <string name="best_posts_of_the_week">Les millors publicacions de la setmana</string>
+        <string name="top_questions_of_the_week">Les millors preguntes més freqüents de la setmana</string>
+        <string name="best_answers_of_the_week">Les millors respostes de la setmana</string>
+        <string name="awards_and_badges">Premis i insígnies</string>
+        <string name="data_speed">Velocitat de les dades</string>
+        <string name="speed_off">Velocitat de tancament</string>
+        <string name="system">SISTEMA</string>
+        <string name="d_OS">SO</string>
+        <string name="d_Build">Construït el</string>
+        <string name="your_question_here">La vostra pregunta va aquí</string>
+
+        <string name="question_should_be_related_to_android_technology_mobile_phones_apps_etc">La pregunta haurà d\'estar relacionada amb Android, Tecnologia, telèfons mòbils, aplicacions, etc.</string>
+
+
+        <string name="most_answered">Amb més respostes</string>
+
+        <string name="d_body">COS</string>
+        <string name="d_display">PANTALLA</string>
+        <string name="d_CU">CPU</string>
+        <string name="d_system">SISTEMA</string>
+        <string name="d_memory">MEMÒRIA</string>
+        <string name="d_camera">CÀMERA</string>
+        <string name="d_sensors">SENSORS</string>
+        <string name="d_features">CARACTERÍSTIQUES</string>
+        <string name="d_Temperature">Temperatura</string>
+        <string name="d_voltage">Voltatge</string>
+        <string name="d_battery_health">Salut de la bateria</string>
+        <string name="d_technology">Tecnologia</string>
+        <string name="cores">Nuclis</string>
+
+        <string name="total_internal">Interna total</string>
+        <string name="free_internal">Interna lliure</string>
+        <string name="by_signing_in_you_are_agree_with_our">En iniciar la sessió, esteu d\'acord amb la nostra</string>
+        <string name="Suggestion">Consell</string>
+        <string name="GPS">El sistema de posicionament global (GPS) és un sistema de navegació per satèl·lit basat en l\'espai que proporciona la informació d\'ubicació i hora en totes les condicions meteorològiques, en qualsevol lloc o a prop del terra, on hi hagi una línia de visió sense obstacles amb quatre o més satèl·lits de GPS. El sistema proporciona capacitats crítiques als usuaris militars, civils i comercials arreu del món. El govern dels Estats Units va crear el sistema, el manté i el fa accessible de manera gratuïta a qualsevol que tingui un receptor de GPS.</string>
+
+        <string name="WIFI">La Wi-Fi (o WiFi) és una tecnologia de xarxa sense fil per a ordinadors en la zona local que permet que es connectin els dispositius electrònics, principalment amb les bandes de ràdio ISM de 2,4 gigahertz (12 cm) UHF i 5 gigahertz (6 cm) SHF.
+        La WiFi Alliance defineix la WiFi com qualsevol producte de xarxa local (WLAN) sense fils basat en els estàndards 802.11 de l\'Institut d\'Enginyeria Elèctrica i Electrònica (IEEE). Tanmateix, el terme Wi-Fi s\'usa en anglès general com a sinònim de WLAN, ja que la majoria de les WLAN modernes es basen en aquests estàndards. El Wi-Fi és una marca comercial de la Wi-Fi Alliance. La marca registrada «Wi-Fi CERTIFIED» només pot ser usada pels productes WiFi que realitzin satisfactòriament les proves de certificació d\'interoperabilitat de la Wi-Fi Alliance.</string>
+        <string name="WIFIDirect">La Wi-Fi Direct, inicialment anomenat Wi-Fi P2P, és un estàndard Wi-Fi que permet als dispositius connectar-se amb facilitat sense necessitat d\'un punt d\'accés sense fils. Es pot usar per a tot, des de la navegació per Internet fins a la transferència de fitxers i per a comunicar-se amb més d\'un dispositiu simultàniament a velocitats típiques de la WiFi.        Un avantatge de la Wi-Fi Direct és la possibilitat de connectar dispositius, fins i tot si són de diferents fabricants. Només un dels dispositius Wi-Fi haurà de complir amb el Wi-Fi Direct per establir una connexió d\'igual a igual que transferirà les dades directament entre ells amb una configuració molt reduïda.</string>
+        <string name="Bluetooth">El Bluetooth és un estàndard de tecnologia inalàmbrica per a intercanviar dades a distàncies curtes (usant ones de ràdio UHF amb longitud d\'ona curta en la banda ISM des de 2,4 a 2,485 GHz) des de dispositius fixos i mòbils, i crear xarxes d\'àrea personal (PAN -personal area networks-). Inventat pel proveïdor de telecomunicacions Ericsson el 1994, es va concebre originalment com una alternativa inalàmbrica als cables de dades RS-232. S\'hi poden connectar diversos dispositius, superant els problemes de sincronització.</string>
+        <string name="BluetoothLE">El Bluetooth de baixa energia (Bluetooth LE, BLE, comercialitzat com a Bluetooth Smart) és una tecnologia inalàmbrica de xarxa d\'àrea personal dissenyada i comercialitzada pel grup amb interès especial en el Bluetooth, està dirigit a aplicacions noves en l\'àmbit de l\'assistència sanitària, fitness, balises, seguretat i l\'entreteniment domèstic. En comparació amb el Bluetooth clàssic, el Bluetooth Smart pretén oferir un consum i un cost considerablement reduïts mentre manté un interval de comunicació similar.</string>
+        <string name="NFC">La Near Field Communication (NFC) és un conjunt de tecnologies inalàmbriques de curt abast, normalment requereix una distància de 4 cm o menys per a iniciar una connexió. La NFC permet compartir petites càrregues de dades entre una etiqueta NFC i un dispositiu amb Android, o entre dos dispositius amb Android.</string>
+        <string name="Microphone">Un micròfon, en anglès col·loquial «mic» o «mike», és un transductor o sensor acústic a electricitat que converteix el so en l\'aire en un senyal elèctric. Els micròfons s\'usen en moltes aplicacions, com ara telèfons, audiòfons, sistemes d\'adreces públiques per a sales de concerts i esdeveniments públics, producció cinematogràfica, enginyeria d\'àudio en viu i enregistrar, ràdios bidireccionals, megafonia, emissió de radio i televisió, i en ordinadors per enregistrar veu, reconeixement de la veu, VoIP i per a finalitats no acústiques, com ara sensors per a comprovar els ultrasons o els cops.</string>
+        <string name="CameraFlash">Un flaix és un dispositiu usat en la fotografia que produeix un flaix de llum artificial (normalment 1/1000 a 1/200 d\'un segon) a una temperatura de color d\'uns 5.500 K per ajudar a il·luminar una escena. Un propòsit important d\'un flaix és il·luminar una escena fosca. Altres usos capturen objectes que es mouen ràpidament o canvien la qualitat de la llum. El flaix es refereix tant al flaix de llum com a la unitat de flaix electrònica que descarrega la llum. La majoria de les unitats flaix actuals són electròniques, han evolucionat a partir de bombetes d\'un sol ús i pols inflamable. Les càmeres modernes sovint activen les unitats de flaix automàticament.</string>
+        <string name="USBHost">Quan el vostre dispositiu amb Android està en el mode amfitrió USB (USB Host), aquest actuarà com a amfitrió USB, dóna energia al bus i enumera els dispositius USB connectats. El mode amfitrió USB és compatible amb Android 3.1 i superior.</string>
+        <string name="USBAccessory">El mode USB accessory permet als usuaris connectar el maquinari USB host dissenyat específicament per a dispositius amb Android. Els accessoris s\'hauran d\'adherir al protocol Android accessory descrit a la documentació de l\'Android Accessory Development Kit. Aquest permet que els dispositius amb Android que no puguin actuar com a USB host continuïn interactuant amb el maquinari USB. Quan un dispositiu amb Android està en el mode USB accessory, l\'USB accessory amb Android que està connectat actuarà com a amfitrió, proporcionant energia al bus USB i enumerant els dispositius connectats. L\'Android 3.1 (API de nivell 12) és compatible amb el mode USB accessory i la característica també està disponible per a Android 2.3.4 (API de nivell 10) per a permetre la compatibilitat amb un interval més ampli de dispositius.</string>
+        <string name="Secondarydisplay">El dispositiu permet l\'execució d\'activitats a les pantalles secundàries.</string>
+        <string name="Audiolowlatency">La canonada d\'àudio del dispositiu és de baixa latència, més adequat per a aplicacions d\'àudio sensibles als retards o demores en l\'entrada o sortida del so.</string>
+        <string name="AudioPro">El dispositiu té un nivell d\'àudio professional amb la funcionalitat i rendiment.</string>
+        <string name="Camerainfo">El dispositiu té una càmera al darrera de la pantalla.</string>
+        <string name="Cameraautofocus">Un sistema òptic d\'enfocament automàtic (o AF -autofocus-) usa un sensor, un sistema de control i un motor per a centrar-se en un punt o una àrea seleccionats automàticament o manualment. Un telemètric electrònic té una pantalla en comptes del motor; l\'ajust del sistema òptic s\'ha de fer manualment fins a la indicació. Els mètodes d\'enfocament automàtic es distingeixen pel seu tipus com a variants actives, passives o híbrides.</string>
+        <string name="Printing">A Android 4.4 (API de nivell 19) i superior, el marc de treball proporciona serveis per imprimir imatges i documents directament des d\'aplicacions Android. La impressió també permet crear una instantània de la informació que no depèn de tenir un dispositiu, una potència suficient a la bateria o una connexió de xarxa sense fil.</string>
+        <string name="ExternalCamera">El dispositiu admet el tenir una càmera externa connectada.</string>
+        <string name="MultipleUsers">El dispositiu permet crear usuaris secundaris i perfils gestionats</string>
+        <string name="SIPVOIP">El dispositiu admet VOIP basat en SIP.</string>
+
+        <string name="Technology">Tipus de tecnologia emprada per a la memòria com DDR3, DDR4, un sol canal, doble canal, etc.</string>
+        <string name="HeadTracking">El dispositiu implementa seguiment del cap per a un dispositiu RV.</string>
+        <string name="HighVRmode">El dispositiu implementa el MODE RV (-VR MODE-), però també compleix amb requisits addicionals de CDD per oferir una experiència de RV d\'alta qualitat. En general, els dispositius que declarin aquesta característica addicionalment també:
+
+Ofereixen un rendiment consistent a una freqüència de fotogrames elevada durant un període de temps prolongat per a les càrregues de treball CPU/GPU de les aplicacions de RV amb un nombre mínim de fotogrames perduts per a les aplicacions de VR que han cridat setSustainedPerformanceMode(boolean).
+Implementen SENSORS HIFI i tenen una baixa latència del sensor.
+Inclouen optimitzacions per a reduir la persistència de la pantalla mentre s\'executen aplicacions de VR.
+Implementen un camí de representació optimitzada per a minimitzar la latència en dibuixar a la pantalla principal del dispositiu.
+Inclouen les següents extensions EGL: EGL_ANDROID_create_native_client_buffer, EGL_ANDROID_front_buffer_auto_refresh, EGL_EXT_protected_content, EGL_KHR_mutable_render_buffer, EGL_KHR_reusable_sync i EGL_KHR_wait_sync.
+Com a mínim proporcionen un nucli de CPU que es reservarà per al seu ús exclusiu superior, processant l\'aplicació de RV en primer pla per als fils de representació crítics mentre s\'executa aquesta aplicació.</string>
+        <string name="VRmode">El dispositiu implementa un mode optimitzat per a les aplicacions de realitat virtual (RV) que maneja la representació estereoscòpica de les notificacions i inhabilita la majoria de components de la IU del sistema monocular mentre que una aplicació de RV està enfocada en l'usuari.</string>
+        <string name="Infraredblaster">Un receptor d'infrarojos (o receptor IR) és un dispositiu que emula un comandament a distància per infraroigs per a controlar de manera autònoma un dispositiu que només sol controlar-se mitjançant el prémer les tecles del comandament a distància</string>
+        <string name="Multitouch">La pantalla tàctil del dispositiu és capaç de seguir dos o més dits de forma totalment independent.</string>
+        <string name="SIP">El protocol d\'inici de la sessió (SIP -Session Initiation Protocol-) és un protocol de comunicacions per a la senyalització i el control de les sessions de comunicació multimèdia en aplicacions de telefonia per a trucades de veu i vídeo, en sistemes de telefonia IP (-in private-) privats, així com en missatgeria instantània a través de xarxes amb el protocol d\'Internet (IP -Internet Protocol-).</string>
+        <string name="Livewallpaper">Un fons de pantalla en viu és una imatge animada que porta el lloc d\'una imatge estacionària a la vostra pantalla d\'inici. Alguns fons de pantalla en viu són interactius i reaccionen a determinats gestos o moviments del dispositiu.</string>
+        <string name="Ethernet">Possibilita el connectar un dispositiu Android a Internet a través d\'Ethernet. Les versions Marshmallow 6.0.1 d\'Android i les versions anteriors admeten la connectivitat Ethernet. Es necessita un adaptador d\'OTG a Ethernet per a connectar els dispositius Android a Internet a través d\'Ethernet</string>
+        <string name="LiveTV">El dispositiu admet TV en directe i pot visualitzar continguts des d\'entrades de TV o des de fonts com ara HDMI o un sintonitzador incorporat que proporcioni transmissió de vídeo o difusió de programes de televisió.</string>
+        <string name="SYSTEM">Android és un sistema operatiu mòbil (SO) basat en el nucli de Linux i actualment desenvolupat per Google. Amb una interfície d\'usuari basada en la manipulació directa, Android està principalment dissenyat per a dispositius mòbils amb pantalla tàctil, com ara telèfons intel·ligents i tauletes, amb interfícies d\'usuari especialitzades per a televisors (Android TV), cotxes (Android Auto) i rellotges de polsera (Android Wear). El SO usa entrades tàctils que es corresponen amb les accions del món real, com ara desplaçar-se, tocar, pessigar i pessigar al revès per a manipular els objectes a la pantalla i un teclat virtual. Malgrat haver estat  dissenyat principalment per a l\'entrada de pantalla tàctil, també s'ha usat en consoles de jocs, càmeres digitals, fabricants de PC i altres dispositius electrònics.</string>
+        <string name="OS">Un sistema operatiu (SO) és un programari que gestiona els recursos de l\'ordinador o del maquinari i programari, i proporciona serveis comuns per als programes informàtics. El sistema operatiu és un component essencial del programari del sistema en un sistema informàtic. Els programes d\'aplicació normalment requereixen que funcioni un sistema operatiu.</string>
+        <string name="Manufacturer">Empresa que dissenya, produeix o munta telèfons mòbils</string>
+        <string name="Brand">Una marca és un nom, terme, disseny o una altra característica que distingeix un producte de l\'empresa dels altres.</string>
+        <string name="Model">Nom diferent del dispositiu</string>
+        <string name="Modelname">Nom del model de la CPU</string>
+        <string name="Board">Una placa mare (-motherboard-) o placa base (-mainboard-), placa del sistema (-system board-), placa plana (-planar board-) o placa lògica (-logic board-), és la placa de circuits impresos principal (PCB -printed circuit board-) que es troba en els ordinadors i altres sistemes expandibles. Conté molts dels components electrònics crucials del sistema, com ara la unitat de processament central (CPU -central processing unit-) i la memòria, i proporciona connectors per a altres perifèrics. A diferència d\'una «backplane» (placa de circuit imprès), una placa base conté els subsistemes significatius com el processador i altres components</string>
+        <string name="Hardware">Nom del fabricant del sistema en el xip (SoC) mòbil, un sistema en un xip o un sistema en el xip (SoC o SOC) és un circuit integrat (IC -integrated circuit-) que integra tots els components d\'un ordinador o un altre sistema electrònic en un sol xip. Pot contenir característiques de senyal digital, analògica, mixta i sovint de freqüència radioelèctrica -tot en un únic substrat del xip-. Els SoC són molt comuns en el mercat de l\'electrònica mòbil a causa del seu baix consum energètic</string>
+        <string name="Serial">Un número de sèrie del maquinari</string>
+        <string name="SystemUptime">Temps des que el sistema s\'ha iniciat/activat</string>
+        <string name="UpTimeTotal">Temps des que el sistema es va arrencar i s\'inclou la hibernació</string>
+        <string name="SleepTime">Temps que ha passat el sistema en hibernació (CPU apagada, pantalla fosca, dispositiu a l\'espera d\'una entrada externa)</string>
+        <string name="InstalledApps">Nombre d\'aplicacions que hi ha instal·lades al dispositiu.</string>
+        <string name="Version">Els noms de les versions o números de versió únics representen estats únics del programari informàtic/mòbil. Dins d\'una categoria del número de versió indicat (major, menor), aquests nombres generalment són assignats en ordre creixent i corresponen a nous desenvolupaments del programari</string>
+        <string name="VersionName">Els noms de les versions o números de versió únics representen estats únics del programari informàtic/mòbil. Dins d\'una categoria del número de versió indicat (major, menor), aquests nombres generalment són assignats en ordre creixent i corresponen a nous desenvolupaments del programari</string>
+        <string name="APILevel">Android empra nivells de la API per a gestionar la compatibilitat de les aplicacions entre les diferents versions d\'Android, i explica com configurar els ajustaments del projecte Android per a implementar aquests nivells de la API a la vostra aplicació.</string>
+        <string name="MEMORY">En la informàtica, la memòria fa referència als dispositius emprats per emmagatzemar informació per a l\'ús en un ordinador o telèfon mòbil. El terme memòria principal s\'usa per als sistemes d'emmagatzematge que funcionen a gran velocitat (és a dir, la RAM), com a distinció de la memòria secundària, la qual proporciona un emmagatzematge al programa i de dades, és lent per accedir, però ofereix una major capacitat de memòria</string>
+        <string name="Fingerprint">Una cadena que identifica de manera exclusiva aquesta construcció</string>
+        <string name="BuildID">Ja sigui un nombre de llista de canvis o una etiqueta com «M4-rc20».</string>
+        <string name="BuildTime">Temps en què es va construir el SO</string>
+        <string name="TotalRAM">La memòria total accessible pel nucli. Aquesta és bàsicament la mida de RAM del dispositiu</string>
+        <string name="FreeRAM">La memòria disponible al sistema. Aquest número no s\'hauria de considerar absolut: a causa de la naturalesa del nucli, una part significativa d\'aquesta memòria està en ús i és necessària perquè el sistema general funcioni bé.</string>
+        <string name="RemovableStorage">si es pot extreure el dispositiu d\'emmagatzematge (com ara una targeta SD) o fals si el dispositiu d\'emmagatzematge està integrat i no es pot extreure físicament</string>
+        <string name="TotalInternalStorage">Memòria interna total en el dispositiu</string>
+        <string name="FreeInternalStorage">Memòria interna disponible en el dispositiu</string>
+        <string name="CPU">Una unitat de processament central (CPU -central processing unit-) és els circuits electrònics dins d\'un ordinador que porta a terme les instruccions d\'un programa informàtic realitzant les operacions aritmètiques, lògiques, control i entrada/sortida (E/S) bàsiques especificades per les instruccions. El terme s\'ha emprat en la indústria informàtica almenys des de principis de 1960. Tradicionalment, el terme «CPU» es refereix a un processador i la seva unitat de control (CU -control unit-), distingint aquests elements del nucli d\'un ordinador dels components externs com la memòria principal i circuits d\'E/S.</string>
+        <string name="Cores">Nombre de nuclis de processador disponibles al dispositiu. NOTA: En el cas dels processadors OCTA-CORE (8 nuclis), hi ha dos tipus:
+        1) Processadors amb vuit nuclis passius -aquests només empres 4 nuclis a la vegada, i els altres romanen en estat passiu-.
+        2) Processadors amb vuit nuclis veritables -tots els nuclis romanen disponibles per a usar-los en qualsevol moment-.
+        Un processador amb múltiples nuclis és un únic component informàtic amb dues o més unitats de processament independents reals, les quals són les unitats que llegeixen i executen les instruccions del programa. Les instruccions, són instruccions normals de la CPU, com afegir, moure dades i ramificar, però múltiples nuclis poden executar múltiples instruccions alhora, augmentant la velocitat general dels programes.</string>
+        <string name="Core1">Primer nucli</string>
+        <string name="Core2">Segon nucli</string>
+        <string name="Core3">Tercer nucli</string>
+        <string name="Core4">Quart nucli</string>
+        <string name="Core5">Cinquè nucli</string>
+        <string name="Core6">Sisè nucli</string>
+        <string name="Core7">Setè nucli</string>
+        <string name="Core8">Vuitè nucli</string>
+        <string name="Core9">Novè nucli</string>
+        <string name="Core10">Desè nucli</string>
+        <string name="ClockSpeed">La velocitat del rellotge sol referir-se a la freqüència amb la qual un xip com una unitat de processament central (CPU), s\'executa un nucli d'un processador amb múltiples nuclis i s\'usa com a indicador de la velocitat del processador.
+        Es mesura amb la unitat del SI (sistema internacional) en hertz. La velocitat del rellotge de la primera generació d'ordinadors es va mesurar en hertz o kilohertz, però al segle XXI la velocitat de les CPU modernes s'anuncia en gigahertz.</string>
+        <string name="Processor">terme comú per a qualsevol circuit integrat (IC) dissenyat per a executar instruccions</string>
+        <string name="TotalHeapMemory">El nombre de bytes que pren la pila en la seva mida actual.</string>
+        <string name="MaxHeapMemory">El nombre màxim de bytes es poden expandir a la pila.</string>
+        <string name="FreeHeapMemory">El nombre de bytes actualment disponibles a la pila sense ampliar-la.</string>
+        <string name="Bootloader">El número de la versió del carregador d\'arrencada del sistema.</string>
+        <string name="Instructionset">En el programari informàtic, una interfície binària de l'aplicació (ABI -application binary interface-) és la interfície entre dos mòduls del programa, un dels quals sovint és una biblioteca o el sistema operatiu, al nivell del codi de la màquina. Una ABI determina els detalls de com es criden les funcions i en quin format binari s\'haurà de passar la informació des d\'un component del programa al següent o al sistema operatiu en el cas d\'una crida al sistema.</string>
+        <string name="CPUGovernor">El governador de la CPU permet que el sistema operatiu escali amunt o avall la freqüència de la CPU per estalviar energia. Les freqüències de la CPU es poden escalar automàticament depenent de la càrrega del sistema, en resposta als esdeveniments ACPI o manualment mitjançant programes en l\'espai d\'usuari.</string>
+        <string name="Basebandversion">La cadena de la versió per al microprogramari de la ràdio. Pot tornar nul (si, per exemple, la ràdio no està encesa).</string>
+        <string name="Tags">Etiquetes separades per comes que descriuen la construcció, com «unsigned, debug».</string>
+        <string name="KernelVersion">La versió del nucli és la versió del nucli Linux en què es basa Android. És el nucli del sistema operatiu que gestiona les sol·licituds a i des del maquinari, la memòria i la gestió de processos, i tot el material de baix nivell necessari perquè Android pugui executar-se</string>
+        <string name="Type">El tipus de construcció, com «usuari» o «eng».</string>
+        <string name="GPU">Una unitat de processador gràfic (GPU -graphics processor unit-), també anomenada ocasionalment unitat de processador visual (VPU -visual processor unit-), és un circuit electrònic especialitzat dissenyat per a manipular i alterar ràpidament la memòria per accelerar la creació d\'imatges en un frame buffer destinat a la visualització. Les GPU s\'usen en sistemes incrustats, telèfons mòbils, ordinadors personals, estacions de treball i consoles de jocs. Les GPU modernes són molt eficaces manipulant gràfics i imatges als ordinadors, i la seva alta estructura en paral·lel els fa més eficaços que les CPU d\'ús general per als algoritmes on el processament de grans blocs de dades es realitza en paral·lel</string>
+        <string name="Renderer">Nom del renderitzador de la GPU</string>
+        <string name="Vendor">Nom del venedor</string>
+        <string name="BogoMIPS">Els BogoMips són una mesura proporcionada pel sistema operatiu Linux que indica d\'una manera relativa la rapidesa amb que s\'executa el processador de l'ordinador. Els MIPS es queden curts per a milions d\'instruccions per segon. És una mesura per a la velocitat de computació d'un processador</string>
+        <string name="DataConnection">Mostra si Internet està connectat o no amb el dispositiu</string>
+        <string name="DataType">Tipus de connexió amb Internet mòbil, WIFI o mòbil</string>
+        <string name="Network">Xarxa per a la connexió de dades com WiFi, HSDPA, 3G, EDGE, LTE, GPRS</string>
+        <string name="IPaddress">Una adreça del protocol d\'Internet (adreça IP) és una etiqueta numèrica assignada a cada dispositiu (p. ex., ordinador, impressora del telèfon mòbil) que participa en una xarxa informàtica que usa el protocol d\'Internet per a la comunicació.</string>
+        <string name="DownloadSpeed">Velocitat d\'Internet. El rendiment d\'una connexió a Internet, la qual es basa en el nombre de bytes per segon amb que viatgen les dades des del dispositiu dels usuaris cap a Internet (pujada) i des d\'Internet (baixada). Depenent del tipus de connexió, la velocitat diferirà dràsticament. Nota: la velocitat es mostra en MB/s o Mbps, MB = 8Mb</string>
+        <string name="UploadSpeed">Velocitat d\'Internet. El rendiment d\'una connexió a Internet, la qual es basa en el nombre de bytes per segon amb que viatgen les dades des del dispositiu dels usuaris cap a Internet (pujada) i des d\'Internet (baixada). Depenent del tipus de connexió, la velocitat diferirà dràsticament.</string>
+        <string name="BatteryLevel">Percentatge restant de càrrega de la bateria, 100% quan està totalment carregada</string>
+        <string name="BatteryTemperature">Temperatura actual de la bateria des del sensor de temperatura de la bateria</string>
+        <string name="Host">Nom intern de l\'amfitrió</string>
+        <string name="BatteryTechnology">Tecnologia de la bateria com Li-ion, Li-poly</string>
+        <string name="BatteryStatus">carregant o descarregant</string>
+        <string name="PowerSource">Font d\'alimentació del dispositiu com bateria, USB, càrrega sense fils</string>
+        <string name="BatteryVoltage">La tensió a través dels terminals d\'una bateria en mil·livolts</string>
+        <string name="Width">Amplada de la pantalla del dispositiu en polzades i en mil·límetres. Nota: alguns fabricants no proporcionen detalls precisos sobre la pantalla</string>
+        <string name="Display">Mida de la pantalla del dispositiu i la seva tecnologia</string>
+        <string name="ScreenResolution">Resolució de la pantalla. El nombre de píxels horitzontals i verticals en una pantalla</string>
+        <string name="Refreshrate">És com de ràpid mostrarà la pantalla els continguts nous o pot canviar els seus continguts</string>
+        <string name="DensityX">Es tracta del nombre de píxels per polzada en direcció horitzontal</string>
+        <string name="DensityY">Es tracta del nombre de píxels per polzada en direcció vertical</string>
+        <string name="ScreenDensity">Densitat de píxels a la pantalla per polzada</string>
+        <string name="Orientation">Orientació de la pantalla com retrat, horitzontal.</string>
+        <string name="Height">Amplada de la pantalla del dispositiu en polzades i en mil·límetres. Nota: alguns fabricants no proporcionen detalls precisos sobre la pantalla</string>
+        <string name="TimeZone">Una zona horària és una regió que observa un temps estàndard uniforme per a finalitats legals, comercials i socials. Les zones horàries solen seguir els límits dels països i les seves subdivisions, ja que és convenient que les àrees amb una estreta comunicació comercial o d\'altra índole es mantinguin amb el mateix temps.</string>
+        <string name="Language">Ajustaments per a l'idioma del dispositiu</string>
+        <string name="RootAccess">El «rooting» és el procés de permetre als usuaris de telèfons intel·ligents, tauletes i altres dispositius que executin el sistema operatiu mòbil Android per aconseguir un control privilegiat (més conegut com accés «root») sobre diversos subsistemes d\'Android. Com que Android fa servir el nucli Linux, el «rooting» en un dispositiu Android dóna accés similar als permisos administratius que a Linux o qualsevol altre sistema operatiu similar a Unix</string>
+        <string name="IMEI">La identitat internacional de l\'equip de l\'estació mòbil o IMEI (-International Mobile Station Equipment Identity-) és un número, generalment únic, per identificar els telèfons 3GPP (és a dir, GSM, UMTS i LTE) i iDEN, així com alguns telèfons per satèl·lit. Normalment es troba imprès a l\'interior del compartiment de la bateria del telèfon, però també es pot mostrar a la pantalla en la majoria de telèfons introduint *#06# al marcador o al costat d\'altra informació del sistema al menú de configuració dels sistemes operatius del telèfon intel·ligent.</string>
+        <string name="Roaming">La itinerància (-roaming-) ajuda a garantir que un dispositiu sense fils per viatjar (normalment un telèfon mòbil) es mantingui connectat amb una xarxa sense tallar la connexió. En les telecomunicacions sense fils, la itinerància tradicional és un terme general que fa referència a la capacitat que un client mòbil realitzi i rebi automàticament trucades de veu, enviï i rebi dades o accedeixi a altres serveis, inclosos els serveis de dades de casa, quan viatgi fora de l\'àrea de cobertura geogràfica de la xarxa de casa, mitjançant l\'ús d'una xarxa visitada. Per exemple, si heu de viatjar més enllà del rang de l\'emissor de la vostra companyia de telefonia mòbil, el telèfon mòbil saltarà automàticament a un altre servei d\'una empresa telefònica, si està disponible.</string>
+        <string name="SubscriberID">La identitat internacional del subscriptor mòbil o IMSI (-International Mobile Subscriber Identity-) s\'usa per a identificar l'usuari d'una xarxa mòbil i és una identificació única associada amb totes les xarxes mòbils. S\'emmagatzema com un camp de 64 bits i és enviada pel telèfon a la xarxa. També s\'usa per adquirir altres detalls del mòbil al registre d'ubicació local (HLR -home location register-) o es copia localment al registre d\'ubicació del visitant. Per evitar que els escàners identifiquin i rastregin l'abonat a la interfície de ràdio, la IMSI s\'envia tan poc com sigui possible i en el seu lloc s\'envia un TMSI generat aleatòriament.</string>
+        <string name="SIMSerial">Cada SIM és identificada internacionalment pel seu identificador de la targeta de circuit integrat (ICCID -integrated circuit card identifier-). Els ICCID s\'emmagatzemen a les targetes SIM i també es graven o imprimeixen en el cos de la targeta SIM durant un procés anomenat personalització.
+        El nom del proveïdor de serveis (SPN -Service Provider Name-). L\'ICCID està definit per la recomanació E.118 de la ITU-T com el número del compte principal. El seu disseny es basa en la ISO/IEC 7812. D\'acord amb la E.118, el número té fins a 22 dígits, incloent un dígit de verificació calculat mitjançant l\'algoritme Luhn. No obstant això, la fase 1 del GSM va definir la longitud de l\'ICCID com a 10 octets (20 dígits) amb una estructura específica de l\'operador.</string>
+        <string name="NetworkCountry">el codi ISO del país corresponent a l\'operador registrat actual MCC (Mobile Country Code).</string>
+        <string name="SIMOperator">Nom del proveïdor de serveis (SPN -Service Provider Name-).</string>
+        <string name="SIMprovidercode">el MCC+MNC (codi de país mòbil + codi de xarxa mòbil) del proveïdor de la SIM.</string>
+        <string name="NetworkOperator">el nom alfabètic de l\'operador de xarxa registrat actual.</string>
+        <string name="PhoneType">Tipus de model del telèfon GSM / CDMA / SIP</string>
+        <string name="Name">Nom del model del sensor</string>
+        <string name="MaxRange">Interval màxim del sensor en la unitat del sensor.</string>
+        <string name="PowerConsumption">La potència en mA emprada per aquest sensor mentre està en ús</string>
+        <string name="Resolution">Resolució del sensor en la unitat del sensor.</string>
+        <string name="Dimensions">Dimensions del dispositiu. Longitud, amplada, gruix.</string>
+        <string name="RAMType">Tipus de RAM emprada com DDR2, DDR3, DDR4, LPDDR4X</string>
+        <string name="AccelerationX">Mesura la força d\'acceleració en m/s2 que s\'aplica a un dispositiu sobre els tres eixos físics (x, y i z), inclosa la força de gravetat.</string>
+        <string name="AccelerationY">Mesura la força d\'acceleració en m/s2 que s\'aplica a un dispositiu sobre els tres eixos físics (x, y i z), inclosa la força de gravetat.</string>
+        <string name="AccelerationZ">Mesura la força d\'acceleració en m/s2 que s\'aplica a un dispositiu sobre els tres eixos físics (x, y i z), inclosa la força de gravetat.</string>
+        <string name="MinimumDelay">el retard mínim permès entre dos esdeveniments en microsegons o zero si aquest sensor només retorna un valor quan les dades canvien la seva mesura</string>
+        <string name="Azimuth">Mesura els graus de rotació que un dispositiu fa al voltant dels tres eixos físics (x, y, z). L\'azimut és l\'angle entre el vector nord i la projecció perpendicular de l\'estrella cap a l\'horitzó. L\'azimut sol mesurar-se en graus (°).</string>
+        <string name="Roll">Mesura el grau de rotació al voltant de l\'eix lateral.</string>
+        <string name="Pitch">Mesura els graus de rotació al voltant de l\'eix lateral.</string>
+        <string name="MagneticfieldX">Mesura el camp geomagnètic ambient per a l\'eix X</string>
+        <string name="MagneticfieldY">Mesura el camp geomagnètic ambient per a l\'eix Y</string>
+        <string name="MagneticfieldZ">Mesura el camp geomagnètic ambient per a l\'eix Z</string>
+        <string name="Proximity">Mesura la proximitat d\'un objecte en cm, en relació amb la pantalla de visualització d\'un dispositiu. Aquest sensor habitualment s\'empra per a determinar si un auricular es troba a l\'oïda d\'una persona</string>
+        <string name="Rotation">Mesura l\'orientació d\'un dispositiu, proporcionant els tres elements del vector de rotació dels dispositius.</string>
+        <string name="RotationX">Mesura l\'orientació d\'un dispositiu, proporcionant els tres elements del vector de rotació dels dispositius.</string>
+        <string name="RotationY">Mesura l\'orientació d\'un dispositiu, proporcionant els tres elements del vector de rotació dels dispositius.</string>
+        <string name="RotationZ">Mesura l\'orientació d\'un dispositiu, proporcionant els tres elements del vector de rotació dels dispositius.</string>
+        <string name="GravityX">Mesura la força de la gravetat en m/s2 que s\'aplica a un dispositiu sobre l\'eix X</string>
+        <string name="GravityY">Mesura la força de la gravetat en m/s2 que s\'aplica a un dispositiu sobre l\'eix Y</string>
+        <string name="GravityZ">Mesura la força de la gravetat en m/s2 que s\'aplica a un dispositiu sobre l\'eix Z</string>
+        <string name="RotationRateX">Mesura una velocitat de rotació dels dispositius en rad/s al voltant de l\'eix X</string>
+        <string name="RotationRateY">Mesura una velocitat de rotació dels dispositius en rad/s al voltant de l\'eix Y</string>
+        <string name="RotationRateZ">Mesura una velocitat de rotació dels dispositius en rad/s al voltant de l\'eix Z</string>
+        <string name="Light">Mesura el nivell de llum ambiental (il·luminació) en lx.</string>
+        <string name="Humidity">Mesura la humitat relativa de l\'ambient en percentatge (%).</string>
+        <string name="Pressure">Mesura la pressió de l\'aire ambient en hPa o mbar.</string>
+        <string name="Temperature">Mesura la temperatura del dispositiu en graus Celsius (°C).</string>
+        <string name="SOCModel">Nom del model de SOC. Un sistema en un xip o sistema en el xip (SoC o SOC), és un circuit integrat (IC -integrated circuit-) que integra tots els components d\'un telèfon mòbil, ordinador o un altre sistema electrònic en un sol xip.</string>
+        <string name="CPUarchitecture">Arquitectura de la CPU</string>
+        <string name="CPUimplementer">Implementador de la CPU</string>
+        <string name="CPUvariant">Variant de la CPU</string>
+        <string name="CPUpart">Part de la CPU</string>
+        <string name="CPUrevision">Revisió de la CPU</string>
+        <string name="Features">Característiques de la CPU</string>
+        <string name="BatteryCapacity">Capacitat de la bateria en mil·liampere-hora (mAh)</string>
+        <string name="CPUModel">Nom del model de la CPU</string>
+        <string name="AndroidID">Un número de 64 bits (com una cadena hexadecimal) que es genera aleatòriament durant la primera arrencada del dispositiu i haurà de romandre constant durant tota la vida del dispositiu. (El valor pot canviar si es realitza un restabliment de fàbrica al dispositiu).</string>
+        <string name="LoadAverage">En la informàtica d\'UNIX, la càrrega del sistema és una mesura de la quantitat de treball computacional que realitza un sistema informàtic. La mitjana de la càrrega representa la mitjana de la càrrega del sistema durant un període de temps. Convencionalment apareix en forma de tres números que representen la càrrega del sistema durant els últims períodes d\'un, cinc i quinze minuts.</string>
+        <string name="JavaHeap">La pila de Java és la quantitat de memòria assignada a les aplicacions que s\'executen a la màquina virtual de Java.</string>
+        <string name="SSID">Aquest és l\'identificador del conjunt de serveis (SSID -Service Set identifier-): una sèrie de 0 a 32 octets. S\'usa com a identificador únic per a una LAN sense fils. Atès que aquest identificador ha de ser sovint introduït manualment en els dispositius per un usuari humà, sovint és una cadena llegible i, per tant, es coneix generalment com el nom de xarxa.</string>
+        <string name="BSSID">El BSSID és l\'adreça MAC del punt d\'accés sense fils (WAP) generat per la combinació de l\'identificador únic de l\'organització de 24 bits (la identitat del fabricant) i l\'identificador de 24 bits que els fabricants van assignar al chipset de ràdio al WAP</string>
+        <string name="MACAddress">Una adreça de control d\'accés a suports (adreça MAC) és un identificador únic assignat a les interfícies de xarxa per a les comunicacions sobre el segment físic de la xarxa. Les adreces MAC s\'empren com a adreça de xarxa per a la majoria de tecnologies de xarxa IEEE 802, incloses Ethernet i WiFi.</string>
+        <string name="LinkSpeed">La velocitat màxima de l\'enllaç sense fils que pot proporcionar l\'encaminador. És la velocitat de la connexió WLAN interna entre el dispositiu i l\'encaminador, no és la velocitat d\'Internet.</string>
+        <string name="Fingerprintsensor">El reconeixement o autenticació de l\'empremta dactilar es refereix al mètode automàtic de verificar una coincidència entre dues empremtes dactilars humanes. Les empremtes dactilars són una de les moltes formes de biometria emprades per a identificar individus i verificar la seva identitat.</string>
+        <string name="CurrentMeter">La corrent instantània de la bateria en mil·liamperes, com un enter. Els valors positius indiquen que el corrent actual de la xarxa entra a la bateria des d\'una font de càrrega, els valors negatius indiquen la sortida neta des de la bateria.
+        Consell: veureu valors negatius grans per a usos d\'alta potència com una llanterna, la brillantor total de la pantalla, etc. i valors positius grans durant la càrrega.</string>
+
+
+        <string name="Fab">«La fabricació del dispositiu semiconductor és el procés utilitzat per a crear els circuits integrats que existeixen en els dispositius elèctrics i electrònics quotidians. Es tracta d\'una seqüència amb múltiples passos fotolitogràfics i processos químics durant els quals es creen gradualment circuits electrònics en una oblia de material semiconductor pur. Exemples de 28 nm, 14 nm, 10 nm de FinFET, etc.»</string>
+
+        <string name="BatteryHealth">Salut de la bateria com a freda, sobreescalfada, bona, sobretensió.</string>
+        <string name="Sensorsize">Mida del sensor de la càmera, amplada X llargada</string>
+        <string name="FocalLength">La distància entre el centre d\'una lent de la càmera i el seu focus.</string>
+        <string name="Digitalzoom">El zoom digital és un mètode per a fer disminuir l\'angle de visió aparent d\'una imatge fotogràfica o de vídeo digital. El zoom digital s\'aconsegueix retallant una imatge fins a una àrea centrada amb la mateixa relació d\'aspecte que l\'original, i normalment també s\'interpola el resultat fins a les dimensions del píxel de l\'original. Es realitza de forma electrònica, sense ajustar l\'òptica de la càmera, i no es guanya cap resolució òptica en el procés.</string>
+        <string name="Facedetection">La detecció de cares és una tecnologia informàtica que s\'empra en una varietat d\'aplicacions que identifiquen les cares humanes en les imatges digitals.</string>
+        <string name="MaxFacecount">El nombre màxim de cares detectades simultàniament</string>
+        <string name="Flash">Un flaix és un dispositiu emprat en la fotografia que produeix un flaix de llum artificial per ajudar a il·luminar una escena. Un propòsit important d\'un flaix és il·luminar una escena fosca.</string>
+ <string name="d_Display">Pantalla</string>
+    <string name="d_Dimensions">Dimensions</string>
+    <string name="d_System_Uptime">Temps d\'activitat del sistema</string>
+    <string name="d_Build_ID">ID de construcció</string>
+    <string name="d_build_time">Temps de construcció</string>
+    <string name="d_total_ram">RAM total</string>
+    <string name="d_free_ram">RAM lliure</string>
+    <string name="d_WiDi">WIFI</string>
+    <string name="d_Removable_Storage">Emmagatzematge extraïble</string>
+    <string name="d_Camera_autofocus">Enfocament automàtic de la càmera</string>
+    <string name="d_Live_TV">TV en directe</string>
+    <string name="d_Live_Wallpaper">Fons de pantalla en viu</string>
+    <string name="d_Multiple_Users">Múltiples usuaris</string>
+    <string name="d_Head_Tracking">Seguiment del cap</string>
+    <string name="d_VR_mode">Mode RV</string>
+    <string name="d_High_VR_mode">Mode RV alta</string>
+     <string name="d_Discharging">Descarregant</string>
+    <string name="Charging">Carregant</string>
+    <string name="Battery">Bateria</string>
+    <string name="d_USB">USB</string>
+    <string name="d_AC">CA</string>
+    <string name="d_Wireless">Sense fils (wireless)</string>
+    <string name="d_Connected">Connectat</string>
+    <string name="d_Disconnected">Desconnectat</string>
+    <string name="d_Digital_zoom">Zoom digital</string>
+    <string name="d_isosensitivity">Sensibilitat ISO</string>
+    <string name="d_facedetectcount">Recompte màxim de cares</string>
+    <string name="Cameramp">Mida de la càmera en megapíxels</string>
+    <string name="CameraResolution">La resolució d\'una càmera serà el nombre de píxels del sensor. És a dir, la quantitat de punts de llum que pot capturar el sensor en una imatge. Per exemple, un sensor pot tenir 4.000x3.000 píxels de mida, el que suposa un sensor de 12 megapíxels.</string>
+ <string name="d_Discharging">Descarregant</string>
+    <string name="Charging">Carregant</string>
+    <string name="Battery">Bateria</string>
+    <string name="d_USB">USB</string>
+    <string name="d_AC">CA</string>
+    <string name="d_Wireless">Sense fils (wireless)</string>
+    <string name="d_Connected">Connectat</string>
+    <string name="d_Disconnected">Desconnectat</string>
+    <string name="d_Digital_zoom">Zoom digital</string>
+    <string name="d_isosensitivity">Sensibilitat ISO</string>
+    <string name="d_facedetectcount">Recompte màxim de cares</string>
+    <string name="Cameramp">Mida de la càmera en megapíxels</string>
+    <string name="CameraResolution">La resolució d\'una càmera serà el nombre de píxels del sensor. És a dir, la quantitat de punts de llum que pot capturar el sensor en una imatge. Per exemple, un sensor pot tenir 4.000x3.000 píxels de mida, el que suposa un sensor de 12 megapíxels.</string>
+    <string name="d_delete_topic">Suprimeix el tema</string>
+    <string name="d_are_you_sure">Esteu segur?</string>
+    <string name="No">No</string>
+    <string name="Delete">Suprimeix</string>
+    <string name="d_firstpostrequirment">La primera publicació d\'introducció com a mínim haurà de contenir 100 caràcters</string>
+    <string name="d_FINGERPRINT">EMPREMTA DACTILAR</string>
+    <string name="d_ACCELEROMETER">ACCELERÒMETRE</string>
+    <string name="d_TEMPERATURE">TEMPERATURA</string>
+    <string name="d_GRAVITY">GRAVETAT</string>
+    <string name="d_GYROSCOPE">GIROSCOPI</string>
+    <string name="d_LIGHT">LLUM</string>
+    <string name="d_MAGNETICFIELD">CAMP MAGNÈTIC</string>
+    <string name="d_HEARTRATE">RITME CARDÍAC</string>
+    <string name="d_PRESSURE">PRESSIÓ</string>
+    <string name="d_ORIENTATION">ORIENTACIÓ</string>
+    <string name="d_PROXIMITY">PROXIMITAT</string>
+    <string name="d_HUMIDITY">HUMITAT</string>
+    <string name="d_ROTATION">ROTACIÓ</string>
+    <string name="d_IRISSENSOR">SENSOR DE L\'IRIS</string>
+    <string name="d_SPO2SENSOR">SENSOR DEL SPO2</string>
+    <string name="d_Sensors">Sensors</string>
+    <string name="d_dataspeedmonitor">Monitor de la velocitat de les dades</string>
+    <string name="d_AccelerationX">Acceleració X</string>
+    <string name="d_AccelerationY">Acceleració Y</string>
+    <string name="d_AccelerationZ">Acceleració Z</string>
+    <string name="d_accelerationunit">m/s2</string>
+    <string name="d_sensorName">Nom</string>
+    <string name="d_MaxRange">Interval màxim</string>
+    <string name="d_S_Resolution">Resolució</string>
+    <string name="d_microsecond">microsegon</string>
+    <string name="d_MinimumDelay">Retard mínim</string>
+    <string name="d_mA">mA</string>
+    <string name="d_PowerConsumption">Consum d\'energia</string>
+    <string name="d_S_Vendor">Proveïdor</string>
+
+    <string name="d_RotationX">Rotació X</string>
+    <string name="d_RotationY">Rotació Y</string>
+    <string name="d_RotationZ">Rotació Z</string>
+    <string name="d_GravityX">Gravetat X</string>
+    <string name="d_GravityY">Gravetat Y</string>
+    <string name="d_GravityZ">Gravetat Z</string>
+    <string name="d_gyroscopeunit">rad/s</string>
+    <string name="d_rotationunit">rad/s</string>
+    <string name="d_RotationRateX">Taxa de la rotació X</string>
+    <string name="d_RotationRateY">Taxa de la rotació Y</string>
+    <string name="d_RotationRateZ">Taxa de la rotació Z</string>
+    <string name="d_Humidity">Humitat</string>
+    <string name="d_lux">lux</string>
+    <string name="d_Light">Llum</string>
+    <string name="d_magneticunit">μT</string>
+    <string name="d_MagneticfieldX">Camp magnètic X</string>
+    <string name="d_MagneticfieldY">Camp magnètic Y</string>
+    <string name="d_MagneticfieldZ">Camp magnètic Z</string>
+    <string name="d_Azimuth">Azimut</string>
+    <string name="d_Pitch">Rotació endavant</string>
+    <string name="d_Roll">Rotació lateral</string>
+    <string name="d_Pressure">Pressió</string>
+    <string name="d_pressureunit">mbar</string>
+    <string name="d_Proximity">Proximitat</string>
+    <string name="d_cm">cm</string>
+    <string name="d_Natural">Natural</string>
+    <string name="d_90cc">90º en sentit antihorari</string>
+    <string name="d_180c">180º en sentit horari</string>
+    <string name="d_90c">90° en sentit horari</string>
+    <string name="d_RotationSensor">Sensor de la rotació</string>
+    <string name="d_Rotation">Rotació</string>
+    <string name="d_OnTrigger">En activar</string>
+    <string name="s_Steps">Passos</string>
+     <string name="storediscription">El CPU X mostra la informació més completa sobre dispositius com el processador, nucli/s, velocitat, model, RAM, càmera, sensors, etc. Vegeu les especificacions més detallades d\'altres telèfons intel·ligents amb Android.
+Podeu debatre amb entusiastes dels telèfons intel·ligents d\'arreu del món per a intercanviar idees i compartir coneixements. Podeu fer preguntes o donar respostes.
+
+
+CARACTERÍSTIQUES
+
+• Cerca de dispositius: vegeu les especificacions detallades d\'altres telèfons intel·ligents d\'Android.
+
+• Monitor de velocitat a Internet: vegeu la velocitat de baixada i pujada actual a les notificacions i la velocitat combinada a la barra d\'estat.
+
+• Articles: guia de com es fa i articles informatius.
+
+• Fòrum de preguntes/respostes: fòrum especial dedicat a resoldre problemes i consultes.
+
+• Fòrum de debat: fòrum de debat dedicat per intercanviar idees, compartir coneixements relacionats amb Android, telèfon intel·ligent, tecnologia, etc.
+
+• Anuncis: anunci setmanal dels millors usuaris, publicacions, preguntes, respostes, etc.
+
+• Estri: un estri semitransparent a la pantalla d\'inici que mostra informació ràpida sobre l\'estat important del dispositiu.</string>
+    </resources>
