@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+
+
+<string name="sign_in">Iniciar la sesión</string>
+
+
+<string-array name="planets_array">
+    <item>Batería</item>
+    <item>Tamaño de la pantalla</item>
+    <item>Longitud</item>
+    <item>Anchura</item>
+    <item>Grueso</item>
+    <item>Peso</item>
+    <item>Nombre del modelo</item>
+    <item>Cristal</item>
+    <item>Resistencia al agua</item>
+    <item>CPU</item>
+    <item>Fabricación</item>
+    <item>Cámara trasera</item>
+    <item>Cámara delantera</item>
+
+</string-array>
+
+<string-array name="cores_array">
+    <item>Un solo núcleo</item>
+    <item>Dos núcleos</item>
+    <item>Cuatro núcleos</item>
+    <item>Seis núcleos</item>
+    <item>Ocho núcleos</item>
+    <item>Diez núcleos</item>
+</string-array>
+
+<string name="navigation_drawer_open">Abre el cajón de navegación</string>
+<string name="navigation_drawer_close">Cierra el cajón de navegación</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+
+
+
+<string name="rta_dialog_ok">Puntuación</string>
+<string name="rta_dialog_no">No, gracias</string>
+<string name="cancel">Cancelar</string>
+
+<string name="category1">Ajustamientos de la aplicación</string>
+
+
+<string name="summary_switch_preference1">El predeterminado es en bytes/s, 1 byte = 8 bits</string>
+<string name="summary_switch_preference2">Muestra la temperatura de la batería en las notificaciones</string>
+<string name="summary_switch_preference3">El predeterminado es en Celsius</string>
+<string name="title_switch_preference1">La velocidad en bits/s</string>
+<string name="title_switch_preference2">Monitor de la batería</string>
+<string name="title_switch_preference3">La temperatura es en Fahrenheit</string>
+
+
+
+<string name="battery_level">Nivel de la batería</string>
+<string name="battery_temperature">Temperatura de la batería</string>
+<string name="battery_voltage">Voltaje de la batería</string>
+<string name="battery_technology">Tecnología de la batería</string>
+<string name="battery_status">Estado de la batería</string>
+<string name="power_source">Fuente de alimentación</string>
+<string name="battery_capacity">Capacidad de la batería</string>
+<string name="current_meter">Medidor de la corriente</string>
+
+
+
+
+<string name="Available">Admitido</string>
+
+<string name="no_connection">Sin conexión a Internet, la velocidad de los datos se mostrará cuando esté conectado a Internet.</string>
+<string name="notificationswitch">notificationswitch</string>
+
+<string name="data_connection">Conexión con datos</string>
+<string name="data_type">Tipo de datos</string>
+<string name="network">Red</string>
+<string name="demoip">0.0.0.0</string>
+<string name="ip_address">Dirección IP</string>
+<string name="data_usage">Uso de los datos</string>
+<string name="download_speed">Velocidad de bajada</string>
+<string name="upload_speed">Velocidad de subida</string>
+<string name="bssid">BSSID</string>
+<string name="mbps">Mbps</string>
+<string name="link_speed">Velocidad del enlace</string>
+
+
+<string-array name="versions">
+    <item>ANDROID BASE</item>
+    <item>ANDROID BASE 1.1</item>
+    <item>CUPCAKE</item>
+    <item>DONUT</item>
+    <item>ECLAIR</item>
+    <item>ECLAIR_0_1</item>
+    <item>ECLAIR_MR1</item>
+    <item>FROYO</item>
+    <item>GINGERBREAD</item>
+    <item>GINGERBREAD_MR1</item>
+    <item>HONEYCOMB</item>
+    <item>HONEYCOMB_MR1</item>
+    <item>HONEYCOMB_MR2</item>
+    <item>ICE_CREAM_SANDWICH</item>
+    <item>ICE_CREAM_SANDWICH_MR1</item>
+    <item>JELLY_BEAN</item>
+    <item>JELLY_BEAN_MR1</item>
+    <item>JELLY_BEAN_MR2</item>
+    <item>KITKAT</item>
+    <item>KITKAT_WATCH</item>
+    <item>LOLLIPOP</item>
+    <item>LOLLIPOP_MR1</item>
+    <item>Marshmallow</item>
+    <item>Nougat</item>
+    <item>Nougat</item>
+    <item>Oreo</item>
+    <item>Oreo</item>
+    <item>Pie</item>
+    <item>Pie</item>
+</string-array>
+
+
+
+<string name="permission_info">El CPU X necesita el permiso de la cámara para mostrar sus especificaciones. No recibirá ninguna imagen ni vídeo, solo leerá las especificaciones.</string>
+
+
+
+<string name="title_activity_answers">Respuestas</string>
+<string name="title_activity_replay">Publicación repetida</string>
+<string name="title_activity_post_message">Publicación</string>
+
+<string-array name="sortorder">
+    <item>Mas votada</item>
+    <item>Mas nueva</item>
+    <item>Ordenar por data</item>
+    <item>Hoy</item>
+    <item>Ésta semana</item>
+    <item>Éste mes</item>
+</string-array>
+
+<string-array name="sortorderdiscussion">
+    <item>Ordenar por data</item>
+    <item>Mas nueva</item>
+    <item>Mas votada</item>
+    <item>Hoy</item>
+    <item>Ésta semana</item>
+    <item>Éste mes</item>
+</string-array>
+<string-array name="sortorderdiscussionmod">
+    <item>Ordenar por data</item>
+    <item>Mas nueva</item>
+    <item>Mas votada</item>
+    <item>Hoy</item>
+    <item>Ésta semana</item>
+    <item>Éste mes</item>
+</string-array>
+
+<string-array name="sortordermod">
+    <item>Mas votada</item>
+    <item>Mas nueva</item>
+    <item>Ordenar por data</item>
+    <item>Hoy</item>
+    <item>Ésta semana</item>
+    <item>Éste mes</item>
+    <item>Mas etiquetada</item>
+
+
+</string-array>
+
+<string-array name="topicsortorder">
+    <item>Temas nuevos</item>
+    <item>Mas respuestas</item>
+    <item>Temas principales</item>
+    <item>Ésta semana</item>
+    <item>Éste mes</item>
+    <item>Vuestros temas</item>
+</string-array>
+
+<string-array name="questionsortorder">
+    <item>Preguntas nuevas</item>
+    <item>Mas respuestas</item>
+    <item>Preguntas más frecuentes</item>
+    <item>Ésta semana</item>
+    <item>Éste mes</item>
+    <item>Vuestras preguntas</item>
+
+
+</string-array>
+
+<string-array name="flagreport">
+    <item>No informativa</item>
+    <item>Irrelevante</item>
+    <item>Ofensiva</item>
+    <item>Engañosa</item>
+
+
+</string-array>
+<string name="title_activity_post_answer">Respuesta</string>
+<string name="title_activity_settings">Ajustamientos</string>
+
+<!-- Strings related to Settings -->
+
+<!-- Example General settings -->
+
+<!-- Example settings for Data & Sync -->
+
+<!-- Example settings for Notifications -->
+
+<string name="title_activity_replay_answer">Respuesta repetida</string>
+<string name="title_activity_widgetoption">Elemento gráfico (widget)</string>
+
+    
+
+
+<string name="guidelines">CPU X: información del sistema y del hardware es una aplicación libre para Android que ayuda a obtener más conocimientos sobre Android, tecnología, dispositivos y hardware. Incluye un foro de debate y de respuesta a preguntas, el cual está diseñado para compartir los conocimientos y intercambiar ideas.
+
+\n\nLímites actuales:
+
+\n\nEl usuario puede crear un tema de debate cada día.
+\nEl usuario puede enviar 20 publicaciones cada día.
+\nEl usuario puede hacer una pregunta cada día.
+\nEl usuario puede dar 20 respuestas cada día.
+\nLos usuarios pueden actualizar o suprimir el contenido generado hasta 24 horas desde su creación.
+
+\n\nTema a debate:
+\n\nEl tema a debate debería estar relacionado con Android, móviles, tecnología, teléfonos inteligentes y aplicaciones. Está limitado a 300 caracteres (escribir en inglés).
+
+\n\nEjemplo 1: State of FinFET Technology for CPU
+\n(Estado de la tecnología FinFET para CPU)
+\nEjemplo 2: Optical image stabilization in mobile cameras
+\n(Estabilización óptica de la imagen en las cámaras del móvil)
+\nEjemplo 3: Best features of Android 8.0 Oreo
+\n(Mejores características de Android 8.0 Oreo)
+
+\n\nEs posible que se supriman los temas sin relación:
+\n\nEjemplo: Best petrol hatchback cars
+\n(Mejores coches con gasolina)
+
+
+\n\nPreguntas:
+
+\n\nLas preguntas deberán ser específicas y estar relacionadas con la tecnología Android, la tecnología móvil, las aplicaciones, etz. Están limitadas a 300 caracteres (escribir en inglés).
+\n\nEjemplo 1: What is the best budget phone under $300 ?
+\n(Cual es el mejor teléfono con un presupuesto por debajo de los 300 dólares?)
+\nEjemplo 2: What is advantages of dual cameras on mobile phones ?
+\n(¿Qué ventajas tiene la doble cámara en los teléfonos móviles?)
+\nEjemplo 3: How to improve battery life ?
+\n(¿Como mejorar la durada de la batería?)
+
+
+\n\nPublicaciones:
+\n\nLas publicaciones deberán ser informativas, relevantes y útiles. Están limitadas a 2.000 caracteres (escribir en inglés).
+
+\n\nEjemplo: Cualquier publicación que contenga un conocimiento compartido sobre un determinado tema.
+
+\n\nSe pueden suprimir los siguientes tipos de publicaciones:
+
+\n\n1) Una publicación que no tenga nada a ver con el tema.
+\n2) Uso de términos ofensivos como raciales/de género/sexuales/religiosos o de frases hirientes.
+\n3) Ataques personales a otros usuarios en los debates.
+\n4) Con enlaces a contenido inadecuado o sin relación.
+\n5) Publicación de información personal, como números de teléfono, direcciones, correos electrónicos, etz.
+
+
+
+\n\nRespuestas:
+
+\n\nLas respuestas deberán ser informativas, relacionadas y útiles. Están limitadas a 2.000 caracteres (escribir en inglés).
+
+\n\nSe pueden suprimir los siguientes tipos de respuestas:
+
+\n\n1) Las respuestas sin relación que no tengan nada que ver con las preguntas.
+
+\n\n2) Con enlaces a contenido inadecuado o sin relación.
+
+\n\n3) Uso de términos ofensivos como raciales/de género/sexuales/religiosos o de frases hirientes.
+
+\n\n4) Publicación de información personal, como números de teléfono, direcciones, correos electrónicos, etz.
+
+\n\n5) Ataques personales a otros usuarios en las respuestas.</string>
+
+
+<string name="privacypolicy">\nAcerca de:
+
+\nCPU X: información del sistema y del hardware es una aplicación libre para Android que ayuda a obtener más conocimientos sobre el sistema Android, tecnología, dispositivos, hardware, etz.
+\n\nDefiniciones:
+\nInformación no personal.\n
+0 - Se trata de la información que no os hace personalmente identificable, como la marca del dispositivo, el número de modelo, la memoria RAM, la CPU, etz.
+
+\n\nInformación personal identificable :-
+\n - Es la información no pública que os identifica como vuestro nombre, dirección de correo electrónico, el número de teléfono, etz.
+
+\n\n1. Información que recopilamos
+\n1.1 Información que nos proporcionáis
+\n\nEl CPU X usa la autenticación de Google para iniciar la sesión en la aplicación, el nombre del perfil de usuario de la cuenta de Google y el URL de la fotografía pública son la única información de identificación personal que recopilamos y nos permite que los demás usuarios conozcan quien envió una publicación o una respuesta.
+
+El CPU X no recopila las direcciones de correo electrónico. Sólo se muestran en la aplicación con el dispositivo en el que habéis iniciado la sesión.
+
+\n\n1.2 Contenido generado por el usuario
+\n\nEl contenido creado por el usuario, com publicaciones, respuestas, preguntas, temas de debate, los me gusta o no me gusta para las respuestas y publicaciones se almacenaran en el servidor.
+
+\n\n1.3 Datos técnicos del dispositivo
+\n\nSe trata de la información no personal sobre el dispositivo, com la marca, el número de modelo, la memoria RAM, la CPU, etz. Recopilamos ésta información para personalizar la experiencia del usuario, de manera que podremos servir al cliente los debates relacionados con la marca y el modelo desde la aplicación.
+
+\n\n1.4 Galletas y ID de publicidad
+\n\nHemos implementado en ésta aplicación el Google Analytics para Firebase y los anuncios de Google Admob, los cuales pueden recopilar y usar galletas, y ID de publicidad para publicar anuncios basados en intereses.
+\n\nEl usuario puede desactivar los anuncios basados en intereses con los ajustamientos aplicables al dispositivo, com los ajustamientos para la publicidad en el dispositivo o cualquier otro medio disponible.
+
+
+\n\n 2. Como usa la información el CPU X
+\n\nUsamos la información para proporcionar, personalizar y mejorar la experiencia del usuario con la aplicación.
+El nombre se adjunta a la publicación, las respuestas, el tema y a las preguntas para que los demás usuarios puedan saber quien creo ésta información en particular.
+\n\nLos contenidos generados por el usuario como publicaciones, preguntas, debates, temas y respuestas son accesibles para todos los usuarios de ésta aplicación. La información técnica del dispositivo, como la marca, el modelo, la CPU, etz. se usa para servir al cliente los debates relacionados con la marca y el modelo desde la aplicación.
+
+
+\n\n 3. Seguridad de los datos
+\n\nProtegemos a los usuarios de un acceso no autorizado, una revelación o destrucción no autorizada de la información que mantenemos. La información se almacena en los servidores de Google, los cuales usan SSL.
+
+\n\n 4. Información que compartimos
+\n\nNo compartimos la información personal con ninguna empresa, organización ni particular.
+
+
+\n\n 5. Acceso y actualización de la información personal
+\n\nVuestro nombre asociado con la cuenta de Google con la que iniciáis la sesión, es la única información personal que recopilamos.
+\n\nPodéis acceder a ésta información desde la cabecera de navegación de la aplicación y, al lado, los temas de debate, publicaciones, preguntas y respuestas que hayáis creado.
+\n\nEs posible que actualicemos nuestras políticas de privacidad de vez en cuando, por lo cual se recomienda revisar periódicamente ésta página para cualquier cambio. Os informaremos de cualquier cambio publicando la nueva política de privacidad en ésta página, los cambios serán efectivos inmediatamente después de haberse publicado.</string>
+<string name="title_activity_help">Ayuda</string>
+<string name="title_activity_notify">Notificación</string>
+<string name="privacy_policy">política de privacidad.</string>
+
+<string name="fag_Device">Dispositivo</string>
+<string name="fag_Discussion">Debate</string>
+<string name="fag_Questions">Preguntas</string>
+<string name="fag_Announcement">Anuncios</string>
+<string name="fag_Suggestions">Sugerencias</string>
+
+<string name="needsignin">Inicie la sesión para usar ésta característica.</string>
+<string name="NAME">NOMBRE</string>
+<string name="OK">Aceptar</string>
+
+<string name="Dismiss">Descarta</string>
+<string name="No_Answers_yet">Todavía no hay ninguna respuesta</string>
+
+
+
+<string name="No_Posts_yet">Todavía no hay ninguna publicación</string>
+
+<string name="Authentication_failed">Ha fallado la autenticación.</string>
+
+<string name="Question_sent">Pregunta enviada</string>
+<string name="Question_not_sent">Pregunta no enviada, se ha excedido el límite diario</string>
+
+
+<string name="Remove_answer_for">Elimina la respuesta para</string>
+
+<string name="Report_answer_as">Informa de la respuesta como</string>
+<string name="No_action">Sin acción</string>
+<string name="Thankyoureporting">Gracias por informar, nos ayuda a mantener la calidad</string>
+<string name="oncevoteanswer">Sólo podéis votar una vez por respuesta</string>
+<string name="liked">Dar el voto</string>
+<string name="Disliked">Quitar el voto</string>
+
+<string name="Topic_sent">Tema enviado</string>
+<string name="Topic_not_sent">Tema no enviado, se ha excedido el límite diario</string>
+<string name="FSOC">SOC</string>
+<string name="FSYSTEM">SISTEMA</string>
+<string name="FNETWORK">RED</string>
+<string name="FBATERY">BATERÍA</string>
+<string name="FSENSOES">SENSORES</string>
+<string name="FFEATURES">CARACTERÍSTICAS</string>
+<string name="FCAMERA">CÁMARA</string>
+<string name="FAD">ANUNCIOS</string>
+
+
+
+
+<string name="Remove_post_for">Elimina la publicación para</string>
+<string name="Report_post_as">Informa de la publicación como</string>
+<string name="oncevotepost">Sólo podéis votar una vez por publicación</string>
+
+
+
+<string name="Answer_sent">Respuesta enviada</string>
+<string name="Answer_not_sent">Respuesta no enviada, se ha excedido el límite diario</string>
+
+<string name="Post_sent">Publicación enviada</string>
+<string name="Post_not_sent">Publicación no enviada, se ha excedido el límite diario</string>
+
+
+
+<string name="Report_question_as">Informa de la pregunta como</string>
+
+
+<string name="Remove_Question_for">Elimina la pregunta para</string>
+
+
+
+
+<string name="No_Question_here">No hay ninguna pregunta</string>
+
+<string name="Replay_sent">Respuesta enviada</string>
+
+<string name="Report_Topic_as">Informa del tema como</string>
+<string name="Remove_Topic_for">Elimina el tema para</string>
+<string name="pre_remove_topics">pre_remove_topics</string>
+<string name="No_topics_here">No hay ningún tema</string>
+<string name="No_connection">No hay conexión a Internet.</string>
+<string name="new_topic_notify">Recibiréis notificaciones para publicaciones nuevas sobre éste tema</string>
+<string name="new_topic_notify_not">No recibiréis notificaciones para publicaciones nuevas sobre éste tema</string>
+<string name="new_answer_notify">Recibiréis una notificación para una respuesta nueva sobre ésta pregunta</string>
+<string name="new_answer_notify_not">No recibiréis ninguna notificación de respuesta nueva sobre ésta pregunta</string>
+
+<string name="Question_can_not_empty">La pregunta no puede estar vacía y como mínimo deberá contener 5 letras.</string>
+<string name="Topic_can_not_be_empty">El tema no puede estar vacío y como mínimo deberá contener 5 letras.</string>
+<string name="Post_can_not_be_empty">La publicación no puede estar vacía y como mínimo deberá contener 2 letras.</string>
+<string name="Answer_can_not_be_empty">La respuesta no puede estar vacía y como mínimo deberá contener 2 letras.</string>
+
+
+
+<string name="Update_success">Actualizada con éxito</string>
+<string name="Update_failed">Ha fallado en actualizar</string>
+<string name="Topic_deleted">Se ha suprimido el tema</string>
+<string name="Topic_not_deleted">El tema no se ha suprimido</string>
+<string name="reporttopic">Informar sobre el tema</string>
+<string name="reportquestion">Informar sobre la pregunta</string>
+<string name="Question_deleted">Se ha suprimido la pregunta</string>
+<string name="Question_not_deleted">La pregunta no se ha suprimido</string>
+<string name="create">crear</string>
+<string name="Post_deleted">Se ha suprimido la publicación</string>
+<string name="Post_not_deleted">La publicación no se ha suprimido</string>
+<string name="Answer_not_deleted">La respuesta no se ha suprimido</string>
+<string name="Answer_deleted">Se ha suprimido la respuesta</string>
+<string name="Questions">Preguntas</string>
+
+<string name="Camera">Una cámara es un instrumento óptico para registrar o capturar imágenes, las cuales se pueden almacenar localmente, transmitirse a otra ubicación o ambas. Las imágenes pueden ser fotografías individuales o secuencias de imágenes que constituyen vídeos o películas. La cámara es un dispositivo de detección remota ya que detecta sujetos sin ningún contacto.</string>
+
+<string name="No_Camera_4">Sin cámara 4</string>
+<string name="No_dual_Camera">No hay doble cámara</string>
+<string name="No_Front_Camera">Sin cámara frontal</string>
+
+<string name="Speed_Off">Velocidad en cerrar</string>
+<string name="Speed_On">Velocidad en abrir</string>
+
+
+
+<string name="Search_devices">Búsqueda de dispositivos</string>
+<string name="SIGN_IN">INICIAR LA SESIÓN</string>
+
+<string name="Daily_limit_reached">Se ha alcanzado el límite diario</string>
+<string name="fire_battery">batería</string>
+<string name="Quad_core">Cuatro núcleos</string>
+
+<string name="onevalue">Podéis añadir el valor una vez por parámetro y por dispositivo</string>
+<string name="hgfr">Introducir los valores del clúster 2 de la CPU y del clúster 3 de la CPU</string>
+<string name="fdn">Introducir los valores del clúster 2 de la CPU</string>
+
+
+<string name="Valuesubmitted">Se ha enviado el valor, gracias.</string>
+<string name="dfsfdh">Introducir los valores del juego de chips y frecuencia</string>
+
+<string name="gjkkh">Introducir el valor de la cámara principal</string>
+
+<string name="weretwt">Introducir el valor de la cámara secundaria</string>
+
+<string name="piopp">Introducir el valor de la cámara principal</string>
+
+<string name="ffghdfh">Introducir el valor de la cámara secundaria</string>
+<string name="Enter_value">Introducir el valor</string>
+
+<string name="batteryvalue">Capacidad de la batería, p. ej., 3.000, 4.000 en mAh.</string>
+<string name="screensizevalue">Tamaño de la pantalla, p. ej., 4.5, 5 , 5.5 en pulgadas.</string>
+<string name="lengthvalue">Longitud del dispositivo, p. ej., 147, 151.1 , 155.2 en mm.</string>
+<string name="widthvalue">Anchura del dispositivo, p. ej., 75.7, 71.0 , 68 en mm.</string>
+<string name="thicknessvalue">Grueso del dispositivo, p. ej., 8.1, 7.8, 9 en mm.</string>
+<string name="weightvalue">Peso del dispositivo, p. ej., 160 , 128, 175 en gramos.</string>
+<string name="modelnamevalue">Nombre de modelo del dispositivo, p. ej., Galaxy S8, Redmi 5, Moto G5, etz.</string>
+<string name="glassvalue">Tipos de cristal, p. ej., Gorilla glass 3, Gorilla glass 4, cristal de zafiro, etz.</string>
+<string name="ipratingvalue">Grado de protección IP, p. ej., IP68, IP67, etz.</string>
+<string name="cpuvalue">Añade detalles de la CPU, p. ej., SOC - MSM8926, MSM8994, MT6797T, Kirin950, samsungexynos8895, etz., nombre de modelo SOC, p. ej., Snapdragon 821, Helip P27, etz., información sobre el clúster de la CPU, p. ej., cuatro núcleos a 1.5 GHz Cortex A-53.</string>
+<string name="fabvalue">Proceso de fabricación de la CPU, p. ej., 28nm HPm, 14 nm LPP, 10 nm FinFET LPE, etz.</string>
+<string name="rcamvalue">Cámara trasera, p. ej., 12 , 16, 8 en megapíxeles.</string>
+<string name="fcamvalue">Cámara frontal, p. ej., 12 , 16, 8 en megapíxeles.</string>
+<string name="rbad">Seleccionar un parámetro</string>
+<string name="accept">Aceptar</string>
+<string name="acceptanswer">Aceptáis ésta respuesta?</string>
+
+<string name="ratemessage1">Os gusta ésta aplicación?</string>
+<string name="ratemessage2">La valoración de una aplicación es muy importante para el desarrollador, nos permite mejorar la aplicación y la experiencia del usuario. Por favor, valorad nuestra aplicación en la Play Store.</string>
+<string name="ratemessage3">Hacednos saber como podemos hacer que el CPU X sea mejor.</string>
+
+<string name="checkprofilefilds">Marcad todos los campos que no puedan estar vacíos o que sean demasiado cortos.</string>
+<string name="prfogileupdatelimit">El perfil se podrá actualizar después de 24 horas.</string>
+<string name="fewsevondstoreflectchange">En pocos segundos se reflejaran los cambios.</string>
+<string name="disableuser">disableuser</string>
+<string name="userwilldisabled">El usuario será inhabilitado, póngase en contacto con el moderador si ha sucedido por error.</string>
+<string name="Note">Nota</string>
+<string name="Disable">Inhabilita</string>
+<string name="badgename">badgename</string>
+<string name="noawards">Premios: Todavía no hay ningún premio</string>
+
+<string name="awardmoderator">Premiado por 20.000 registros de reputación y positivos del forum por los moderadores actuales</string>
+<string name="awardmentor">Premiado por 10.000 registros de reputación y positivos.</string>
+<string name="awardexpert">Premiado por 5.000 registros de reputación.</string>
+<string name="awardlegend">Premiado por más de 30 temas de debate y publicaciones diarias durante 30 días.</string>
+<string name="awardtroublershooter">Premiado por 200 respuestas y un total de 2.000 registros de reputación.</string>
+<string name="awardtopcontributor">Premiado por 200 publicaciones/respuestas y 1.000 registros de reputación.</string>
+<string name="awardexplainer">Premiado por 100 respuestas o publicaciones y 1.000 registros de reputación</string>
+<string name="awardpublisher">Premiado por la creación de 50 temas de debate</string>
+<string name="awardsocratic">Premiado por hacer 20 preguntas bien recibidas.</string>
+<string name="awardannouncer">Premiado por la creación de 10 temas de debate.</string>
+<string name="awardgreatpost">Premiado por una publicación que ha recibido 100 votos ascendentes.</string>
+<string name="awardjournalist">Premiado por la creación de 25 temas de debate.</string>
+<string name="awardgreatanswer">Premiado por una respuesta que ha recibido 100 votos ascendentes.</string>
+<string name="awardguru">Premiado por una respuesta aceptada que ha recibido 40 votos ascendentes.</string>
+<string name="awardteacher">Premiado por una respuesta aceptada.</string>
+<string name="awardcivicduty">Premiado por votar 300 veces.</string>
+<string name="awardcurious">Premiado por hacer 5 preguntas.</string>
+<string name="awardgoodanswer">Premiado por una respuesta que ha recibido 25 votos ascendentes.</string>
+<string name="awardgoodpost">Premiado por una publicación que ha recibido 25 votos ascendentes.</string>
+<string name="awardscholar">Premiado por hacer una pregunta y aceptar la respuesta.</string>
+<string name="awardtalkative">Premiado en alcanzar un total de 20 publicaciones.</string>
+<string name="awardselflearner">Premiado en responder a vuestra propia pregunta.</string>
+<string name="awardsupporter">Premiado por los 10 primeros votos ascendentes.</string>
+<string name="awardniceanswer">Premiado por una respuesta que ha recibido 10 votos ascendentes.</string>
+<string name="awardnicepost">Premiado por una publicación que ha recibido 10 votos ascendentes.</string>
+<string name="awardsandbadges">\nReputación :- \n\nEs la medida de la cantidad en que la comunidad confía en ti -se gana contribuyendo al foro-.
+\n\n Ganaréis reputación cuando:
+\n
+\n• Dais el voto por una respuesta o publicación = +1
+\n• Quitáis el voto por una respuesta o publicación = -1
+\n• La respuesta es aceptada = +25
+\n• Aceptáis una respuesta = +5
+\n• Creáis un tema de debate = +10
+\n• En suprimiros o eliminar un tema de debate = -10
+\n• En suprimiros o eliminar una pregunta = -5
+\n• En suprimiros una respuesta o publicación = todos los votos ascendentes o descendentes serán eliminados de la reputación.
+
+
+\n\n\n Insignias :-
+\n\n Recibiréis insignias por vuestra contribución al foro y por ser especialmente útiles.
+Las insignias aparecen en la página del perfil y la insignia más alta aparecerá en las publicaciones y en las respuestas.
+\n\n Insignias de oro:
+
+\n\n• Mentor: 10.000 de reputación y registro positivo.
+\n• Experto: 5.000 de reputación y registro positivo.
+\n• Solución de problemas: 200 respuestas y 2.000 con reputación.
+\n• Colaborador mayor: 200 publicaciones o respuestas y 1.000 con reputación.
+\n• Explicador: 100 respuestas o publicaciones y 1.000 con reputación.
+\n• Publicador: 50 temas de debate.
+\n• Socrático: hacer 20 preguntas bien recibidas.
+\n• Gran publicación: una publicación que recibe 100 votos ascendentes.
+\n• Gran respuesta: una respuesta que recibe 100 votos ascendentes.
+
+\n\n Insignias de plata:
+\n\n• Periodista: crear 25 temas de debate.
+\n• Anunciador - crear 10 temas de debate.
+\n• Gurú: respuesta aceptada que recibe 40 votos ascendentes.
+\n• Profesor: se acepta la respuesta.
+\n• Deber cívico: El usuario ha votado 300 veces.
+\n• Curioso: ha hecho 5 preguntas.
+\n• Buen mensaje: una publicación que ha recibido 25 votos ascendentes.
+\n• Buena respuesta: una respuesta que ha recibido 25 votos ascendentes.
+
+\n\n Insígnias de bronce:
+\n\n• Sabio: hacéis una pregunta y aceptáis la respuesta.
+\n• Hablador: total de 20 publicaciones.
+\n• Autodidacta: responde su pregunta.
+\n• Partidario: ha votado les primeros 10 votos ascendentes.
+\n• Respuesta buena: una respuesta que ha recibido 10 votos ascendentes.
+\n• Publicación buena: una publicación que ha recibido 10 votos ascendentes.</string>
+
+<string name="NoFrontCamera">Sin cámara frontal</string>
+<string name="title_activity_create_article">Añade un artículo</string>
+
+<!-- Strings related to login -->
+<string name="prompt_email">Correo electrónico</string>
+<string name="prompt_password">Contraseña (opcional)</string>
+<string name="action_sign_in">Inicia la sesión o regístrame</string>
+<string name="action_sign_in_short">Inicia la sesión</string>
+<string name="error_invalid_email">Ésta dirección de correo electrónico no es válida</string>
+<string name="error_invalid_password">Ésta contraseña es demasiado corta</string>
+<string name="error_incorrect_password">Ésta contraseña es incorrecta</string>
+<string name="error_field_required">Éste campo es obligatorio</string>
+<string name="permission_rationale">«Los permisos para los contactos son necesarios para proporcionar la terminación del correo electrónico.»</string>
+<string name="fag_Articles">Artículos</string>
+
+<string name="Article_not_sent">Artículo no enviado</string>
+
+<string name="ramtype">Tipos de RAM</string>
+
+
+
+
+<string name="category2">Recibir las notificaciones</string>
+
+
+<!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hola, fragmento en blanco</string>
+
+<string name="ram_type">Tipos de RAM</string>
+
+<string name="battery_page_health_good">Buena</string>
+<string name="battery_page_health_overheat">Sobre calentada</string>
+<string name="battery_page_health_dead">Muerta</string>
+<string name="battery_page_health_overvolt">Sobre voltaje</string>
+<string name="battery_page_health_cold">Fría</string>
+<string name="battery_page_health_unspec_failure">FALLO_SIN_ESPECIFICAR</string>
+<string name="value_unknown">Desconocido</string>
+<string name="battery_health">Salud</string>
+<string name="_camera">Cámara</string>
+<string name="widgetoptiontext">Añade un elemento gráfico a la pantalla inicial para acceder rápidamente a los contenidos de las aplicaciones.
+
+\n\nLos elementos gráficos son un aspecto esencial para la personalización de la pantalla inicial. Os los podéis imaginar como vistas de los datos y las características más importantes de una aplicación, a las cuales se puede acceder directamente des de la pantalla inicial.</string>
+<string name="widgetoptiontext3">(2) La segunda es su nivel de batería en porcentaje.</string>
+<string name="widgetoptiontext5">(4) La cuarta es la memoria RAM disponible.</string>
+<string name="widgetoptiontext6">(5) La quinta es el almacenaje interno disponible.\n\n</string>
+<string name="widgetoptiontext4">(3) La tercera és la temperatura de la bateria en grados Celsius y en grados Fahrenheit.</string>
+<string name="widgetoptiontext2">(1) La primera fila contiene el título de la aplicación y el botón de refresco, el elemento gráfico volverá a cargar los valores con los datos actuales.</string>
+<string name="replayto">Responder a:</string>
+<string name="onedot">1.</string>
+<string name="twodot">2.</string>
+<string name="threedot">3.</string>
+<string name="answerscolon">Respuestas:</string>
+<string name="No_Data">Sin datos</string>
+<string name="badgecolon">Insignia:</string>
+<string name="postscolon">Publicaciones:</string>
+<string name="topicscolon">Temas:</string>
+<string name="questionscolon">Preguntas:</string>
+<string name="reputationcolon">Reputación:</string>
+<string name="Not_available">No disponible</string>
+<string name="d_Length">Longitud</string>
+<string name="d_Width">Anchura</string>
+<string name="mm">mm</string>
+<string name="d_Thickness">Grueso</string>
+<string name="d_Weight">Peso</string>
+<string name="gm">gm</string>
+<string name="d_Size">Tamaño</string>
+<string name="Inches">Pulgadas</string>
+<string name="d_Resolution">Resolución</string>
+<string name="d_Density">Densidad</string>
+<string name="d_Glass">Cristal</string>
+<string name="d_Brand">Marca</string>
+<string name="d_manufacturer">Fabricante</string>
+<string name="d_Model">Modelo</string>
+<string name="d_Product">Producto</string>
+<string name="d_Board">Placa</string>
+<string name="d_Hardware">Hardware</string>
+<string name="d_Battery">Batería</string>
+<string name="d_Chipset">Juego de chips</string>
+<string name="d_CPU">CPU</string>
+<string name="_Clock_Speed">Velocidad del reloj</string>
+<string name="d_Fab">Fabricación</string>
+<string name="d_ISA">ISA</string>
+<string name="d_GPU">GPU</string>
+<string name="d_API">API</string>
+<string name="d_Version">Versión</string>
+<string name="d_Version_Name">Nombre de la versión</string>
+<string name="d_Memory">Memoria</string>
+<string name="d_RAM">RAM</string>
+<string name="d_Storage">Almacenamiento</string>
+<string name="d_RAM_Type">Tipos de RAM</string>
+<string name="d_Rear">Posterior</string>
+
+<string name="d_Sensor_size">Tamaño del sensor</string>
+<string name="d_Focal_length">Distancia focal</string>
+<string name="d_Aperature">Apertura</string>
+<string name="d_Exposure_time">Tiempo de exposición</string>
+<string name="d_Sensitivity">Sensibilidad</string>
+<string name="d_Face_Detection">Detección de las caras</string>
+<string name="d_Flash">Flash</string>
+<string name="d_Front">Delantera</string>
+<string name="d_Fingerprint">Huella dactilar</string>
+<string name="d_Iris_Sensor">Sensor del iris</string>
+<string name="d_SpO2_sensor">Sensor del SpO2</string>
+<string name="d_Heart_Rate">Ritmo cardíaco</string>
+<string name="d_Accelerometer">Acelerómetro</string>
+<string name="d_Orintation">Orientación</string>
+<string name="d_Magnetic_Sensor">Sensor magnético</string>
+<string name="d_Proximity_Sensor">Sensor de proximidad</string>
+<string name="d_Rotation_sensor">Sensor de la rotación</string>
+<string name="d_Gyroscope_sensor">Sensor del giroscopio</string>
+<string name="d_Light_sensor">Sensor de la luz</string>
+<string name="d_Gravity_sensor">Sensor de la gravedad</string>
+<string name="d_Temperature_sensor">Sensor de la temperatura</string>
+<string name="d_Pressure_sensor">Sensor de la presión</string>
+<string name="d_Humidity_sensor">Sensor de la humedad</string>
+<string name="d_Step_detector">Detector de los pasos</string>
+<string name="d_WIFI">WiFi</string>
+<string name="d_WIFI_direct">WiFi direct</string>
+<string name="d_Bluetooth">Bluetooth</string>
+<string name="d_Bluetooth_LE">Bluetooth LE</string>
+<string name="d_GPS">GPS</string>
+<string name="d_NFC">NFC</string>
+<string name="d_Microphone">Micrófono</string>
+<string name="d_USB_Host">Anfitrión USB</string>
+<string name="d_USB_accessory">Accesorio USB</string>
+<string name="d_Multitouch">Multitàctil</string>
+<string name="d_Printing">Impresión</string>
+<string name="d_Secondary_display">Pantalla secundaria</string>
+<string name="d_Audio_low_latency">Baja latencia del audio</string>
+<string name="d_Audio_Pro">Audio profesional</string>
+<string name="d_Automotive">Automoción</string>
+<string name="d_External_camera">Cámara externa</string>
+<string name="d_Front_camera">Cámara frontal</string>
+<string name="d_Infrared_blaster">Receptor de infrarojos</string>
+<string name="d_Ethernet">Ethernet</string>
+<string name="d_Managed_users">Usuarios gestionados</string>
+<string name="d_Telephony">Telefonia</string>
+<string name="d_SIP">SIP</string>
+<string name="d_SIP_VOIP">VOIP basado en SIP</string>
+<string name="fbdevicedetailsnative">450725865363113_492674974501535</string>
+<string name="Sensor_not_available">Sensor no disponible</string>
+<string name="pixels">píxeles</string>
+<string name="day">día</string>
+<string name="hour">hora</string>
+<string name="minute">minuto</string>
+<string name="refresh">Refresca</string>
+<string name="info">Información</string>
+<string name="menu">Menú</string>
+<string name="delete">Suprimir</string>
+
+<string name="compass">Brújula</string>
+<string name="cpu_status">Estado de la CPU</string>
+<string name="device">Dispositivo</string>
+<string name="search_devices">Búsqueda de dispositivos</string>
+<string name="Articles">Artículos</string>
+
+<string name="Discussion">Debate</string>
+<string name="Announcement">Anuncios</string>
+<string name="settings">Ajustamientos</string>
+<string name="widget">Elemento gráfico (widget)</string>
+<string name="help_amp_policy">Ayuda y política</string>
+<string name="rate_us">Valoranos</string>
+
+<string name="disable_user">Inhabilita el usuario</string>
+<string name="show_data_speed_in_notifications">Muestra la velocidad de los datos en las notificaciones</string>
+<string name="your_post_here">Vuestra publicación va aquí (escribir en inglés)</string>
+<string name="send">ENVIAR</string>
+<string name="widget_to_enable_disable_data_speed_notification_in_android_8_0_and_above_it_opens_app_settings_where_user_can_enable_disable_data_speen_notification">Elemento gráfico para habilitar/inhabilitar la notificación de velocidad de los datos. con Android 8.0 y versiones anteriores, se abrirá la configuración de la aplicación, desde dónde el usuario podrá habilitar/inhabilitar la notificación de velocidad de los datos.</string>
+<string name="data_speed_widget">Elemento gráfico para la velocidad de los datos</string>
+<string name="answer_should_be_informative_relevant_and_helpful">La respuesta deberá ser informativa, relevante y útil.</string>
+<string name="your_answer_here">Vuestra respuesta va aquí (escribir en inglés)</string>
+<string name="frequency">Frecuencia</string>
+<string name="time_in_state">Tiempo en el estado</string>
+<string name="percenttime">% de tiempo</string>
+<string name="your_manufacturer_does_not_allow_to_read_cpu_states">El fabricante no permite leer los estados de la CPU.</string>
+<string name="total_time">Tiempo total</string>
+<string name="show_ad">Muestra el anuncio</string>
+<string name="other_account">Otra cuenta</string>
+<string name="d_Cores">Núcleos</string>
+<string name="core_1">Núcleo 1</string>
+<string name="core_2">Núcleo 2</string>
+<string name="core_3">Núcleo 3</string>
+<string name="core_4">Núcleo 4</string>
+<string name="core_5">Núcleo 5</string>
+<string name="core_6">Núcleo 6</string>
+<string name="core_7">Núcleo 7</string>
+<string name="core_8">Núcleo 8</string>
+<string name="core_9">Núcleo 9</string>
+<string name="core_10">Núcleo 10</string>
+<string name="load">Carga</string>
+<string name="instruction_set">Juego de instrucciones</string>
+<string name="cpu_governor">Gobernador de la CPU</string>
+<string name="java_heap">Pila de Java</string>
+<string name="d_id">ID</string>
+<string name="host">Anfitrión</string>
+<string name="bootloader">Cargador de arrancada</string>
+<string name="baseband_version">Versión de la banda base</string>
+<string name="kernel_version">Versión del núcleo</string>
+<string name="topic_should_be_relate">El tema debería estar relacionado con Android, tecnología, teléfonos móviles, aplicaciones, etz. Nombre del tema -</string>
+<string name="your_topic_here">Vuestro tema va aquí (escribir en inglés)</string>
+<string name="first_post">Primera publicación -</string>
+<string name="your_post_here_minim">Vuestra publicación va aquí, mínimo de 100 caracteres. (Introducción, generalmente describe el objetivo del debate -escribir en inglés-).</string>
+
+<string name="essential">Esencial</string>
+<string name="favourite">Preferida</string>
+<string name="d_New">Nuevo</string>
+<string name="features_to_be_included_in_next_update_next_update">Las características que se incluirán en la próxima actualización, la siguiente fecha de actualización es el 20/06/2018.</string>
+<string name="no_ads_available">No hay disponible ningún anuncio</string>
+<string name="ideas_and_suggestions_to_make_this_app_better">Ideas y consejos para mejorar ésta aplicación.</string>
+<string name="feedback">Retroalimentación:</string>
+<string name="send_email">Enviar por correo electrónico</string>
+<string name="or">o</string>
+<string name="d_post">Publicación</string>
+<string name="city_country">Ciudad, país</string>
+<string name="update">Actualiza</string>
+<string name="d_name">Nombre</string>
+<string name="d_occupation">Ocupación</string>
+
+<string name="post_should_be_informative_relevant_and_helpful">La publicación deberá ser informativa, relevante y de ayuda.</string>
+<string name="posting_guidelines">Directrices para la publicación</string>
+<string name="d_privacy_policy">Política de privacidad</string>
+<string name="top">Mejor</string>
+<string name="most_posts">Mejores publicaciones</string>
+<string name="week">Semana</string>
+<string name="month">Mes</string>
+<string name="your">Vuestras</string>
+<string name="d_user">Usuario</string>
+<string name="replay_to">Responder a</string>
+
+<string name="d_awards">Premios</string>
+<string name="your_privacy">Vuestra privacidad</string>
+<string name="cpu_x_follows_all_legal_requirements_to_protect_your_privacy_we_do_not_collect_any_personal_information">El CPU X sigue todos los requisitos legales para proteger vuestra privacidad. No recopilamos ninguna información personal.</string>
+<string name="definations">Definiciones</string>
+<string name="non_personal_information">Información no personal</string>
+<string name="para1">Ésta es la información que no os hace personalmente identificable; como el modelo del dispositivo, el nombre de la CPU, la RAM, etz. la qual és la misma en todos los modelos en particular de un cierto fabricante.</string>
+<string name="personal_identifiable_information">Información para la identificación personal</string>
+<string name="para2">Ésta es la información no pública que os identifica; como vuestro nombre, dirección de correo electrónico, número de teléfono, etz. el CPU X no recoge ninguna información que os haga personalmente identificable.</string>
+<string name="app_permissions">Permisos de la aplicación</string>
+<string name="major_permissions">Permisos importantes</string>
+<string name="view_wifi_connection">Ver la conexión WiFi</string>
+<string name="para3">Éste permiso es obligatorio para mostraros información sobre la conexión WiFi; como la velocidad del enlace, el nombre de la red, etz. el CPU X no recopila ni almacena la información sobre la conexión WiFi.</string>
+<string name="information_stored_on_device">Información almacenada en el dispositivo</string>
+<string name="para4">El CPU X almacena la información no personal en el dispositivo, la cual está protegida y sólo se puede acceder des de la aplicación. Podéis acceder a ésta información con la aplicación. Ésta información sólo se almacena en el dispositivo y se puede borrar desinstalándola.</string>
+<string name="information_stored_on_server">Información almacenada en el servidor</string>
+<string name="device_name">Nombre del dispositivo</string>
+<string name="select_parameter">Seleccionar un parámetro</string>
+<string name="value">Valor</string>
+<string name="enter_value">Introducir el valor</string>
+<string name="chipset">Juego de chips</string>
+<string name="chipset_name">Nombre del juego de chips</string>
+<string name="cpu_clusters">Clúster de la CPU</string>
+<string name="select_camera">Seleccionar una cámara</string>
+<string name="single">Sola</string>
+<string name="dual">Dual</string>
+<string name="primary">Primaria</string>
+<string name="secondary">Secundaria</string>
+<string name="submit">Enviar</string>
+<string name="top_users_of_the_week">Los mejores usuarios de la semana</string>
+<string name="top_topics_of_the_week">Los mejores temas de la semana</string>
+<string name="best_posts_of_the_week">Las mejores publicaciones de la semana</string>
+<string name="top_questions_of_the_week">Las mejores preguntas más frecuentes de la semana</string>
+<string name="best_answers_of_the_week">Las mejores respuestas de la semana</string>
+<string name="awards_and_badges">Premios y insignias</string>
+<string name="data_speed">Velocidad de les datos</string>
+<string name="speed_off">Velocidad de apagar</string>
+<string name="system">SISTEMA</string>
+<string name="d_OS">SO</string>
+<string name="d_Build">Construido</string>
+<string name="your_question_here">Vuestra pregunta va aquí (escribir en inglés)</string>
+
+<string name="question_should_be_related_to_android_technology_mobile_phones_apps_etc">La pregunta deberá estar relacionada con Android, tecnología, teléfonos móviles, aplicaciones, etz.</string>
+
+
+<string name="most_answered">Con más respuestas</string>
+
+<string name="d_body">CUERPO</string>
+<string name="d_display">PANTALLA</string>
+<string name="d_CU">CPU</string>
+<string name="d_system">SISTEMA</string>
+<string name="d_memory">MEMORIA</string>
+<string name="d_camera">CÁMARA</string>
+<string name="d_sensors">SENSORES</string>
+<string name="d_features">CARACTERÍSTICAS</string>
+<string name="d_Temperature">Temperatura</string>
+<string name="d_voltage">Voltaje</string>
+<string name="d_battery_health">Salud de la batería</string>
+<string name="d_technology">Tecnología</string>
+<string name="cores">Núcleos</string>
+
+<string name="total_internal">Interna total</string>
+<string name="free_internal">Interna libre</string>
+<string name="by_signing_in_you_are_agree_with_our">En iniciar la sesión, estáis de acuerdo con nuestra</string>
+<string name="Suggestion">Consejo</string>
+<string name="GPS">El sistema de posicionamiento global (GPS) es un sistema de navegación por satélite basado en el espacio que proporciona la información de ubicación y hora en todas las condiciones meteorológicas, en cualquier lugar o cerca del suelo, dónde haya una línea de visión sin obstáculos con cuatro o más satélites de GPS. El sistema proporciona capacidades críticas a los usuarios militares, civiles y comerciales en todo el mundo. El gobierno de los Estados Unidos creó el sistema, lo mantiene y la hace accesible de manera gratuita a cualquiera que tenga un receptor de GPS.</string>
+
+<string name="WIFI">La Wi-Fi (o WiFi) es una tecnología de red sin hilos para ordenadores en la zona local, la cual permite que se conecten los dispositivos electrónicos, principalmente con las bandas de radio ISM de 2,4 gigahertz (12 cm) UHF y 5 gigahertz (6 cm) SHF.
+\n\nLa WiFi Alliance define la WiFi como cualquier producto de red local (WLAN) sin hilos basado en los estándares 802.11 del Instituto de Ingeniería Eléctrica y Electrónica (IEEE). Sin embargo, el término Wi-Fi se usa en inglés general como sinónimo de WLAN, ya que la mayoría de las WLAN modernas se basan en estos estándares. El Wi-Fi es una marca comercial de la Wi-Fi Alliance. La marca registrada «WiFi CERTIFIED» sólo puede ser usada por los productos WiFi que realicen satisfactoriamente las pruebas de certificación de interoperabilidad de la WiFi Alliance.</string>
+<string name="WIFIDirect">La Wi-Fi Direct, inicialmente llamada Wi-Fi P2P, es un estándar Wi-Fi que permite a los dispositivos conectarse con facilidad sin necesidad de un punto de acceso inalámbrico. Se puede usar para todo, desde la navegación por Internet hasta la transferencia de archivos y para comunicarse simultáneamente con más de un dispositivo a velocidad típicas de la WiFi. Una ventaja de la Wi-Fi Direct es la posibilidad de conectar dispositivos, incluso si son de diferentes fabricantes. Sólo uno de los dispositivos Wi-Fi deberá cumplir con el Wi-Fi Direct para establecer una conexión de igual a igual que transferirá las datos directamente entre ellos con una configuración muy reducida.</string>
+<string name="Bluetooth">El Bluetooth es un estándar de tecnología inalámbrica para intercambiar datos a distancias cortas (usando ondas de radio UHF con longitud de onda corta en la banda ISM desde 2,4 a 2,485 GHz) desde dispositivos fijos y móviles, y crear redes de área personal (PAN -personal area networks-). Inventado por el proveedor de telecomunicaciones Ericsson en 1994, se concibió originalmente como una alternativa inalámbrica a los cables de datos RS-232. Se pueden conectar varios dispositivos, superando los problemas de sincronización.</string>
+<string name="BluetoothLE">El Bluetooth de baja energía (Bluetooth LE, BLE, comercializado como Bluetooth Smart) es una Tecnología inalámbrica de red de área personal diseñada y comercializada por el grupo con interés especial en el Bluetooth, está dirigido a aplicaciones nuevas en el ámbito de la asistencia sanitaria, fitness, balizas, seguridad y el entretenimiento doméstico. En comparación con el Bluetooth clásico, el Bluetooth Smart pretende ofrecer un consumo y un coste considerablemente reducidos mientras mantiene un intervalo de comunicación similar.</string>
+<string name="NFC">La Near Field Communication (NFC) es un conjunto de tecnologías inalámbricas de corto alcance, normalmente requiere una distancia de 4 cm o menos para iniciar una conexión. La NFC permite compartir pequeñas cargas de datos entre una etiqueta NFC y un dispositivo con Android, o entre dos dispositivos con Android.</string>
+<string name="Microphone">Un micrófono, en inglés coloquial «mic» o «mike», es un transductor o sensor acústico a electricidad que convierte el sonido en el aire en un señal eléctrica. Los micrófonos se usan en muchas aplicaciones, tales como teléfonos, audífonos, sistemas de direcciones públicas para salas de conciertos y eventos públicos, producción cinematográfica, ingeniería de audio en vivo y registro, radios bidireccionales, megafonía, emisión de radio y televisión, y en ordenadores para registrar voz, reconocimiento de la voz, VoIP y para fines no acústicas, tales como sensores para comprobar los ultrasonidos o los golpes.</string>
+<string name="CameraFlash">Un flash es un dispositivo usado en la fotografía que produce un flash de luz artificial (normalmente 1/1000 a 1/200 de un segundo) a una temperatura de color de unos 5.500 K para ayudar a iluminar una escena. Un propósito importante de un flash es iluminar una escena oscura. Otros usos capturan objetos que se mueven rápidamente o cambian la calidad de la luz. El flash se refiere tanto al flash de luz como a la unidad de flash electrónico que descarga la luz. La mayoría de las unidades flash actuales son electrónicas, han evolucionado a partir de bombillas de un solo uso y polvo inflamable. Las cámaras modernas a menudo activan las unidades de flash automáticamente.</string>
+<string name="USBHost">Cuando su dispositivo con Android está en el modo anfitrión USB (USB Host), éste actuará como anfitrión USB, dará energía al bus y listará los dispositivos USB conectados. El modo anfitrión USB es compatible con Android 3.1 y superior.</string>
+<string name="USBAccessory">El modo USB accessory permite a los usuarios conectar el hardware anfitrión USB diseñado específicamente para dispositivos con Android. Los accesorios deberán de adherirse al protocolo Android Accessory descrito en la documentación del Android Accessory Development Kit. Éste permite que los dispositivos con Android que no puedan actuar como anfitrión USB continúen interactuando con el hardware USB. Cuando un dispositivo con Android está en el modo USB accessory, el USB accessory con Android que está conectado actuará como anfitrión, proporcionando energía al bus USB y listando los dispositivos conectados. El Android 3.1 (API de nivel 12) es compatible con el modo USB accessory y la característica también está disponible para Android 2.3.4 (API de nivel 10) para permitir la compatibilidad con un intervalo más amplio de dispositivos.</string>
+<string name="Secondarydisplay">Si el dispositivo permite la ejecución de actividades en las pantallas secundarias.</string>
+<string name="Audiolowlatency">La tubería de audio del dispositiva de baja latencia, más adecuado para aplicaciones de audio sensibles a los retrasos o demoras en la entrada o salida del sonido.</string>
+<string name="AudioPro">Si el dispositivo tiene un nivel de audio profesional con la funcionalidad y rendimiento.</string>
+<string name="Camerainfo">Si el dispositivo tiene una cámara detrás de la pantalla.</string>
+<string name="Cameraautofocus">Un sistema óptico de enfoque automático (o AF -autofocus-) usa un sensor, un sistema de control y un motor para centrarse en un punto o una área seleccionados automáticamente o manualmente. Un telemétrico electrónico tiene una pantalla en vez del motor; el ajuste del sistema óptico se debe hacer manualmente hasta la indicación. Los métodos de enfoque automático se distinguen por su tipos como variantes activas, pasivas o híbridas.</string>
+<string name="Printing">En Android 4.4 (API de nivel 19) y superior, el marco de trabajo proporciona servicios para imprimir imágenes y documentos directamente desde aplicaciones Android. La impresión también permite crear una instantánea de la información que no depende de tener una potencia suficiente en la batería o una conexión de red inalámbrica.</string>
+<string name="ExternalCamera">Si el dispositivo permite tener una cámara externa conectada.</string>
+<string name="MultipleUsers">Si el dispositivo permite crear usuarios secundarios y perfiles gestionados.</string>
+<string name="SIPVOIP">Si el dispositivo permite VOIP basado en SIP.</string>
+
+<string name="Technology">Tipos de tecnología usada por la memoria como DDR3, DDR4, un sólo canal, doble canal, etz.</string>
+<string name="HeadTracking">Si el dispositivo implementa seguimiento de la cabeza para un dispositivo RV.</string>
+<string name="HighVRmode">Si el dispositivo implementa el MODO RV (-VR MODE), pero también cumple con los requisitos adicionales de CDD para ofrecer una experiencia de RV de alta calidad. En general, los dispositivos que declaren ésta característica adicionalmente también:
+
+\n\nOfrecen un rendimiento consistente en una frecuencia de fotogramas elevada durante un periodo de tiempo prolongado para las cargas de trabajo CPU/GPU de las aplicaciones de RV con un número mínimo de fotogramas perdidos para las aplicaciones de VR que han llamado setSustainedPerformanceMode(boolean).
+
+\n\nImplementan SENSORES HIFI y tienen una baja latencia del sensor.
+\nIncluyen optimizaciones para reducir la persistencia de la pantalla mientras se ejecutan aplicaciones de VR.
+\nImplementan un camino de representación optimizada para minimizar la latencia al dibujar en la pantalla principal del dispositivo.
+\nIncluyen las siguientes extensiones EGL: EGL_ANDROID_create_native_client_buffer, EGL_ANDROID_front_buffer_auto_refresh, EGL_EXT_protected_content, EGL_KHR_mutable_render_buffer, EGL_KHR_reusable_sync y EGL_KHR_wait_sync.
+
+\n\nComo mínimo proporcionan un núcleo de CPU que se reservará para su uso exclusivo superior, procesando la aplicación de RV en primer plano para los hilos de representación críticos mientras se ejecuta ésta aplicación.</string>
+<string name="VRmode">El dispositivo implementa un modo optimizado para las aplicaciones de realidad virtual (RV) que maneja la representación estereoscópica de las notificaciones e inhabilita la mayoría de componentes de la IU del sistema monocular mientras que una aplicación de RV está enfocada en el usuario.</string>
+<string name="Infraredblaster">Un receptor de infrarrojos (o receptor IR) es un dispositiva que emula un mando a distancia por infrarrojos para controlar de manera autónoma un dispositiva sólo suele controlarse mediante el pulsar las teclas del mando a distancia.</string>
+<string name="Multitouch">Si la pantalla táctil del dispositivo es capaz de seguir dos o más dedos de forma totalmente independiente.</string>
+<string name="SIP">El protocolo de inicio de la sesión (SIP -Session Initiation Protocol-) es un protocolo de comunicaciones para la señalización y el control de las sesiones de comunicación multimedia en aplicaciones de telefonía para llamadas de voz y vídeo, en sistemas de telefonía IP (-in private-) privadas, así como en mensajería instantánea a través de redes con el protocol de Internet (IP -Internet Protocol-).</string>
+<string name="Livewallpaper">Un fondo de pantalla en vivo es una imagen animada que lleva el lugar de una imagen estacionaria en tu pantalla de inicio. Algunos fondos de pantalla en vivo son interactivos y reaccionan a determinados gestos o movimientos del dispositivo.</string>
+<string name="Ethernet">Posibilita el conectar un dispositivo Android a Internet a través de Ethernet. Las versiones Marshmallow 6.0.1 de Android y las versiones anteriores admiten la conectividad Ethernet. Se necesita un adaptador de OTG a Ethernet para conectar los dispositivos Android a Internet a través de Ethernet.</string>
+<string name="LiveTV">Si el dispositivo admite TV en directo y puede visualizar contenidos desde entradas de TV o desde fuentes como HDMI o un sintonizador incorporado que proporcione transmisión de vídeo o difusión de programas de televisión.</string>
+<string name="SYSTEM">Android es un sistema operativo móvil (SO) basado en el núcleo de Linux y actualmente desarrollado por Google. con una interfaz de usuario basada en la manipulación directa, Android está principalmente diseñado para dispositivos móviles con pantalla táctil, como teléfonos inteligentes y tabletas, con interfaces de usuario especializadas para televisores (Android TV), coches (Android Auto) y relojes de pulsera (Android Wear). El SO usa entradas táctiles que se corresponden con las acciones del mundo real, tales como desplazarse, tocar, pellizcar y pellizcar al revés para manipular los objetos en la pantalla y un teclado virtual. A pesar de haber estado diseñado principalmente para la entrada de pantalla táctil, también se ha usado en consolas de juegos, cámaras digitales, fabricantes de PC y otros dispositivos electrónicos.</string>
+<string name="OS">Un sistema operativo (SO) es un software que gestiona los recursos del ordenador o del hardware y software, y proporciona servicios comunes para los programas informáticos. El sistema operativo es un componente esencial del software del sistema en un sistema informático. Los programas de aplicación normalmente requieren que funcione un sistema operativo.</string>
+<string name="Manufacturer">Empresa que diseña, produce o monta los teléfonos móviles.</string>
+<string name="Brand">Una marca es un nombre, término, diseño o otra característica que distingue un producto de la empresa de los otros.</string>
+<string name="Model">Nombre diferente del dispositivo.</string>
+<string name="Modelname">Nombre del modelo de la CPU.</string>
+<string name="Board">Una placa madre (-motherboard-) o placa base (-mainboard-), placa del sistema (-system board-), placa plana (-planar board-) o placa lógica (-logic board-), es la placa de circuitos impresos principal (PCB -printed circuit board-) que se encuentra en los ordenadores y otros sistemas expansibles. Contiene muchos de los componentes electrónicos cruciales del sistema, como la unidad de procesamiento central (CPU -central processing unit-) y la memoria, y proporciona conectores para otros periféricos. A diferencia de una «backplane» (placa de circuito impreso), una placa base contiene los subsistemas significativos como el procesador y otros componentes.</string>
+<string name="Hardware">Número del fabricante del sistema en chip (SoC) móvil, un sistema en un chip o un sistema en el chip (SoC o SOC) es un circuito integrado (IC -integrated circuit-) que integra todos los componentes de un ordenador o otro sistema electrónico en un solo chip. Puede contener características de señal digital, analógica, mixta y a menudo de frecuencia radioeléctrica -todo en un único sustrato del chip-. Los SoC son muy comunes en el mercado de la electrónica móvil debido a su bajo consumo energético.</string>
+<string name="Serial">Un número de serie del hardware.</string>
+<string name="SystemUptime">Tiempo desde que el sistema se ha iniciado/activado.</string>
+<string name="UpTimeTotal">Tiempo desde que se inició el sistema, incluyendo la hibernación.</string>
+<string name="SleepTime">Tiempo que ha pasado el sistema en hibernación (CPU apagada, pantalla oscura, dispositivo a la espera de una entrada externa).</string>
+<string name="InstalledApps">Número de aplicaciones que hay instaladas en el dispositivo.</string>
+<string name="Version">Los nombres de las versiones o números de versión únicos representan estados únicos del software de ordenador/móvil. Dentro de una categoría del número de versión indicado (mayor, menor), éstos números generalmente son asignados en orden creciente y corresponden a nuevos desarrollos del software.</string>
+<string name="VersionName">Los nombres de las versiones o números de versión únicos representan estados únicos del software de ordenador/móvil. Dentro de una categoría del número de versión indicado (mayor, menor), éstos números generalmente son asignados en orden creciente y corresponden a nuevos desarrollos del software.</string>
+<string name="APILevel">Android usa niveles de la API para gestionar la compatibilidad de las aplicaciones entre las diferentes versiones de Android, y explica como configurar los ajustamientos del proyecto Android para implementar éste nivel de la API en vuestra aplicación.</string>
+<string name="MEMORY">En la informática, la memoria hace referencia a los dispositivos usados para almacenar información para el uso en un ordenador o teléfono móvil. El término memoria principal se usa para los sistemas de almacenaje que funcionan a gran velocidad (es decir, la RAM), como distinción de la memoria secundaria, la cual proporciona un almacenaje al programa y de datos, es lenta para acceder, pero ofrece una mayor capacidad de memoria.</string>
+<string name="Fingerprint">Una cadena que identifica de manera exclusiva ésta construcción.</string>
+<string name="BuildID">Ya sea un número de lista de cambios o una etiqueta como «M4-RC20».</string>
+<string name="BuildTime">Fecha en la cual se construyó el SO.</string>
+<string name="TotalRAM">La memoria total accesible por el núcleo. Ésta es básicamente el tamaño de RAM en el dispositivo.</string>
+<string name="FreeRAM">La memoria disponible en el sistema. Éste número no debería considerarse en absoluto: debido a la naturaleza del núcleo, una parte significativa de ésta memoria está en uso y es necesaria para que el sistema general funcione bien.</string>
+<string name="RemovableStorage">Si se puede extraer el dispositivo de almacenaje (como una tarjeta SD) o falso si el dispositiva de almacenaje está integrado y no se puede extraer físicamente.</string>
+<string name="TotalInternalStorage">Memoria interna total en el dispositivo.</string>
+<string name="FreeInternalStorage">Memoria interna disponible en el dispositivo.</string>
+<string name="CPU">Una unidad de procesamiento central (CPU -central processing unit-) son los circuitos electrónicos dentro de un ordenador que lleva a cabo las instrucciones de un programa informático realizando las operaciones aritméticas, lógicas, control y entrada/salida (E/S) básicas especificadas por las instrucciones. El término se ha empleado en la industria informática al menos desde principios de 1960. Tradicionalmente, el término «CPU» se refiere a un procesador y su unidad de control (CU -control unit-), distinguiendo estos elementos del núcleo de un ordenador de los componentes externos como la memoria principal y circuitos de E/S.</string>
+<string name="Cores">Número de núcleos de procesador disponibles en el dispositivo. NOTA: En el caso de los procesadores OCTA-CORE (8 núcleos), hay de dos tipos:
+
+\n\n1) Procesadores con ocho núcleos pasivos -éstos sólo usan 4 núcleos a la vez, y los otros permanecen en estado pasivo-.
+
+\n\n2) Procesadores con ocho núcleos verdaderos -todos los núcleos permanecen disponibles para usarlos en cualquier momento-.
+
+\n\nUn procesador con múltiples núcleos es un único component informático con dos o más unidades de procesamiento independientes reales, las cuales son las unidades que leen y ejecutan las instrucciones del programa. Las instrucciones, son instrucciones normales de la CPU, com añadir, mover datos y ramificar, pero múltiples núcleos pueden ejecutar múltiples instrucciones a la vez, aumentando la velocidad general de los programas.</string>
+<string name="Core1">Primer núcleo.</string>
+<string name="Core2">Segundo núcleo.</string>
+<string name="Core3">Tercer núcleo.</string>
+<string name="Core4">Cuarto núcleo.</string>
+<string name="Core5">Quinto núcleo.</string>
+<string name="Core6">Sexto núcleo.</string>
+<string name="Core7">Séptimo núcleo.</string>
+<string name="Core8">Octavo núcleo.</string>
+<string name="Core9">Noveno núcleo.</string>
+<string name="Core10">Décimo núcleo.</string>
+<string name="ClockSpeed">La velocidad del reloj suele referirse a la frecuencia con la que un chip como una unidad de procesamiento central (CPU), ejecuta un núcleo de un procesador con múltiples núcleos y se usa como indicador de la velocidad del procesador.
+
+\n\nSe mide con la unidad del SI (Sistema Internacional) en hercios. La velocidad del reloj de la primera generación de ordenadores se midió en hercios o kilohercios, pero en el siglo XXI la velocidad de las CPU modernas se anuncia en gigahercios.</string>
+<string name="Processor">término común para cualquier circuito integrado (IC) diseñado para ejecutar instrucciones</string>
+<string name="TotalHeapMemory">El número de bytes que toma la pila en su tamaño actual.</string>
+<string name="MaxHeapMemory">El número máximo de bytes que se pueden expandir en la pila.</string>
+<string name="FreeHeapMemory">El número de bytes actualmente disponibles en la pila sin ampliarla.</string>
+<string name="Bootloader">El número de la versión del gestor de arranque del sistema.</string>
+<string name="Instructionset">En el software informático, una interfaz binaria de aplicación (ABI -application binary interface-) es la interfaz entre dos módulos del programa, uno de los cuales a menudo es una biblioteca o el sistema operativo, el nivel del código de la máquina. Una ABI determina los detalles de como se llaman las funciones y en qué formato binario deberá pasar la información desde un componente del programa al siguiente o al sistema operativo en el caso de una llamada al sistema.</string>
+<string name="CPUGovernor">El gobernador de la CPU permite que el sistema operativo escale arriba o abajo la frecuencia de la CPU para ahorrar energía. Las frecuencias de la CPU se pueden escalar automáticamente dependiendo de la carga del sistema, en respuesta a los eventos ACPI o manualmente mediante programas en el espacio de usuario.</string>
+<string name="Basebandversion">La cadena de la versión para el firmware de la radio. Puede devolver nulo (si, por ejemplo, la radio no está encendida).</string>
+<string name="Tags">Etiquetas separadas por comas que describen la construcción, como «unsigned, debug».</string>
+<string name="KernelVersion">La versión del núcleo es la versión del núcleo Linux en que se basa Android. Es el núcleo del sistema operativo que gestiona las solicitudes a y desde el hardware, la memoria y la gestión de procesos, y todo el material de bajo nivel necesario para ejecutar Android.</string>
+<string name="Type">Los tipos de construcción, como «user» o «eng».</string>
+<string name="GPU">Una unidad de procesador gráfico (GPU -graphics processor unit-), también llamada ocasionalmente unidad de procesador visual (VPU -visual processor unit-), es un circuito electrónico especializado diseñado para manipular y alterar rápidamente la memoria para acelerar la creación de imágenes en un frame buffer destinado a la visualización. Las GPU se usan en sistemas incrustados, teléfonos móviles, ordenadores personales, estaciones de trabajo y consolas de juegos. Las GPU modernas son muy eficaces manipulando gráficos y imágenes en los ordenadores, y su alta estructura en paralelo los hace más eficaces que las CPU de uso general para los algoritmos donde el procesamiento de grandes bloques de datos se realiza en paralelo.</string>
+<string name="Renderer">Nombre del renderizador de la GPU.</string>
+<string name="Vendor">Nombre del vendedor.</string>
+<string name="BogoMIPS">Los BogoMips son una medida proporcionada por el sistema operativo Linux que indica de una manera relativa la rapidez con que se ejecuta el procesador del ordenador. Los MIPS se quedan cortos para millones de instrucciones por segundo. Es una medida para la velocidad de computación de un procesador.</string>
+<string name="DataConnection">Muestra si Internet está conectado o no con el dispositivo.</string>
+<string name="DataType">Tipos de conexión con Internet móvil, WIFI o móvil.</string>
+<string name="Network">Red para la conexión de datos como WiFi, HSDPA, 3G, EDGE, LTE, GPRS.</string>
+<string name="IPaddress">Una dirección del protocolo de Internet (dirección IP) es una etiqueta numérica asignada a cada dispositivo (p. ej., ordenador, impresora del teléfono móvil) que participa en una red informática que usa el protocolo de Internet para la comunicación.</string>
+<string name="DownloadSpeed">Velocidad de Internet. El rendimiento de una conexión a Internet, la cual se basa en el número de bytes por segundo con que viajan las datos desde el dispositivo de los usuarios a Internet (subida) y desde Internet (bajada). Dependiendo de los tipos de conexión, la velocidad diferirá drásticamente. Nota: la velocidad se muestra en MB/s o Mbps, MB = 8Mb.</string>
+<string name="UploadSpeed">Velocidad de Internet. El rendimiento de una conexión a Internet, la cual se basa en el número de bytes por segundo con que viajan las datos desde el dispositivo de los usuarios a Internet (subida) y desde Internet (bajada). Dependiendo de los tipos de conexión, la velocidad diferirá drásticamente.</string>
+<string name="BatteryLevel">Porcentaje restante de carga de la batería, 100% cuando está totalmente cargada.</string>
+<string name="BatteryTemperature">Temperatura actual de la batería desde el sensor de temperatura de la batería.</string>
+<string name="Host">Nombre interno del anfitrión.</string>
+<string name="BatteryTechnology">Tecnología de la batería como Li-ion, Li-poly.</string>
+<string name="BatteryStatus">Cargando o descargando.</string>
+<string name="PowerSource">Fuente de alimentación del dispositivo como batería, USB, carga inalámbrica.</string>
+<string name="BatteryVoltage">La tensión a través de los terminales de una batería en milivoltios.</string>
+<string name="Width">Anchura de la pantalla del dispositivo en pulgadas y en milímetros. Nota: algunos fabricantes no proporcionan detalles precisos sobre la pantalla.</string>
+<string name="Display">Tamaño de la pantalla del dispositivo y su tecnología.</string>
+<string name="ScreenResolution">Resolución de la pantalla. El número de píxeles horizontales y verticales en una pantalla.</string>
+<string name="Refreshrate">Como de rápido mostrará la pantalla los contenidos y servicios nuevos o podrá cambiar sus contenidos.</string>
+<string name="DensityX">Se trata del número de píxeles por pulgada en dirección horizontal.</string>
+<string name="DensityY">Se trata del número de píxeles por pulgada en dirección vertical.</string>
+<string name="ScreenDensity">Densidad de píxeles en la pantalla por pulgada.</string>
+<string name="Orientation">Orientación de la pantalla como retrato, horizontal.</string>
+<string name="Height">Anchura de la pantalla del dispositivo en pulgadas y en milímetros. Nota: algunos fabricantes no proporcionan detalles precisos sobre la pantalla.</string>
+<string name="TimeZone">Una zona horaria es una región que observa un tiempo estándar uniforme para fines legales, comerciales y sociales. Las zonas horarias suelen seguir los límites de los países y sus subdivisiones, ya que es conveniente que las áreas con una estrecha comunicación comercial o de otra índole se mantengan con el mismo tiempo.</string>
+<string name="Language">Ajustamientos para el idioma del dispositivo</string>
+<string name="RootAccess">El «rooting» es el proceso de permitir a los usuarios de teléfonos inteligentes, tabletas y otros dispositivos que ejecuten el sistema operativo móvil Android para conseguir un control privilegiado (más conocido como acceso «root») sobre varios subsistemas de Android. Como Android usa el núcleo Linux, el «rooting» en un dispositivo Android da acceso similar a los permisos administrativos que Linux o cualquier otro sistema operativo similar a Unix.</string>
+<string name="IMEI">La identidad internacional del equipo de la estación móvil o IMEI (-International Mobile Station Equipment Identity-) es un número, generalmente único, para identificar los teléfonos 3GPP (es decir, GSM, UMTS y LTE) y iDEN, así como algunos teléfonos vía satélite. Normalmente se encuentra impreso en el interior del compartimento de la batería del teléfono, pero también se puede mostrar en la pantalla en la mayoría de teléfonos introduciendo *#06# en el marcador o junto a otra información del sistema en el menú de configuración del sistema operativo del teléfono inteligente.</string>
+<string name="Roaming">La itinerancia (-roaming-) ayuda a garantizar que un dispositivo inalámbrica para viajar (normalmente un teléfono móvil) se mantenga conectado con una red sin cortar la conexión. En las telecomunicaciones inalámbricas, la itinerancia tradicional es un término general que hace referencia a la capacidad con la que un cliente móvil realiza y recibe automáticamente llamadas de voz, envía y recibe datos o accede a otros servicios, incluidos los servicios de datos de casa, cuando viaja fuera del área de cobertura geográfica de la red de casa, mediante el uso de una red de visita. Por ejemplo, si viajáis más allá del rango del emisor de su compañía de telefonía móvil, el teléfono móvil saltará automáticamente a otro servicio de una empresa telefónica, si está disponible.</string>
+<string name="SubscriberID">La identidad internacional del suscriptor móvil o IMSI (-International Mobile Subscriber Identity-) se usa para identificar el usuario de una red móvil y es una identificación única asociada con todas las redes móviles. Almacenada como un campo de 64 bits y es enviada por el teléfono a la red. También se usa para adquirir otros detalles del móvil en el registro de ubicación local (HLR -hombre location register-) o se copia localmente en el registro de ubicación del visitante. Para evitar que los escáneres identifiquen y rastreen el abonado en la interfaz de radio, la IMSI se envía tan poco como sea posible y en su lugar se envía un TMSI generado aleatoriamente.</string>
+<string name="SIMSerial">Cada SIM es identificada internacionalmente por su identificador de la tarjeta de circuito integrado (ICCID -integrated circuit card identifier-). Los ICCID se almacenan en las tarjetas SIM y también se graban o imprimen en el cuerpo de la tarjeta SIM durante un proceso llamado personalización.
+
+\n\nEl Nombre del proveedor de servicios (SPN -Service Provider Name-). El ICCID está definido por la recomendación E.118 de la ITU-T como el número de la cuenta principal. Su diseño se basa en la ISO/IEC 7812. De acuerdo con la E.118, el número tiene hasta 22 dígitos, incluyendo un dígito de verificación calculado mediante el algoritmo de «Luhn». Sin embargo, la fase 1 del GSM definió la longitud del ICCID como de 10 octetos (20 dígitos) con una estructura específica del operador.</string>
+<string name="NetworkCountry">El código ISO de país equivalente al MCC (código de país móvil) del operador registrado actualmente.</string>
+<string name="SIMOperator">Nombre del proveedor de servicios (SPN -Service Provider Name-).</string>
+<string name="SIMprovidercode">El MCC+MNC (código del país móvil + código de red móvil) del proveedor de la SIM.</string>
+<string name="NetworkOperator">El nombre alfabético del operador de red registrado actualmente.</string>
+<string name="PhoneType">Tipos de modelo del teléfono GSM / CDMA / SIP.</string>
+<string name="Name">Nombre del modelo del sensor.</string>
+<string name="MaxRange">Intervalo máximo del sensor en la unidad del sensor.</string>
+<string name="PowerConsumption">La potencia en mA usada por éste sensor mientras está en uso.</string>
+<string name="Resolution">Resolución del sensor en la unidad del sensor.</string>
+<string name="Dimensions">Dimensiones del dispositivo. Longitud, anchura, grueso.</string>
+<string name="RAMType">Tipos de RAM usada como DDR2, DDR3, DDR4, LPDDR4X.</string>
+<string name="AccelerationX">Mide la fuerza de aceleración en m/s2 que se aplica a un dispositivo sobre los tres ejes físicos («x», «y» y «z»), incluida la fuerza de la gravedad.</string>
+<string name="AccelerationY">Mide la fuerza de aceleración en m/s2 que se aplica a un dispositivo sobre los tres ejes físicos («x», «y» y «z»), incluida la fuerza de la gravedad.</string>
+<string name="AccelerationZ">Mide la fuerza de aceleración en m/s2 que se aplica a un dispositivo sobre los tres ejes físicos («x», «y» y «z»), incluida la fuerza de la gravedad.</string>
+<string name="MinimumDelay">El retraso mínimo permitido entre dos eventos en microsegundos o cero si éste sensor sólo devuelve un valor cuando las datos cambian su medida.</string>
+<string name="Azimuth">Mide los grados de rotación que un dispositivo hace alrededor de los tres ejes físicos («x», «y» y «z»). El azimut es el ángulo entre el vector norte y la proyección perpendicular de la estrella hacia el horizonte. El acimut suele medirse en grados (°).</string>
+<string name="Roll">Mide el grado de rotación alrededor del eje lateral.</string>
+<string name="Pitch">Mide los grados de rotación alrededor del eje lateral.</string>
+<string name="MagneticfieldX">Mide el campo geomagnético ambiente para el eje X.</string>
+<string name="MagneticfieldY">Mide el campo geomagnético ambiente para el eje Y.</string>
+<string name="MagneticfieldZ">Mide el campo geomagnético ambiente para el eje Z.</string>
+<string name="Proximity">Mide la proximidad de un objeto en cm, en relación con la pantalla de visualización de un dispositivo. Éste sensor habitualmente se emplea para determinar si un auricular se encuentra en el oído de una persona.</string>
+<string name="Rotation">Mide la orientación de un dispositivo proporcionando los tres elementos del vector de rotación de los dispositivos.</string>
+<string name="RotationX">Mide la orientación de un dispositivo proporcionando los tres elementos del vector de rotación de los dispositivos.</string>
+<string name="RotationY">Mide la orientación de un dispositivo proporcionando los tres elementos del vector de rotación de los dispositivos.</string>
+<string name="RotationZ">Mide la orientación de un dispositivo proporcionando los tres elementos del vector de rotación de los dispositivos.</string>
+<string name="GravityX">Mide la fuerza de la gravedad en m/s2 que se aplica a un dispositivo sobre el eje X.</string>
+<string name="GravityY">Mide la fuerza de la gravedad en m/s2 que se aplica a un dispositivo sobre el eje Y.</string>
+<string name="GravityZ">Mide la fuerza de la gravedad en m/s2 que se aplica a un dispositivo sobre el eje Z.</string>
+<string name="RotationRateX">Mide una velocidad de rotación de los dispositivos en rad/s alrededor del eje X.</string>
+<string name="RotationRateY">Mide una velocidad de rotación de los dispositivos en rad/s alrededor del eje Y.</string>
+<string name="RotationRateZ">Mide una velocidad de rotación de los dispositivos en rad/s alrededor del eje Z.</string>
+<string name="Light">Mide el nivel de luz ambiental (iluminación) en lx.</string>
+<string name="Humidity">Mide la humedad relativa del ambiente en porcentaje (%).</string>
+<string name="Pressure">Mide la presión del aire ambiente en hPa o mbar.</string>
+<string name="Temperature">Mide la temperatura del dispositiva en grados Celsius (°C).</string>
+<string name="SOCModel">Número del modelo de SOC. Un sistema en un chip o sistema en el chip (SoC o SOC), es un circuito integrado (IC -integrated circuit-) que integra todos los componentes de un teléfono móvil, ordenador u otro sistema electrónico en un solo chip.</string>
+<string name="CPUarchitecture">Arquitectura de la CPU</string>
+<string name="CPUimplementer">Implementador de la CPU</string>
+<string name="CPUvariant">Variante de la CPU</string>
+<string name="CPUpart">Parte de la CPU</string>
+<string name="CPUrevision">Revisión de la CPU</string>
+<string name="Features">Características de la CPU</string>
+<string name="BatteryCapacity">Capacidad de la batería en miliamperios-hora (mAh).</string>
+<string name="CPUModel">Nombre del modelo de la CPU.</string>
+<string name="AndroidID">Un número de 64 bits (como una cadena hexadecimal) que se genera aleatoriamente durante el primer arranque del dispositivo y debería ser constante en el tiempo y durante la vida del dispositivo. (El valor puede cambiar si se realiza un restablecimiento de fabrica al dispositivo).</string>
+<string name="LoadAverage">En la informática de UNIX, la carga del sistema es una medida de la cantidad de trabajo computacional que realiza un sistema informático. La medida de la carga representa la medida de la carga del sistema durante un período de tiempo. Convencionalmente aparece en forma de tres números que representan la carga del sistema durante los últimos periodos de uno, cinco y quince minutos.</string>
+<string name="JavaHeap">La pila de Java es la cantidad de memoria asignada a las aplicaciones que se ejecutan en la máquina virtual de Java.</string>
+<string name="SSID">Éste es el identificador del conjunto de servicios (SSID -Service Set identifier-): una serie de 0 a 32 bytes. Se usa como identificador único para una LAN inalámbrica. Dado que éste identificador debe ser a menudo introducido manualmente en los dispositivos por un usuario humano, a menudo es una cadena legible y, por tanto, se conoce generalmente como el número de red.</string>
+<string name="BSSID">El BSSID es la dirección MAC del punto de acceso inalámbrico (WAP) generado por la combinación del identificador único de la organización de 24 bits (la identidad del fabricante) y el identificador de 24 bits que los fabricantes asignaron al chipset de radio en el WAP.</string>
+<string name="MACAddress">Una dirección de control de acceso a medios (dirección MAC) es un identificador único asignado a las interfaces de red para las comunicaciones sobre el segmento físico de la red. Las direcciones MAC se emplean como dirección de red para la mayoría de tecnologías de red IEEE 802, incluidas Ethernet y WiFi.</string>
+<string name="LinkSpeed">La velocidad máxima del enlace inalámbrico que puede proporcionar el enrutador. Es la velocidad de la conexión WLAN interna entre el dispositiva y el router, no es la velocidad de Internet.</string>
+<string name="Fingerprintsensor">El reconocimiento o autenticación de la huella dactilar se refiere al método automático de verificar una coincidencia entre dos huellas dactilares humanas. Las huellas dactilares son una de las muchas formas biométricas empleadas para identificar individuos y verificar su identidad.</string>
+<string name="CurrentMeter">La corriente instantánea de la batería en miliamperios, como un entero. Los valores positivos indican que la corriente actual de la red entra en la batería desde una fuente de carga, los valores negativos indican la salida limpia desde la batería.
+
+\n\nConsejo: veréis valores negativos grandes para usos altos de potencia como una linterna, el brillo total de la pantalla, etz. y valores positivos grandes durante la carga.</string>
+
+
+<string name="Fab">La fabricación del dispositivo semiconductor es el proceso usado para crear los circuitos integrados que existen en los dispositivos eléctricos y electrónicos cotidianos. Se trata de una secuencia con múltiples pasos fotolitográficos y procesos químicos en los que se crean gradualmente circuitos electrónicos en una oblea de material semiconductor puro. Ejemplos de 28 nm, 14 nm, 10 nm de FinFET, etz.</string>
+
+<string name="BatteryHealth">Salud de la batería como fría, sobrecalentada, buena, sobre tensión.</string>
+<string name="Sensorsize">Tamaño del sensor de la cámara, anchura X longitud.</string>
+<string name="FocalLength">La distancia entre el centro de una lente de la cámara y el de su focus.</string>
+<string name="Digitalzoom">El zoom digital es un método para hacer disminuir el ángulo de visión aparente de una imagen fotográfica o de vídeo digital. El zoom digital se consigue recortando una imagen hasta una área centrada con la misma relación de aspecto que el original, y normalmente también se interpola el resultado hasta las dimensiones del píxel del original. Se realiza de forma electrónica, sin ajustar la óptica de la cámara, y no se gana ninguna resolución óptica en el proceso.</string>
+<string name="Facedetection">La detección de caras es una tecnología informática que se emplea en una variedad de aplicaciones que identifican las caras humanas en las imágenes digitales.</string>
+<string name="MaxFacecount">El número máximo de caras detectadas simultáneamente.</string>
+<string name="Flash">Un flash es un dispositivo para la fotografía que produce un flash de luz artificial para ayudar a iluminar una escena. Un propósito importante de un flash es iluminar una escena oscura.</string>
+<string name="d_Display">Pantalla</string>
+<string name="d_Dimensions">Dimensiones</string>
+<string name="d_System_Uptime">Tiempo de actividad del sistema</string>
+<string name="d_Build_ID">ID de construcción</string>
+<string name="d_build_time">Fecha de construcción</string>
+<string name="d_total_ram">RAM total</string>
+<string name="d_free_ram">RAM libre</string>
+
+<string name="d_WiDi">WIFI</string>
+<string name="d_Removable_Storage">Almacenamiento extraíble</string>
+<string name="d_Camera_autofocus">Enfoque automático de la cámara</string>
+<string name="d_Live_TV">TV en directo</string>
+<string name="d_Live_Wallpaper">Fondo de pantalla en vivo</string>
+<string name="d_Multiple_Users">Múltiples usuarios</string>
+<string name="d_Head_Tracking">Seguimiento de la cabeza</string>
+<string name="d_VR_mode">Modo RV</string>
+<string name="d_High_VR_mode">Modo RV alta</string>
+<string name="d_Discharging">Descargando</string>
+<string name="Charging">Cargando</string>
+<string name="Battery">Batería</string>
+<string name="d_USB">USB</string>
+<string name="d_AC">CA</string>
+<string name="d_Wireless">Inalámbrico (wireless)</string>
+<string name="d_Connected">Conectado</string>
+<string name="d_Disconnected">Desconectado</string>
+<string name="d_Digital_zoom">Zoom digital</string>
+<string name="d_isosensitivity">Sensibilitat ISO</string>
+<string name="d_facedetectcount">Recuento máximo de caras</string>
+<string name="Cameramp">Tamaño de la cámara en megapíxeles</string>
+<string name="CameraResolution">La resolución de una cámara será el número de píxeles del sensor. Es decir, la cantidad de puntos de luz que puede capturar el sensor en una imagen. Por ejemplo, un sensor puede tener 4.000x3.000 píxeles de tamaño, lo que supone un sensor de 12 megapíxeles.</string>
+<string name="d_delete_topic">Suprimir el tema</string>
+<string name="d_are_you_sure">Estas seguro?</string>
+<string name="No">No</string>
+<string name="Delete">Suprimir</string>
+<string name="d_firstpostrequirment">La primera publicación de introducción como mínimo deberá contener 100 caracteres</string>
+<string name="d_FINGERPRINT">HUELLA DACTILAR</string>
+<string name="d_ACCELEROMETER">ACELERÓMETRO</string>
+<string name="d_TEMPERATURE">TEMPERATURA</string>
+<string name="d_GRAVITY">GRAVEDAD</string>
+<string name="d_GYROSCOPE">GIROSCOPIO</string>
+<string name="d_LIGHT">LUZ</string>
+<string name="d_MAGNETICFIELD">CAMPO MAGNÉTICO</string>
+<string name="d_HEARTRATE">RITMO CARDÍACO</string>
+<string name="d_PRESSURE">PRESIÓN</string>
+<string name="d_ORIENTATION">ORIENTACIÓN</string>
+<string name="d_PROXIMITY">PROXIMIDAD</string>
+<string name="d_HUMIDITY">HUMEDAD</string>
+<string name="d_ROTATION">ROTACIÓN</string>
+<string name="d_IRISSENSOR">SENSOR DEL IRIS</string>
+<string name="d_SPO2SENSOR">SENSOR DEL SPO2</string>
+<string name="d_Sensors">Sensores</string>
+<string name="d_dataspeedmonitor">Monitor de la velocidad de los datos</string>
+<string name="d_Camera">Cámara</string>
+<string name="d_AccelerationX">Aceleración X</string>
+<string name="d_AccelerationY">Aceleración Y</string>
+<string name="d_AccelerationZ">Aceleración Z</string>
+<string name="d_accelerationunit">m/s2</string>
+<string name="d_sensorName">Nombre</string>
+<string name="d_MaxRange">Intervalo máximo</string>
+<string name="d_S_Resolution">Resolución</string>
+<string name="d_microsecond">microsegundo</string>
+<string name="d_MinimumDelay">Retardo mínimo</string>
+<string name="d_mA">mA</string>
+<string name="d_PowerConsumption">Consumo de energía</string>
+<string name="d_S_Vendor">Proveedor</string>
+
+<string name="d_RotationX">Rotación X</string>
+<string name="d_RotationY">Rotación Y</string>
+<string name="d_RotationZ">Rotación Z</string>
+<string name="d_GravityX">Gravedad X</string>
+<string name="d_GravityY">Gravedad Y</string>
+<string name="d_GravityZ">Gravedad Z</string>
+<string name="d_gyroscopeunit">rad/s</string>
+<string name="d_rotationunit">rad/s</string>
+<string name="d_RotationRateX">Tasa de la rotación X</string>
+<string name="d_RotationRateY">Tasa de la rotación Y</string>
+<string name="d_RotationRateZ">Tasa de la rotación Z</string>
+<string name="d_Humidity">Humedad</string>
+<string name="d_lux">lux</string>
+<string name="d_Light">Luz</string>
+<string name="d_magneticunit">μT</string>
+<string name="d_MagneticfieldX">Campo magnético X</string>
+<string name="d_MagneticfieldY">Campo magnético Y</string>
+<string name="d_MagneticfieldZ">Campo magnético Z</string>
+<string name="d_Azimuth">Azimut</string>
+<string name="d_Pitch">Rotación adelante</string>
+<string name="d_Roll">Rotación lateral</string>
+<string name="d_Pressure">Presión</string>
+<string name="d_pressureunit">mbar</string>
+<string name="d_Proximity">Proximidad</string>
+<string name="d_cm">cm</string>
+<string name="d_Natural">Natural</string>
+<string name="d_90cc">90º en sentido antihorario</string>
+<string name="d_180c">180º en sentido horario</string>
+<string name="d_90c">90° en sentido horario</string>
+<string name="d_RotationSensor">Sensor de la rotación</string>
+<string name="d_Rotation">Rotación</string>
+<string name="d_OnTrigger">Al activar</string>
+<string name="s_Steps">Pasos</string>
+
+<!-- Strings related to Settings -->
+
+<!-- Example General settings -->
+
+
+
+<!-- Example settings for Notifications -->
+
+<string name="title_switch_preference4">Monitor persistente</string>
+<string name="summary_switch_preference4">Los servicios no se detendrán incluso cuando el dispositivo esté dormido. (No se recomienda).</string>
+<string name="d_Rating">Valoración</string>
+<string name="d_Yes">Sí</string>
+<string name="d_No">No</string>
+<string name="header_inapp">Ofertas únicas</string>
+<string name="header_subscriptions">Subscripciones</string>
+<string name="alert_no_gas">Ah, no! Estás fuera de la ola! Prueba comprando alguno!</string>
+<string name="alert_drove">Brroom, Brroom, has hecho unos cuantos kilómetros.</string>
+<string name="alert_fill_gas">Has llenado ¼ del depósito. El depósito ahora está %1$d/4 completo.</string>
+<string name="alert_error_consuming">Error mientras se consumía: %1$s</string>
+<string name="alert_already_purchased">Éste elemento ja se ha comprado</string>
+
+<string name="error_no_skus">No hemos encontrado ninguna SKU para mostrar... Comprobad vuestra conexión a Internet y aseguraos de que la Google Developer Console está correctamente configurada.</string>
+<string name="error_billing_unavailable">La facturación no está disponible. Aseguraos de que su aplicación de Google Play está correctamente configurada.</string>
+<string name="error_billing_default">La facturación no está disponible. Por favor, comprobad vuestro dispositivo.</string>
+
+<string name="button_drive">Unidad</string>
+<string name="button_purchase">Comprar</string>
+<string name="button_buy">Compra</string>
+<string name="button_own">En propiedad</string>
+<string name="button_update">Actualiza</string>
+<string name="button_change">Cambiar</string>
+<string name="button_full_tank">Depósito lleno</string>
+<string name="toast_full_tank">El depósito está lleno, por favor, usad un poco de gasolina antes de comprar.</string>
+<string name="removeads">Eliminar los anuncios</string>
+<string name="_purchases">compras</string>
+
+<string name="action_settings">Ajustamientos</string>
+<string name="premiumthemes">Temas premium</string>
+<string name="nothemes">No has comprado ningún tema. Quieres comprar?</string>
+
+<string-array name="themes_array_entries">
+    <item>Naturaleza verde</item>
+    <item>Oscuro premium</item>
+    <item>Cielo azul</item>
+    <item>Rojo radiante</item>
+</string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <string name="storediscription">El CPU X muestra la información más completa sobre el procesador, núcleo/s, velocidad, modelo, RAM, cámara, sensores, etz. Vea las especificaciones específicas de teléfonos móviles con Android.
+
+\n\nPodéis debatir con entusiastas de los teléfonos inteligentes de todo el mundo para intercambiar ideas y compartir conocimientos. Podéis preguntar o dar respuestas.
+
+
+\n\n\nCaracterísticas
+
+\n\n• Búsqueda de dispositivos: veréis las especificaciones detalladas de otros teléfonos inteligentes con Android.
+
+\n\n• Monitor de velocidad a Internet: veréis la velocidad de bajada y subida actual en las notificaciones y la velocidad combinada en la barra de estado.
+
+\n\n• Artículos: guía de cómo se hace y artículos informativos.
+
+\n\n• Foro de preguntas/respuestas: foro especial dedicado a resolver problemas y consultas.
+
+\n\n• Foro de debate: foro de debate dedicado para intercambiar ideas, compartir conocimientos relacionados con Android, teléfonos inteligentes, tecnología, etz.
+
+\n\n• Anuncios: anuncio semanal de los mejores usuarios, publicaciones, preguntas, respuestas, etz.
+
+\n\n• Elemento gráfico: un elemento gráfico semitransparente en la pantalla de inicio que muestra información rápida sobre el estado importante del dispositivo.</string>
+</resources>
